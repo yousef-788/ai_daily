@@ -1,0 +1,239 @@
+🗞️ AI Daily — 2026-07-24
+
+📰 أخبار الذكاء الاصطناعي
+
+1. *Google just redesigned the search box for the first time in 25 years — here’s why it matters more than you think.* (VentureBeat AI)
+For a quarter century, the Google search box has been one of the most recognizable interfaces in computing: a thin white rectangle, a blinking cursor, a few typed words, and a list of blue links. On T...
+https://venturebeat.com/technology/google-just-redesigned-the-search-box-for-the-first-time-in-25-years-heres-why-it-matters-more-than-you-think
+
+2. *Railway secures $100 million to challenge AWS with AI-native cloud infrastructure* (VentureBeat AI)
+Railway, a San Francisco-based cloud platform that has quietly amassed two million developers without spending a dollar on marketing, announced Thursday that it raised $100 million in a Series B fundi...
+https://venturebeat.com/infrastructure/railway-secures-usd100-million-to-challenge-aws-with-ai-native-cloud
+
+3. *Claude Code costs up to $200 a month. Goose does the same thing for free.* (VentureBeat AI)
+The artificial intelligence coding revolution comes with a catch: it's expensive.Claude Code, Anthropic's terminal-based AI agent that can write, debug, and deploy code autonomously, has captured the...
+https://venturebeat.com/infrastructure/claude-code-costs-up-to-usd200-a-month-goose-does-the-same-thing-for-free
+
+4. *Listen Labs raises $69M after viral billboard hiring stunt to scale AI customer interviews* (VentureBeat AI)
+Alfred Wahlforss was running out of options. His startup, Listen Labs, needed to hire over 100 engineers, but competing against Mark Zuckerberg's $100 million offers seemed impossible. So he spent $5,...
+https://venturebeat.com/technology/listen-labs-raises-usd69m-after-viral-billboard-hiring-stunt-to-scale-ai
+
+5. *Salesforce rolls out new Slackbot AI agent as it battles Microsoft and Google in workplace AI* (VentureBeat AI)
+Salesforce on Tuesday launched an entirely rebuilt version of Slackbot, the company's workplace assistant, transforming it from a simple notification tool into what executives describe as a fully powe...
+https://venturebeat.com/technology/salesforce-rolls-out-new-slackbot-ai-agent-as-it-battles-microsoft-and
+
+6. *Anthropic launches Cowork, a Claude Desktop agent that works in your files — no coding required* (VentureBeat AI)
+Anthropic released Cowork on Monday, a new AI agent capability that extends the power of its wildly successful Claude Code tool to non-technical users — and according to company insiders, the team bui...
+https://venturebeat.com/technology/anthropic-launches-cowork-a-claude-desktop-agent-that-works-in-your-files-no
+
+7. *Nous Research's NousCoder-14B is an open-source coding model landing right in the Claude Code moment* (VentureBeat AI)
+Nous Research, the open-source artificial intelligence startup backed by crypto venture firm Paradigm, released a new competitive programming model on Monday that it says matches or exceeds several la...
+https://venturebeat.com/technology/nous-researchs-nouscoder-14b-is-an-open-source-coding-model-landing-right-in
+
+8. *Meet the judges who will crown Australia’s next breakout startup* (TechCrunch)
+TechCrunch Startup Battlefield is coming to Australia — and we're partnering with Stripe to find the country's most exciting early-stage startups.
+https://techcrunch.com/2026/07/23/meet-the-judges-who-will-crown-australias-next-breakout-startup/
+
+9. *Mobileye CEO Amnon Shashua to step aside as company pushes into robotaxis, robotics* (TechCrunch)
+Shashua has been invited to take the chairman of the board seat.
+https://techcrunch.com/2026/07/23/mobileye-ceo-amnon-shashua-to-step-aside-as-company-pushes-into-robotaxis-robotics/
+
+10. *AMD takes on Nvidia with its Helios AI rack-scale system* (TechCrunch)
+AMD is challenging its chipmaker rival with a new rack-scale system that will start shipping to customers later this year.
+https://techcrunch.com/2026/07/23/amd-takes-on-nvidia-with-its-helios-ai-rack-scale-system/
+
+11. *Patreon lays off 20% of its workforce* (TechCrunch)
+In a memo to staff that was posted online, Conte said the company's core business is strong, but the platform has to respond to market changes and adjust its cost structure to remain stable.
+https://techcrunch.com/2026/07/23/patreon-lays-off-off-20-of-its-workforce/
+
+12. *Insurance startup Corgi reportedly raised more money at $4B — its third round in 8 weeks* (TechCrunch)
+In the AI-funding frenzy, many startups are raising back-to-back rounds at ever-increasing valuations — but even by those standards, Corgi stands out.
+https://techcrunch.com/2026/07/23/insurance-startup-corgi-reportedly-raised-more-money-at-4b-its-third-round-in-eight-weeks/
+
+13. *Tesla’s door handles may spur new US safety rules* (TechCrunch)
+The new rule-making process follows a series of incidents, including fatal ones, in which people have become stuck inside cars.
+https://techcrunch.com/2026/07/23/teslas-door-handles-may-spur-new-u-s-safety-rules/
+
+14. *Meta drops out of a major clean energy pact as its natural gas buildout accelerates* (TechCrunch)
+Meta has made significant investments in natural gas over the past year. Now it's dropping out of an industry renewable energy group.
+https://techcrunch.com/2026/07/23/meta-drops-out-of-a-major-clean-energy-pact-as-its-natural-gas-buildout-accelerates/
+
+15. *Anthropic updates Claude voice mode with more capable models* (TechCrunch)
+Claude's new voice model will let you reschedule your meeting or draft an email.
+https://techcrunch.com/2026/07/23/anthropic-updates-claude-voice-mode-with-more-capable-models/
+
+16. *AegisAI, founded by former Google security execs, lands $36M to stop AI-driven spear phishing* (TechCrunch)
+AegisAI co-founders developed AI agents that quickly analyze each message as a human would, paying attention to small anomalies that even the most elaborate checklist wouldn’t catch.
+https://techcrunch.com/2026/07/23/aegisai-founded-by-former-google-security-execs-lands-36m-to-stop-ai-driven-spear-phishing/
+
+17. *US government says Iran-linked hackers are disrupting American water and energy providers* (TechCrunch)
+An updated government advisory warns that Iranian hackers are exploiting systems used by water and energy providers.
+https://techcrunch.com/2026/07/23/us-government-says-iran-linked-hackers-are-disrupting-american-water-and-energy-providers/
+
+18. *Runway launches AI model router as generative media gets crowded* (TechCrunch)
+The Media Router is a tool that automatically selects the best image, video, or audio generation model for a request based on whether a developer prioritizes quality, speed or cost.
+https://techcrunch.com/2026/07/23/runway-bets-on-ai-model-routing-as-generative-media-gets-crowded/
+
+19. *OpenAI makes ChatGPT Health available to all US users* (TechCrunch)
+Users can also integrate their personal data from services like Apple Health, Function, and MyFitnessPal.
+https://techcrunch.com/2026/07/23/openai-makes-chatgpt-health-available-to-all-u-s-users/
+
+20. *Tesla’s robotaxis are moving in reverse* (TechCrunch)
+The number of paid robotaxi miles traveled fell 36% in the second quarter, despite expanding to new cities, according to Tesla's own figures.
+https://techcrunch.com/2026/07/23/teslas-robotaxis-are-moving-in-reverse/
+
+21. *Meta launched a new AI optimism ad set to a song about human extinction* (TechCrunch)
+David Bowie's song "Five Years," which Meta used in a supposedly inspiring advertisement, is about humans learning that they have five years left to live before the apocalypse.
+https://techcrunch.com/2026/07/23/meta-launched-a-new-ai-optimism-ad-set-to-a-song-about-human-extinction/
+
+22. *Google will now let you sign in to your account with a selfie video* (TechCrunch)
+The tech giant says selfie videos give users more options to sign in if they're ever locked out or don't have access to their usual phone or computer.
+https://techcrunch.com/2026/07/23/google-will-now-let-you-sign-in-to-your-account-with-a-selfie-video/
+
+23. *AI chip startup Etched defies skeptics, hits $10.3B valuation from big-name investors* (TechCrunch)
+Etched, founded by three Harvard dropouts, has created new chips and memory components that speed up inference on any AI model -- no GPUs required, it says.
+https://techcrunch.com/2026/07/23/ai-chip-startup-etched-defies-skeptics-hits-10-3b-valuation-from-big-name-investors/
+
+24. *Edtech platform raises $4.5M to help teach students how to vibe code* (TechCrunch)
+Imagi announced a $4.5 million seed round, with investors including Brighteye Ventures, Day One Capital, and artist Will.i.am.
+https://techcrunch.com/2026/07/23/edtech-platform-raises-4-5m-to-help-teach-students-how-to-vibe-code/
+
+25. *Nvidia is sending GPUs to the moon* (TechCrunch)
+If there's a place in the universe without GPUs, Nvidia is sending them there.
+https://techcrunch.com/2026/07/23/nvidia-is-sending-gpus-to-the-moon/
+
+26. *Google’s Gemini nears billion-user milestone* (TechCrunch)
+Gemini had over 750 million monthly users in February.
+https://techcrunch.com/2026/07/23/google-closes-in-on-another-billion-user-product-with-gemini/
+
+27. *Amazon is bringing games to Prime Video* (TechCrunch)
+Amazon is hoping the addition of games can turn Prime Video into a one-stop entertainment destination.
+https://techcrunch.com/2026/07/23/amazon-is-bringing-games-to-prime-video/
+
+🛠️ أدوات وتحديثات جديدة
+
+1. *OpenAI’s cyber test escapes the lab* (The Rundown AI)
+PLUS: Build your own AI SEO specialist with Gumloop
+https://www.therundown.ai/p/openai-cyber-test-escapes-the-lab
+
+2. *Google’s Gemini lineup has a Pro-sized hole* (The Rundown AI)
+PLUS: Sell a high-value AI workflow audit as a consultant
+https://www.therundown.ai/p/google-gemini-lineup-has-a-pro-sized-hole
+
+3. *Claude disproves an 87-year-old math problem* (The Rundown AI)
+PLUS: Make AI note-taking easier with a “Captain’s Log” setup
+https://www.therundown.ai/p/claude-disproves-an-87-year-old-math-problem
+
+4. *Anthropic's Fable survives the subscription axe* (The Rundown AI)
+PLUS: Deploy a mini-SaaS in 10 minutes with ChatGPT Sites
+https://www.therundown.ai/p/anthropic-fable-survives-the-subscription-axe
+
+5. *Moonshot’s Kimi K3 closes the frontier gap* (The Rundown AI)
+PLUS: Use OpenAI's new GPT-Live to plan any trip fast
+https://www.therundown.ai/p/moonshot-kimi-k3-closes-the-frontier-gap
+
+6. *OpenAI’s new $230 AI agent control pad* (The Rundown AI)
+PLUS: Use Manus to write better LinkedIn posts in your voice
+https://www.therundown.ai/p/openai-new-230-ai-agent-control-pad
+
+7. *Demis Hassabis puts a clock on AI oversight* (The Rundown AI)
+PLUS: Build a no-code voice agent for customer intake with Grok
+https://www.therundown.ai/p/demis-hassabis-puts-a-clock-on-ai-oversight
+
+8. *Economists, researchers put AI’s job shock on the clock* (The Rundown AI)
+PLUS: Find winning ad angles with Claude and Meta data
+https://www.therundown.ai/p/economists-researchers-put-ai-job-shock-on-the-clock
+
+9. *Apple takes OpenAI to court* (The Rundown AI)
+PLUS: Go from idea to website with ChatGPT Work + Codex
+https://www.therundown.ai/p/apple-takes-openai-to-court
+
+10. *OpenAI sends GPT-5.6 to Work* (The Rundown AI)
+PLUS: Use 60% less Fable tokens with this orchestrator setup
+https://www.therundown.ai/p/openai-sends-gpt-5-6-to-work
+
+11. *SpaceXAI, Cursor release the strongest Grok yet* (The Rundown AI)
+PLUS: Add CGI to any video with Higgsfield
+https://www.therundown.ai/p/spacexai-cursor-release-the-strongest-grok-yet
+
+12. *Meta climbs the AI image leaderboard* (The Rundown AI)
+PLUS: Run better 1-on-1s with employees using AI
+https://www.therundown.ai/p/meta-climbs-the-ai-image-leaderboard
+
+13. *The part of Claude's brain nobody built* (The Rundown AI)
+PLUS: Build any mobile app idea in 15 minutes with Replit
+https://www.therundown.ai/p/the-part-of-claude-s-brain-nobody-built
+
+14. *Meta sizes up GPT-5.5 with 'Watermelon'* (The Rundown AI)
+PLUS: Go from screenshot to bug fix with Cursor Mobile
+https://www.therundown.ai/p/meta-sizes-up-gpt-5-5-with-watermelon
+
+15. *Altman invites Washington inside the AI industry* (The Rundown AI)
+PLUS: Delegate team tasks to Claude inside Slack
+https://www.therundown.ai/p/altman-invites-washington-inside-the-ai-industry
+
+16. *Anthropic's Fable returns worldwide* (The Rundown AI)
+PLUS: Use Google’s Design.md tools to build better websites
+https://www.therundown.ai/p/anthropic-fable-returns-worldwide
+
+17. *Sonnet 5 ships as Washington frees Fable* (The Rundown AI)
+PLUS: Create winning ads with Claude in one command
+https://www.therundown.ai/p/sonnet-5-ships-as-washington-frees-fable
+
+18. *Meta's brain-reading AI leaves letters behind* (The Rundown AI)
+PLUS: Automate any manual task with Record & Replay
+https://www.therundown.ai/p/meta-brain-reading-ai-leaves-letters-behind
+
+19. *OpenAI's most powerful AI is here — but not for everyone* (The Rundown AI)
+PLUS: AI-powered movie production with Claude
+https://www.therundown.ai/p/openai-most-powerful-ai-is-here-but-not-for-everyone
+
+20. *White House reins in OpenAI's GPT-5.6* (The Rundown AI)
+PLUS: Give your AI agent a credit card (safely)
+https://www.therundown.ai/p/white-house-reins-in-openai-gpt-5-6
+
+💼 وظائف الذكاء الاصطناعي في مصر
+
+1. *Artificial Intelligence & Programming Instructor (High School)* (Wuzzuf AI Jobs)
+Cairo, Egypt | Experienced | 07/05/2026 15:26:23
+https://wuzzuf.net/jobs/p/j893do8ezolm-artificial-intelligence-programming-instructor-high-school-smart-it-cairo-egypt
+
+2. *Artificial Intelligence (AI) Engineer | Alexandria | On-site* (Wuzzuf AI Jobs)
+Alexandria, Egypt | Experienced | 06/09/2026 16:42:21
+https://wuzzuf.net/jobs/p/mac5ilzaxfvk-artificial-intelligence-ai-engineer-alexandria-on-site-akwad-alexandria-egypt
+
+3. *Senior Engineer - AI & Digital Transformation* (Wuzzuf AI Jobs)
+Cairo, Egypt | Experienced | 07/13/2026 11:37:53
+https://wuzzuf.net/jobs/p/ckefvfdqeivj-senior-engineer-ai-digital-transformation-cairo-egypt
+
+4. *Senior AI Engineer* (Wuzzuf AI Jobs)
+Cairo, Egypt | Experienced | 06/07/2026 15:10:43
+https://wuzzuf.net/jobs/p/ioh4wrztmipe-senior-ai-engineer-lavaloon-cairo-egypt
+
+5. *Data Scientist And Machine learning Engineer - Applied AI & Knowledge Sharing* (Wuzzuf AI Jobs)
+Cairo, Egypt | Entry Level | 05/31/2026 22:37:25
+https://wuzzuf.net/jobs/p/mvgfy3hj4s4u-data-scientist-and-machine-learning-engineer-applied-ai-knowledge-sharing-epsilonai-cairo-egypt
+
+6. *AI Specialist* (Wuzzuf AI Jobs)
+Sharjah, United Arab Emirates | Experienced | 06/23/2026 12:21:29
+https://wuzzuf.net/jobs/p/ktob1xirnsn5-ai-specialist-emirates-barq-alshark-alamarat-alaarby-almthd
+
+7. *AI Engineer* (Wuzzuf AI Jobs)
+Cairo, Egypt | Experienced | 07/14/2026 14:38:09
+https://wuzzuf.net/jobs/p/9lkufqqdjy1t-ai-engineer-meahco-saudi-german-health-cairo-egypt
+
+8. *Senior Data Scientist* (Wuzzuf AI Jobs)
+Cairo, Egypt | Experienced | 06/21/2026 21:08:39
+https://wuzzuf.net/jobs/p/wnkrfzbsaqkn-senior-data-scientist-egabi-fsi-cairo-egypt
+
+9. *AI Engineer* (Wuzzuf AI Jobs)
+Riyadh, Saudi Arabia | Experienced | 07/21/2026 15:01:37
+https://wuzzuf.net/saudi/jobs/p/92xpqzh4ylxm-ai-engineer-abdulaziz-alrumaih-co-riyadh-saudi-arabia
+
+10. *AI-Enhanced Full Stack Developer* (Wuzzuf AI Jobs)
+Giza, Egypt | Entry Level | 06/27/2026 12:38:31
+https://wuzzuf.net/jobs/p/clpvm3suftcy-ai-enhanced-full-stack-developer-zyntra-digital-giza-egypt
+
+11. *Senior Machine Learning Engineer* (Wuzzuf AI Jobs)
+Alexandria, Egypt | Experienced | 06/24/2026 18:03:45
+https://wuzzuf.net/jobs/p/kf5v8a4yf7j3-senior-machine-learning-engineer-techjump-alexandria-egypt
