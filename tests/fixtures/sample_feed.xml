@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>Sample AI News Feed</title>
+    <link>https://example.com</link>
+    <description>Sample feed for testing RssCollector</description>
+
+    <item>
+      <title>OpenAI releases new model</title>
+      <link>https://example.com/news/openai-new-model</link>
+      <description>A short summary about the new model release.</description>
+      <pubDate>Mon, 20 Jul 2026 10:00:00 GMT</pubDate>
+    </item>
+
+    <item>
+      <title>Google announces Gemini update</title>
+      <link>https://example.com/news/gemini-update</link>
+      <description>Details about the Gemini update.</description>
+      <pubDate>Tue, 21 Jul 2026 08:30:00 GMT</pubDate>
+    </item>
+
+    <item>
+      <!-- عنصر ناقص عمدًا: بدون رابط -->
+      <title>Incomplete news item without link</title>
+      <description>This item is intentionally missing a link.</description>
+    </item>
+  </channel>
+</rss>

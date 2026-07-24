@@ -1,0 +1,29 @@
+[
+  {
+    "name": "VentureBeat AI",
+    "type": "rss",
+    "url": "https://venturebeat.com/category/ai/feed/",
+    "category": "news"
+  },
+  {
+    "name": "TechCrunch",
+    "type": "rss",
+    "url": "https://techcrunch.com/feed/",
+    "category": "news"
+  },
+  {
+    "name": "The Rundown AI",
+    "type": "rss",
+    "url": "https://rss.beehiiv.com/feeds/2R3C6Bt5wj.xml",
+    "category": "tools"
+  },
+  {
+    "name": "Wuzzuf AI Jobs",
+    "type": "wuzzuf_jobs",
+    "url": "Artificial Intelligence",
+    "selectors": {
+      "page_size": "50"
+    },
+    "category": "jobs"
+  }
+]

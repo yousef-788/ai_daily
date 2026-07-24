@@ -1,0 +1,50 @@
+name: AI Daily
+
+# يشتغل تلقائيًا يوميًا حسب الجدول، أو يدويًا من تبويب Actions في GitHub
+# (زرار "Run workflow") لو حبيت تجرّبه فورًا بدون ما تستنى الموعد.
+on:
+  schedule:
+    # الوقت هنا بتوقيت UTC. مصر عادة UTC+2 (أو +3 وقت التوقيت الصيفي).
+    # "0 6 * * *" يعني الساعة 6 صباحًا UTC = تقريبًا 8 صباحًا بتوقيت مصر.
+    # عدّل الرقم الأول (الساعة) حسب الميعاد اللي يناسبك.
+    - cron: "0 6 * * *"
+  workflow_dispatch: {}
+
+# صلاحية الكتابة مطلوبة عشان الخطوة الأخيرة تقدر تحفظ (commit) نتيجة
+# التشغيلة (النشرة + سجل منع التكرار) في المستودع نفسه.
+permissions:
+  contents: write
+
+jobs:
+  run-ai-daily:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install project
+        run: pip install -e ".[dev]"
+
+      - name: Run AI Daily
+        env:
+          # الاتنين اختياريين: لو مش مضافين في Secrets، المشروع هيشتغل
+          # عادي بدون تلخيص AI و/أو بدون نشر فعلي في واتساب (نسخة محلية بس).
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          WAHA_BASE_URL: ${{ secrets.WAHA_BASE_URL }}
+          WAHA_API_KEY: ${{ secrets.WAHA_API_KEY }}
+          WHATSAPP_CHANNEL_ID: ${{ secrets.WHATSAPP_CHANNEL_ID }}
+        run: ai-daily
+
+      - name: Commit results back to repo
+        run: |
+          git config user.name "AI Daily Bot"
+          git config user.email "actions@github.com"
+          git add data/drafts data/seen_items.json
+          # لو مفيش تغيير فعلي (مثال: كل الأخبار كانت مكررة)، منعملش commit فاضي
+          git diff --staged --quiet || git commit -m "AI Daily: تحديث نشرة $(date -u +'%Y-%m-%d')"
+          git push
