@@ -1,0 +1,89 @@
+🗞️ AI Daily — 2026-07-25
+
+📰 أخبار الذكاء الاصطناعي
+
+1. *I tried out OpenAI’s new AI keypad — which will be fun for some coders and slightly mystifying to everyone else* (TechCrunch)
+OpenAI's fancy new AI keypad will be a lot of fun for some, while many others are probably not going to touch it.
+https://techcrunch.com/2026/07/24/i-tried-out-openais-new-ai-keypad-which-will-be-fun-for-coders-and-slightly-mystifying-to-everyone-else/
+
+2. *SpaceX launches new V3 Starlink satellites but suffers another booster failure* (TechCrunch)
+The company ticked off a few more boxes on the second Starship V3 flight, but appears to have had another issue relighting the booster's rocket engines.
+https://techcrunch.com/2026/07/24/spacex-launches-new-v3-starlink-satellites-but-suffers-another-booster-failure/
+
+3. *Prentis, new AI lab co-founded by Reid Hoffman, Mark Pincus in talks to raise $100M* (TechCrunch)
+The neolab is betting that automating routine computer tasks will soon outpace coding as AI's biggest use case.
+https://techcrunch.com/2026/07/24/prentis-new-ai-lab-co-founded-by-reid-hoffman-mark-pincus-in-talks-to-raise-100m/
+
+4. *TechCrunch Disrupt 2026’s new Smart Money Stage explores fintech, payments, AI, and everything between* (TechCrunch)
+Money has evolved into far more than the cash in your wallet or your bank account. And at TechCrunch Disrupt 2026, we’re devoting an entire stage to that progression.
+https://techcrunch.com/2026/07/24/techcrunch-disrupt-2026s-new-smart-money-stage-explores-fintech-payments-ai-and-everything-between/
+
+5. *Vietnam is looking to restrict social media for kids; here are the growing number of other countries doing the same* (TechCrunch)
+Australia was the first country to issue a ban in late 2025, aiming to reduce the pressures and risks that young users may face on social media, including cyberbullying, social media addiction, and ex...
+https://techcrunch.com/2026/07/24/social-media-ban-children-countries-list/
+
+6. *Waymo reportedly mulling a breakup with Uber* (TechCrunch)
+The contract between the two companies ends in May 2028, Uber told TechCrunch.
+https://techcrunch.com/2026/07/24/waymo-reportedly-mulling-a-breakup-with-uber/
+
+7. *Volkswagen engineers charged with insider trading tied to Rivian joint venture* (TechCrunch)
+The indictment, which was unsealed Friday, alleges the Volkswagen engineers used confidential insider information to buy stock in Rivian.
+https://techcrunch.com/2026/07/24/volkswagen-engineers-charged-with-insider-trading-tied-to-rivian-joint-venture/
+
+8. *Why Cognition bought Poke: AI personality is becoming a competitive advantage* (TechCrunch)
+The acquisition brings Poke’s conversational style and interaction model to Cognition’s coding agent Devin, reflecting a growing belief that how AI assistants interact with users is as important as th...
+https://techcrunch.com/2026/07/24/why-cognition-bought-poke-ai-personality-is-becoming-a-competitive-advantage/
+
+9. *US accuses American of allegedly wiping his phone using a ‘duress’ password during border search* (TechCrunch)
+A U.S. citizen has asked a court to throw out the government's claim that he gave over a passcode to border authorities that wiped his phone's data, opening up fresh questions about a person's constit...
+https://techcrunch.com/2026/07/24/us-accuses-american-of-allegedly-wiping-his-phone-using-a-duress-password-during-border-search/
+
+10. *Anduril reportedly in talks to raise funding at $100B valuation, more than 3x last year’s mark* (TechCrunch)
+Anduril is said to be raising a new round of funding that may push its valuation up to about $100 billion, per Reuters.
+https://techcrunch.com/2026/07/24/anduril-reportedly-in-talks-to-raise-funding-at-100b-valuation-more-than-3x-last-years-mark/
+
+11. *Build in public, fail in public: what it’s like to be a founder under 20 right now* (TechCrunch)
+AI tools have democratized the opportunity to build, shortening the timelines of success and enabling more young people to start successful companies without stepping foot inside a Big Tech company.
+https://techcrunch.com/2026/07/24/build-in-public-fail-in-public-what-its-like-to-be-a-founder-under-20-right-now/
+
+12. *Anthropic launches Opus 5* (TechCrunch)
+Opus 5 will be both cheaper and less restrictive than Fable, likely making it preferable in most use cases.
+https://techcrunch.com/2026/07/24/anthropic-launches-opus-5/
+
+13. *India’s move against Jack Dorsey’s Bitchat sparks legal debate* (TechCrunch)
+The offline messaging app surged in popularity in India amid protests in New Delhi.
+https://techcrunch.com/2026/07/24/indias-move-against-jack-dorseys-bitchat-sparks-legal-debate/
+
+14. *OpenAI’s own model went rogue before Kimi had Wall Street sweating* (TechCrunch)
+Chinese AI lab Moonshot’s open model Kimi went viral this week for reasons that had less to do with the model itself and more to do with how the U.S. AI industry reacted to it. Meanwhile, an unrelease...
+https://techcrunch.com/video/openais-own-model-went-rogue-before-kimi-had-wall-street-sweating/
+
+15. *Sam Altman’s biometric startup World raises $52.5M via crypto sale* (TechCrunch)
+Sam Altman's side project — which seeks to scan the world's eyeballs and turn them into unique digital identifiers — has raised some fresh cash through a crypto sale.
+https://techcrunch.com/2026/07/24/sam-altmans-biometric-startup-world-raises-52-5-million-via-crypto-sale/
+
+16. *As US weighs response to Chinese AI, industry urges against broad open-weight restrictions* (TechCrunch)
+AI companies, including Nvidia and Mistral, urge policymakers to avoid broad restrictions on open-weight AI models as Washington debates responses to Chinese AI and alleged model distillation.
+https://techcrunch.com/2026/07/24/as-us-weighs-response-to-chinese-ai-industry-urges-against-broad-open-weight-restrictions/
+
+17. *Rivian sues the US government for ‘full refund’ of Trump tariffs* (TechCrunch)
+The automaker joins a long line of companies seeking such refunds. In April, Rivian CFO Claire McDonough said she expected the company stood to reap a refund in the "tens of millions of dollars."
+https://techcrunch.com/2026/07/24/rivian-sues-the-us-government-for-full-refund-of-trump-tariffs/
+
+18. *Bluesky’s AI assistant Attie expands into an open social research tool* (TechCrunch)
+Users can now ask Attie questions about news, trends, and conversations on Bluesky and other apps on the AT Protocol.
+https://techcrunch.com/2026/07/24/blueskys-ai-assistant-attie-expands-into-an-open-social-research-tool/
+
+19. *Midjourney acquired the astrology app Co-Star* (TechCrunch)
+The AI lab Midjourney continues to expand its purview beyond image and video generation.
+https://techcrunch.com/2026/07/24/midjourney-acquired-the-astrology-app-co-star/
+
+20. *OpenAI’s new voice mode makes it to the ChatGPT desktop app* (TechCrunch)
+ChatGPT Voice on desktop can work with both ChatGPT Work and Codex to complete tasks and control agents.
+https://techcrunch.com/2026/07/24/openais-new-voice-mode-makes-it-to-the-chatgpt-desktop-app/
+
+🛠️ أدوات وتحديثات جديدة
+
+1. *Black Forest Labs teaches video AI to run robots* (The Rundown AI)
+PLUS: Edit videos faster with AI (for non-editors)
+https://www.therundown.ai/p/black-forest-labs-teaches-video-ai-to-run-robots
