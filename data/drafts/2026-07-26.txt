@@ -1,0 +1,31 @@
+🗞️ AI Daily — 2026-07-26
+
+📰 أخبار الذكاء الاصطناعي
+
+1. *Monday.com is the latest tech company to blame AI for layoffs — here are 20 others* (TechCrunch)
+A running look — in reverse chronological order — at the bigger tech companies that have announced significant layoffs this year with AI as a stated factor.
+https://techcrunch.com/2026/07/25/the-running-list-major-tech-layoffs-in-2026-where-employers-cited-ai/
+
+2. *Warner Bros. lawsuit accuses Amazon of illegally poaching executives* (TechCrunch)
+The lawsuit will likely renew debates about whether term employment agreements are enforceable under California. law
+https://techcrunch.com/2026/07/25/warner-bros-lawsuit-accuses-amazon-of-illegally-poaching-executives/
+
+3. *The hacker who humiliated spyware makers and was never caught* (TechCrunch)
+An awe-inspiring hacktivist who hacked two controversial government spyware makers may be the most prolific hacker to have never gotten caught. What do we know about Phineas Fisher?
+https://techcrunch.com/2026/07/25/the-hacker-who-humiliated-spyware-makers-and-was-never-caught/
+
+4. *Elon Musk’s Boring Company reportedly raising funding at a $20 billion valuation* (TechCrunch)
+Elon Musk's tunneling startup is reportedly in talks for a major new funding round.
+https://techcrunch.com/2026/07/25/elon-musks-boring-company-reportedly-raising-funding-at-a-20-billion-valuation/
+
+5. *Kalshi demands Netflix take down trailer for ‘Prediction Games’ documentary* (TechCrunch)
+Kalshi claims the trailer is “defamatory” and contains “both fabricated documents and false and misleading statements.”
+https://techcrunch.com/2026/07/25/kalshi-demands-netflix-take-down-trailer-for-prediction-games-documentary/
+
+6. *Librarians are hosting viral ‘Avoiding AI’ workshops for people who are fed up with Big Tech* (TechCrunch)
+At libraries around the country, "Avoiding AI" workshops have elicited unprecedented demand.
+https://techcrunch.com/2026/07/25/librarians-are-hosting-viral-avoiding-ai-workshops-for-people-who-are-fed-up-with-big-tech/
+
+7. *One fallen power line exposed a growing AI data center problem. Here’s how to fix it.* (TechCrunch)
+A close call in Northern Virginia revealed just how poorly data centers respond to grid disruptions. Here's how to fix the problem.
+https://techcrunch.com/2026/07/25/one-fallen-power-line-exposed-a-growing-ai-data-center-problem-heres-how-to-fix-it/
