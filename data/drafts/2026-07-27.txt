@@ -1,0 +1,39 @@
+🗞️ AI Daily — 2026-07-27
+
+📰 أخبار الذكاء الاصطناعي
+
+1. *Are brain waves the next unlock for physical AI?* (TechCrunch)
+Forget YouTube videos—frontier physical AI models need multiple camera angles, dense annotation, and soon, brain wave readings.
+https://techcrunch.com/2026/07/26/are-brain-waves-the-next-unlock-for-physical-ai/
+
+2. *Can Apple make smart glasses that aren’t a constant privacy threat?* (TechCrunch)
+As Apple prepares to launch its first smart glasses, the company may also be wrestling with how to address consumer privacy concerns.
+https://techcrunch.com/2026/07/26/can-apple-make-smart-glasses-that-arent-a-constant-privacy-threat/
+
+3. *Making sense of the panic over Chinese AI* (TechCrunch)
+On the latest episode of Equity, we discussed why Moonshot AI's Kimi seemed to panic Silicon Valley and Wall Street.
+https://techcrunch.com/2026/07/26/making-sense-of-the-panic-over-chinese-ai/
+
+4. *Inside one London founder house rewriting the founder-house rules* (TechCrunch)
+How one founder house is betting work-life balance can beat burnout .
+https://techcrunch.com/2026/07/26/inside-one-london-founder-house-rewriting-the-founder-house-rules/
+
+5. *Hugging Face CEO calls for ‘radical transparency’ after ‘unprecedented’ OpenAI hack* (TechCrunch)
+"The first autonomous agent cyberattack is an unprecedented event. It deserves an unprecedented response!"
+https://techcrunch.com/2026/07/26/hugging-face-ceo-calls-for-radical-transparency-after-unprecedented-openai-hack/
+
+6. *TechCrunch Mobility: Uber bets on its former CEO* (TechCrunch)
+Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it.
+https://techcrunch.com/2026/07/26/techcrunch-mobility-uber-bets-on-its-former-ceo/
+
+🛠️ أدوات وتحديثات جديدة
+
+1. *Anthropic's Opus 5 surprise* (The Rundown AI)
+PLUS: Automate tasks with Claude’s ‘Record a Skill’ feature
+https://www.therundown.ai/p/anthropic-opus-5-surprise
+
+💼 وظائف الذكاء الاصطناعي في مصر
+
+1. *AI Engineer* (Wuzzuf AI Jobs)
+Riyadh, Saudi Arabia | Entry Level | 07/26/2026 13:56:54
+https://wuzzuf.net/saudi/jobs/p/u1oh5aazitx1-ai-engineer-alabtkarat-altkny-riyadh-saudi-arabia
