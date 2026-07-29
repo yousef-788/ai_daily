@@ -1,0 +1,85 @@
+🗞️ AI Daily — 2026-07-29
+
+📰 أخبار الذكاء الاصطناعي
+
+1. *Cyera agrees to acquire Oasis Security for $1B to safeguard proliferating AI agents* (TechCrunch)
+The deal is Cyera's third acquisition this year.
+https://techcrunch.com/2026/07/28/cyera-agrees-to-acquire-oasis-security-for-1b-to-safeguard-proliferating-ai-agents/
+
+2. *Bot-detection startup Spur nabs $200M from Insight* (TechCrunch)
+Spur Intelligence has raised a $200 million round from Insight Partners for its tech that can identify legit human traffic from bots.
+https://techcrunch.com/2026/07/28/bot-detection-startup-spur-nabs-200m-from-insight/
+
+3. *MCP startup Runlayer accuses Rippling of stealing its product idea* (TechCrunch)
+Runlayer is suing Rippling after Rippling evaluated the startup's MCP gateway product and then opted to build one itself.
+https://techcrunch.com/2026/07/28/mcp-startup-runlayer-accuses-rippling-of-stealing-its-product-idea/
+
+4. *Sam Altman is ready to decelerate* (TechCrunch)
+His change of position comes after "the first security incident that I have felt very viscerally."
+https://techcrunch.com/2026/07/28/sam-altman-is-ready-to-decelerate/
+
+5. *Ozlo’s Sleepbuds 2 build on Bose’s sleep earbud legacy* (TechCrunch)
+Ozlo’s first major update to its sleep earbuds introduces longer battery life, improved connectivity, enhanced audio, and new sleep features as the startup continues the product line once abandoned by...
+https://techcrunch.com/2026/07/28/ozlos-sleepbuds-2-build-on-boses-sleep-earbud-legacy/
+
+6. *The robot NASA hired to lift a orbital telescope tumbled out of control* (TechCrunch)
+According to NASA, two of the three reaction wheels that control the spacecraft's alignment have failed, and there are problems with one of the spacecraft's thruster systems.
+https://techcrunch.com/2026/07/28/the-robot-nasa-hired-to-lift-a-orbital-telescope-is-tumbling-out-of-control/
+
+7. *Waymo, robotaxi operators face fresh scrutiny over emergency response failures* (TechCrunch)
+Rep. Kevin Mullin (D-California ) has proposed a bill that would direct federal regulators to establish minimum national safety standards for autonomous vehicle operators.
+https://techcrunch.com/2026/07/28/waymo-robotaxi-operators-face-fresh-scrutiny-over-emergency-response-failures/
+
+8. *eBay reaches $56M settlement with e-commerce newsletter writers it terrorized in 2019* (TechCrunch)
+Ina and David Steiner inspired the ire of high-level eBay executives after occasionally criticizing the company in their newsletter. In 2019, a plot was concocted to intimidate the couple into halting...
+https://techcrunch.com/2026/07/28/ebay-reaches-56m-settlement-with-e-commerce-newsletter-writers-it-terrorized-in-2019/
+
+9. *These App Store hidden gems prove there’s still room for great software in the AI era* (TechCrunch)
+Despite predictions that AI agents could make traditional apps obsolete, developers are shipping new software faster than ever. From smarter bookmarking tools and neighborhood marketplaces to digital...
+https://techcrunch.com/2026/07/28/these-app-store-hidden-gems-prove-theres-still-room-for-great-software-in-the-ai-era/
+
+10. *HBO Max embraces vertical video with a new ‘Shorts’ feed* (TechCrunch)
+HBO Max, like other streaming platforms, is rethinking content discovery as large libraries are making it hard for viewers to find something to watch and as audiences become accustomed to short-form c...
+https://techcrunch.com/2026/07/28/hbo-max-embraces-vertical-video-with-a-new-shorts-feed/
+
+11. *Saudi prince buys 5% stake in Lucid Motors* (TechCrunch)
+The investment comes after speculation that Saudi Arabia may take Lucid Motors private -- which the EV maker has denied.
+https://techcrunch.com/2026/07/28/saudi-prince-buys-5-stake-in-lucid-motors/
+
+12. *Data centers may face temporary power cuts to prevent blackouts on largest US grid* (TechCrunch)
+The decision arrives as the breakneck pace of data center construction has grid operators scrambling to generate power.
+https://techcrunch.com/2026/07/28/data-centers-may-face-temporary-power-cuts-to-prevent-blackouts-on-largest-us-grid/
+
+13. *PayPal leaves the door open to a higher takeover offer following earnings beat* (TechCrunch)
+After reporting better-than-expected Q2 results, PayPal said it remains focused on its AI-driven turnaround, but would consider a deal that creates more value for shareholders.
+https://techcrunch.com/2026/07/28/paypal-leaves-the-door-open-to-a-higher-takeover-offer-following-earnings-beat/
+
+14. *Elon Musk’s X Money app is rolling out in the US* (TechCrunch)
+Users get an X Visa debit card, which they can immediately add to Apple Pay and use to make instant peer-to-peer transfers within the app without fees or limits.
+https://techcrunch.com/2026/07/28/elon-musks-x-money-app-is-rolling-out-in-the-u-s/
+
+15. *WhatsApp now lets you make calls using its web app* (TechCrunch)
+Similar to the smartphone and desktop apps, the web app will support calling features such as screen-sharing and reactions.
+https://techcrunch.com/2026/07/28/whatsapp-now-lets-you-make-calls-using-its-web-app/
+
+16. *Fish Audio raises $52M seed to build AI voice models for creators and enterprises* (TechCrunch)
+Since launching last year, the startup today has more than 8 million people using the open source or hosted version of its models, and now generates annual recurring revenue of $21 million.
+https://techcrunch.com/2026/07/28/fish-audio-raises-50m-seed-to-build-ai-voice-models-for-creators-and-enterprises/
+
+17. *Apple launches ‘Upgrade’ device leasing program in partnership with Klarna* (TechCrunch)
+The rollout of the program comes as Apple has been struggling with supply chain issues related to "RAMageddon," which refers to the industry-wide shortage of memory chips that is driving up the price...
+https://techcrunch.com/2026/07/28/apple-launches-upgrade-device-leasing-program-in-partnership-with-klarna/
+
+18. *Recursive Superintelligence signs $410M compute deal with Amazon* (TechCrunch)
+Recursive’s emphasis on self-improving AI systems means much of the budget that would traditionally go toward headcount and operations is put straight into compute, as the company seeks to automate it...
+https://techcrunch.com/2026/07/28/recursive-superintelligence-signs-400-compute-deal-with-amazon/
+
+19. *Granola launches an Apple Watch app* (TechCrunch)
+AI note-taking app Granola is launching an app for the Apple Watch in hopes that its users will want to record meetings and take notes without using their smartphones.
+https://techcrunch.com/2026/07/28/granola-launches-an-apple-watch-app/
+
+🛠️ أدوات وتحديثات جديدة
+
+1. *Moonshot lets history's largest open model loose* (The Rundown AI)
+PLUS: Make precise edits on real product photos with AI
+https://www.therundown.ai/p/moonshot-lets-history-largest-open-model-loose
