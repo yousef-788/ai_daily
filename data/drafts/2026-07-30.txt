@@ -1,0 +1,89 @@
+🗞️ AI Daily — 2026-07-30
+
+📰 أخبار الذكاء الاصطناعي
+
+1. *Microsoft is openly competing with OpenAI, Anthropic more than ever* (TechCrunch)
+Microsoft pitched its own homegrown AI models, harnesses, and even a Mythos competitor on Wednesday, telling Wall Street it plans for continued growth.
+https://techcrunch.com/2026/07/29/microsoft-is-openly-competing-with-openai-anthropic-more-than-ever/
+
+2. *Mark Zuckerberg predicts that billions of people will have personal AI agents in five years* (TechCrunch)
+As Meta pours billions into AI infrastructure and agents, Zuckerberg is working to convince investors that the payoff will be worth the price.
+https://techcrunch.com/2026/07/29/mark-zuckerberg-predicts-that-billions-of-people-will-have-personal-ai-agents-in-five-years/
+
+3. *Microsoft logs $3.2B from Anthropic investment, but OpenAI was a mixed bag* (TechCrunch)
+When Microsoft reported killer fourth-quarter earnings for its fiscal 2026 year (which ended June 30), it tucked in an interesting little tidbit about how its investments in the two biggest, and compe...
+https://techcrunch.com/2026/07/29/microsoft-logs-3-2b-from-anthropic-investment-but-openai-was-a-mixed-bag/
+
+4. *Zuckerberg says Meta’s enterprise AI opportunity extends beyond agents* (TechCrunch)
+On the company’s second-quarter earnings call Wednesday, CEO Mark Zuckerberg said Meta sees a “large enterprise opportunity” spanning AI agents, APIs, compute, and internal software.
+https://techcrunch.com/2026/07/29/zuckerberg-says-metas-enterprise-ai-opportunity-extends-beyond-agents/
+
+5. *Discover what’s next for AI, from the SaaS reckoning to the agent security gap, at TechCrunch Disrupt 2026* (TechCrunch)
+At TechCrunch Disrupt 2026, the AI Stage is back to dig into the single hottest topic in the community for the past few years, presented by Google for Startups.
+https://techcrunch.com/2026/07/29/discover-whats-next-for-ai-from-the-saas-reckoning-to-the-agent-security-gap-at-techcrunch-disrupt-2026/
+
+6. *Thinking Machines co-founder Lilian Weng left the company citing health reasons, then joined OpenAI* (TechCrunch)
+Weng previously served as the VP of AI Safety Research at OpenAI.
+https://techcrunch.com/2026/07/29/thinking-machines-co-founder-lilian-weng-left-the-company-citing-health-reasons-then-joined-openai/
+
+7. *Winamp aims for a comeback with a new music player powered by Deezer* (TechCrunch)
+Winamp is preparing to relaunch with a Deezer-powered premium music service, betting its nostalgic brand and a new all-in-one music player can stand out in today’s crowded streaming market.
+https://techcrunch.com/2026/07/29/winamp-aims-for-a-comeback-with-a-new-music-player-powered-by-deezer/
+
+8. *The Hugging Face break-in explained* (TechCrunch)
+Another way to think about the whole thing is to picture a bear at a campsite. (Really, we are going there.)
+https://techcrunch.com/2026/07/29/the-hugging-face-ai-break-in-as-told-through-an-increasingly-committed-bear-metaphor/
+
+9. *Claude Opus 5 became downright ruthless when tasked with running a vending machine* (TechCrunch)
+Andon Labs' latest vending machine simulation shows Opus 5 lied and colluded its way to become the best AI capitalist ever.
+https://techcrunch.com/2026/07/29/claude-opus-5-became-downright-ruthless-when-tasked-with-running-a-vending-machine/
+
+10. *Sorry, haters. Ferrari’s first EV is doing just fine* (TechCrunch)
+To the horror of commenters across the internet, the Ferrari Luce appears to be a sales success.
+https://techcrunch.com/2026/07/29/sorry-haters-ferraris-first-ev-is-doing-just-fine/
+
+11. *Waymo robotaxis are starting to return to freeways* (TechCrunch)
+The freeway pause — and its restart — comes amid increased scrutiny into Waymo and other robotaxi operators, particularly over how these self-driving vehicles behave in certain high-traffic situations...
+https://techcrunch.com/2026/07/29/waymo-robotaxis-are-starting-to-return-to-freeways/
+
+12. *US government bans new foreign-made humanoids, robot dogs, and solar inverters, citing risks to national security* (TechCrunch)
+The ban largely affects U.S. imports from China, which currently dominates the global market for making humanoid robots and solar inverters.
+https://techcrunch.com/2026/07/29/us-government-bans-new-foreign-made-humanoids-robot-dogs-and-solar-inverters-citing-risks-to-national-security/
+
+13. *Google brings its age-assurance technology to Android developers worldwide* (TechCrunch)
+Google is expanding its Play Age Signals API, giving Android developers a privacy-preserving way to tailor experiences based on users’ age ranges.
+https://techcrunch.com/2026/07/29/google-is-rolling-out-its-age-assurance-tech-for-apps-worldwide-by-year-end/
+
+14. *Elon Musk’s X settles multiyear legal battle with the World Federation of Advertisers* (TechCrunch)
+X sued the WFA in 2024 for conducting what it called a "systematic illegal boycott" of the platform after it saw a decline in advertising revenue following Musk's $44 billion takeover of the social ne...
+https://techcrunch.com/2026/07/29/elon-musks-x-settles-multiyear-legal-battle-with-the-world-federation-of-advertisers/
+
+15. *Hint, a new AI startup co-founded by Martha Stewart, offers an AI assistant for homeowners* (TechCrunch)
+AI home management startup Hint, co-founded by Martha Stewart, wants to become an “AI for your home,” combining property records, maintenance schedules, home documents, and an AI assistant into a sing...
+https://techcrunch.com/2026/07/29/hint-a-new-ai-startup-co-founded-by-martha-stewart-offers-an-ai-assistant-for-homeowners/
+
+16. *Perplexity employee who worked on Comet launches an AI browser aimed at knowledge work* (TechCrunch)
+Polar has come out with an AI-first browser aimed at knowledge workers, and it has now raised a $5.7 million seed round led by Madrona.
+https://techcrunch.com/2026/07/29/perplexity-employee-who-worked-on-comet-launches-an-ai-browser-aimed-at-knowledge-work/
+
+17. *Encore AI raises $30M to build AI agents that learn from customer calls* (TechCrunch)
+The startup analyzes calls, messages, and CRM data to identify effective sales techniques and turn them into playbooks for AI agents.
+https://techcrunch.com/2026/07/29/encore-ai-raises-30m-to-build-ai-agents-that-learn-from-customer-calls/
+
+18. *‘No one’s making a phone like this’: Light’s co-founders on building for the anti-smartphone generation* (TechCrunch)
+With the Light Phone, Kaiwei Tang and Joe Hollier have spent over a decade exploring the value of simplicity in our relationship to technology, partnering along the way with players like Andrew Yang,...
+https://techcrunch.com/video/no-ones-making-a-phone-like-this-lights-co-founders-on-building-for-the-anti-smartphone-generation/
+
+19. *DoorDash is building its own drone delivery business* (TechCrunch)
+DoorDash has received FAA approval to operate a commercial drone delivery service in the United States.
+https://techcrunch.com/2026/07/29/doordash-is-building-its-own-drone-delivery-business/
+
+20. *Fast Metals is treating waste with more waste to extract critical minerals* (TechCrunch)
+Aluminum production has saddled the world with billions of tons of caustic waste. One startup has a plan to clean it up and turn a profit.
+https://techcrunch.com/2026/07/29/fast-metals-is-treating-waste-with-more-waste-to-extract-critical-minerals/
+
+🛠️ أدوات وتحديثات جديدة
+
+1. *1,000+ frontier staffers ask for an AI brake pedal* (The Rundown AI)
+PLUS: Build interactive lead magnets with Canva Code
+https://www.therundown.ai/p/1000-frontier-staffers-ask-for-an-ai-brake-pedal
