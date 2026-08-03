@@ -1,0 +1,29 @@
+🗞️ AI Daily — 2026-08-03
+
+📰 أخبار الذكاء الاصطناعي
+
+1. *The global memory shortage hits the MacBook Air* (TechCrunch)
+The global memory chip shortage appears to be affecting the availability of Apple’s most popular Mac.
+https://techcrunch.com/2026/08/02/the-global-memory-shortage-hits-the-macbook-air/
+
+2. *Sam Altman and AI’s decel debate* (TechCrunch)
+On the latest episode of Equity, we discuss why Sam Altman has calling on the industry to "pace the rate of AI development."
+https://techcrunch.com/2026/08/02/sam-altman-and-ais-decel-debate/
+
+3. *Malaysia is reportedly shutting down Balaji Srinivasan’s Network School* (TechCrunch)
+Let's see how this "frontier community for techno-optimists" is doing ...
+https://techcrunch.com/2026/08/02/malaysia-is-reportedly-shutting-down-balaji-srinivasans-network-school/
+
+4. *TechCrunch Mobility: Two roads diverged — for robotaxis* (TechCrunch)
+Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it.
+https://techcrunch.com/2026/08/02/techcrunch-mobility-two-roads-diverged-for-robotaxis/
+
+5. *These App Store hidden gems prove there’s still room for great software in the AI era* (TechCrunch)
+Despite predictions that AI agents could make traditional apps obsolete, developers are shipping new software faster than ever. From smarter bookmarking tools and neighborhood marketplaces to digital...
+https://techcrunch.com/2026/08/02/these-app-store-hidden-gems-prove-theres-still-room-for-great-software-in-the-ai-era/
+
+🛠️ أدوات وتحديثات جديدة
+
+1. *OpenAI's 'Astra' solves 10 long-standing math problems* (The Rundown AI)
+PLUS: Run your workday by voice with ChatGPT
+https://www.therundown.ai/p/openai-astra-solves-10-long-standing-math-problems
