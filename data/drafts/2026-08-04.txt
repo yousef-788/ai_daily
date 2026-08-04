@@ -1,0 +1,71 @@
+🗞️ AI Daily — 2026-08-04
+
+📰 أخبار الذكاء الاصطناعي
+
+1. *After killer quarter, Palantir CEO Alex Karp calls AI industry ‘Marxist’* (TechCrunch)
+After a quarter that delivered $1 billion in profit, Palantir CEO Alex Karp on Monday once again warned that AI frontier labs are too untrustworthy for enterprises.
+https://techcrunch.com/2026/08/03/after-killer-quarter-palantir-ceo-alex-karp-calls-ai-industry-marxist/
+
+2. *Snap CEO sidesteps Specs preorder questions on Q2 earnings call* (TechCrunch)
+When asked about product-market fit, Spiegel said he believes mass-market consumer adoption won't occur until the end of the decade.
+https://techcrunch.com/2026/08/03/snap-ceo-sidesteps-specs-pre-order-questions-on-q2-earnings-call/
+
+3. *AWS is helping vibe-coding startup Superblocks, and the implications are big* (TechCrunch)
+AWS now allows vibe-coding tool Superblocks to be embedded into the private clouds of AWS customers. It's another step toward decoupling apps from models.
+https://techcrunch.com/2026/08/03/aws-is-helping-vibe-coding-startup-superblocks-and-the-implications-are-big/
+
+4. *Who’s legally to blame for Anthropic and OpenAI’s autonomous AI hacks? It’s complicated* (TechCrunch)
+OpenAI and Anthropic admitted that their unreleased AI models escaped their sandboxes and hacked several companies in unprecedented cyberattacks. Who is legally to blame? Should prosecutors charge the...
+https://techcrunch.com/2026/08/03/whos-legally-to-blame-for-anthropic-and-openais-autonomous-ai-hacks-its-complicated/
+
+5. *Design Arena creators raise $7.9 million to bring taste to AI models* (TechCrunch)
+Design Arena is used by 5.3 million people around the world, providing critical human evaluations to frontier labs.
+https://techcrunch.com/2026/08/03/designarena-creators-raise-7-9-million-to-bring-taste-to-ai-models/
+
+6. *Influencers draw backlash for attending OpenAI’s first luxury trip* (TechCrunch)
+OpenAI’s first-ever influencer brand trip is sparking online backlash as tensions over the use of AI continue.
+https://techcrunch.com/2026/08/03/influencers-draw-backlash-for-attending-openais-first-luxury-trip/
+
+7. *Apple challenges UK government’s latest demand for iCloud backdoor: report* (TechCrunch)
+Apple has appealed a new legal demand by the U.K. government, which critics say could threaten the privacy rights of users all over the world.
+https://techcrunch.com/2026/08/03/apple-challenges-uk-governments-latest-demand-for-icloud-backdoor-report/
+
+8. *Apple finally fixed Siri. So why does it feel anticlimactic?* (TechCrunch)
+Apple’s long-awaited AI overhaul finally makes Siri the assistant it was always supposed to be. Yet it arrives at a moment when simply being a capable AI assistant no longer feels revolutionary.
+https://techcrunch.com/2026/08/03/apple-finally-fixed-siri-so-why-does-it-feel-anticlimactic/
+
+9. *Outernet turns your saved posts into real-world adventures* (TechCrunch)
+Founded by the creators of viral offline events like San Francisco’s citywide scavenger hunt Pursuit, Outernet's app helps users save places and events they discover online, then nudges them to actual...
+https://techcrunch.com/2026/08/03/outernet-turns-your-saved-posts-into-real-world-adventures/
+
+10. *WhatsApp says it is fixing an issue that disabled several accounts* (TechCrunch)
+Meta says it’s restoring access to WhatsApp accounts that were mistakenly flagged and placed “under review” after users reported being unexpectedly locked out of the messaging app.
+https://techcrunch.com/2026/08/03/whatsapp-says-it-is-is-fixing-an-issue-that-disabled-several-accounts/
+
+11. *Sequoia’s Shaun Maguire leads $1B round for nuclear startup Valar Atomics* (TechCrunch)
+Valar Atomics raised $1 billion at a $6 billion valuation after signing a development deal with Nvidia in June.
+https://techcrunch.com/2026/08/03/sequoias-shaun-maguire-leads-1b-round-for-nuclear-startup-valar-atomics/
+
+12. *Base Power raises another $1B to save the grid using backyard batteries* (TechCrunch)
+Base Power’s $1 billion round will help the startup ramp production of its home batteries.
+https://techcrunch.com/2026/08/03/base-power-raises-another-1b-to-save-the-grid-using-backyard-batteries/
+
+13. *Congress’ favorite AI tool? ChatGPT* (TechCrunch)
+House spending records show OpenAI's ChatGPT dominates paid AI use on Capitol Hill, with congressional offices relying on the chatbot to draft memos, summarize legislation, and assist constituent comm...
+https://techcrunch.com/2026/08/03/congresss-favorite-ai-tool-chatgpt/
+
+14. *Wispr Flow is preparing to launch a meeting notetaker, updated terms suggest* (TechCrunch)
+Wispr Flow's new terms of service indicate it will introduce a notetaker that generates meeting summaries and action items.
+https://techcrunch.com/2026/08/03/wispr-flow-is-preparing-to-launch-a-meeting-notetaker-updated-terms-suggest/
+
+15. *Horizon3 hits $2 billion valuation with $250M Series E as AI threats escalate* (TechCrunch)
+Cybersecurity startup Horizon3 raised $250 million at a $2 billion valuation as companies want continuous, AI-powered security validation instead of annual pen testing.
+https://techcrunch.com/2026/08/03/horizon3-hits-2-billion-valuation-with-250m-series-e-as-ai-threats-escalate/
+
+16. *Samsung bans smart TV apps that share users’ internet connections with strangers* (TechCrunch)
+New security research offers a rare view inside residential proxy networks, which rely on apps that share a person's internet connection with someone else.
+https://techcrunch.com/2026/08/03/samsung-bans-smart-tv-apps-that-share-users-internet-connections-with-strangers/
+
+17. *A Marc Benioff-backed startup thinks AI can solve the AI deployment problem* (TechCrunch)
+June emerged from stealth today with a $20 million pre-seed round to make AI adoption simpler.
+https://techcrunch.com/2026/08/03/a-marc-benioff-backed-startup-thinks-ai-can-solve-the-ai-deployment-problem/
