@@ -1,0 +1,89 @@
+🗞️ AI Daily — 2026-08-07
+
+📰 أخبار الذكاء الاصطناعي
+
+1. *OpenAI’s new AI smart speaker will reportedly sell for between $300 and $400* (TechCrunch)
+Additional details about OpenAI's mysterious new AI device make it sound like a pricey smart speaker.
+https://techcrunch.com/2026/08/06/openais-new-ai-smart-speaker-will-reportedly-sell-for-between-300-and-400/
+
+2. *Your table awaits: Exhibit at TechCrunch Disrupt 2026 to be seen by thousands* (TechCrunch)
+Not everyone needs a keynote slot to make noise at TechCrunch Disrupt 2026. Sometimes the best way to meet investors, customers, and partners is by exhibiting directly on the Expo Hall floor at San Fr...
+https://techcrunch.com/2026/08/06/your-table-awaits-exhibit-at-techcrunch-disrupt-2026-to-be-seen-by-thousands/
+
+3. *Vogue just gave another nod of approval to the tech world* (TechCrunch)
+Vogue World is coming to San Francisco next year — perhaps another indication that tech bros are now part of the fashion zeitgeist.
+https://techcrunch.com/2026/08/06/vogue-just-gave-another-nod-of-approval-to-the-tech-world/
+
+4. *Get up to $400 off your TechCrunch Disrupt 2026 pass until tomorrow* (TechCrunch)
+Starting today, you can take an additional $100 off your founder, investor, or attendee TechCrunch Disrupt 2026 pass, which is a nice bonus on top of our current discounted pricing.
+https://techcrunch.com/2026/08/06/get-up-to-400-off-your-techcrunch-disrupt-2026-pass-until-friday/
+
+5. *Google says hackers are calling financial firm employees to hack and extort victims* (TechCrunch)
+Groups of hackers are breaking into large U.S. financial firms to steal sensitive data and extort victims, Google’s security researchers report.
+https://techcrunch.com/2026/08/06/google-says-hackers-are-calling-financial-firm-employees-to-hack-and-extort-victims/
+
+6. *China-linked LightSpy spyware caught targeting victims in 13 countries, including the US* (TechCrunch)
+Researchers linked the latest malicious activity to a Chinese company, after one of the spyware's operators placed an order with KFC using their real name and office address.
+https://techcrunch.com/2026/08/06/china-linked-lightspy-spyware-caught-targeting-victims-in-13-countries-including-the-us/
+
+7. *Defense tech Hadrian raises $1.37B at $8B valuation* (TechCrunch)
+Hadrian is building automated factories to mass-produce parts for defense vehicles like submarines. It's backed by a long list of well-known investors.
+https://techcrunch.com/2026/08/06/defense-tech-hadrian-raises-1-37b-at-8b-valuation/
+
+8. *Ford needs another Taurus, and the $30K Fathom EV pickup isn’t it* (TechCrunch)
+Ford's CEO has described the new Ford Fathom as a "Model T moment" for the company. But the EV pickup is unlikely to live up to lofty expectations, and maybe it doesn't have to.
+https://techcrunch.com/2026/08/06/ford-needs-another-taurus-and-the-30k-fathom-ev-pickup-isnt-it/
+
+9. *Bumble teases a swipe-free future as it doubles down on IRL meetups* (TechCrunch)
+Bumble says it’s moving beyond swiping and deeper into real-world social experiences as it courts Gen Z users.
+https://techcrunch.com/2026/08/06/bumble-teases-a-swipe-free-future-as-it-doubles-down-on-irl-meetups/
+
+10. *ChatGPT brings unlimited text chats to free users* (TechCrunch)
+OpenAI said that ChatGPT free and Go users are also getting a new think button for complex queries.
+https://techcrunch.com/2026/08/06/openai-brings-unlimited-chatgpt-text-chats-to-free-users/
+
+11. *Naïve raises $28.5M to automate the grunt work of setting up and running a company* (TechCrunch)
+Taking vibe-coding a step further, Naïve claims its infra can automate most of the work in setting up and running a business.
+https://techcrunch.com/2026/08/06/naive-raises-28-5m-to-automate-the-grunt-work-of-setting-up-and-running-a-company/
+
+12. *Hacker pleads guilty to stealing data from more than 165 Snowflake customers* (TechCrunch)
+Connor Moucka pled guilty to hacking and stealing data from more than 165 Snowflake customers, which net him and his accomplices more than $2.5 million in ransom payments.
+https://techcrunch.com/2026/08/06/hacker-pleads-guilty-to-stealing-data-from-more-than-165-snowflake-customers/
+
+13. *TikTok lays off 250 employees, shutters its Nashville office* (TechCrunch)
+The social media giant is shuttering an office that housed some members of TikTok’s content-moderation team.
+https://techcrunch.com/2026/08/06/tiktok-lays-off-250-employees-shutters-its-nashville-office/
+
+14. *Google Wallet now lets parents set up secure balances for their kids* (TechCrunch)
+The tech giant says the new feature will allow parents to teach their kids healthy financial habits while maintaining oversight over their child's spending with built-in safeguards.
+https://techcrunch.com/2026/08/06/google-wallet-now-lets-parents-set-up-secure-balances-for-their-kids/
+
+15. *Gen Z dating apps like Ditto ditch swiping in favor of AI matchmaking* (TechCrunch)
+This generation of twentysomethings is so disillusioned with swipe-based dating apps that they'll try literally anything else — even an AI matchmaker.
+https://techcrunch.com/2026/08/06/gen-z-dating-apps-like-ditto-ditch-swiping-in-favor-of-ai-matchmaking/
+
+16. *Tesla and SpaceX will invest $16.8B to start building ‘Terafab’ chip factory in Texas* (TechCrunch)
+After months of speculation, the companies formally announced the massive project will happen just north of Houston.
+https://techcrunch.com/2026/08/06/tesla-and-spacex-will-invest-16-8b-to-start-building-terafab-chip-factory-in-texas/
+
+17. *OpenAI says Apple’s own security practices undermine its trade secrets case* (TechCrunch)
+Newly filed court exhibits show OpenAI’s legal strategy in Apple’s trade secrets lawsuit: argue that Apple’s own security and offboarding practices — including allowing an Apple manager to access a fo...
+https://techcrunch.com/2026/08/06/openai-says-apples-own-security-practices-undermine-its-trade-secrets-case/
+
+18. *eBay continues to bet on live shopping after record quarter* (TechCrunch)
+eBay touted an increase in eBay Live's gross merchandise volume as it plans to expand it to more international markets in the coming weeks and months.
+https://techcrunch.com/2026/08/06/ebay-continues-to-bet-on-live-shopping-after-record-quarter/
+
+19. *Amid legal battles, Suno says it will start watermarking songs* (TechCrunch)
+Suno's watermarking feature comes as the company is fighting legal battles on several fronts.
+https://techcrunch.com/2026/08/06/amid-legal-battles-suno-says-it-will-start-watermarking-songs/
+
+20. *Ford’s new electric truck, ‘Fathom,’ starts at $28,350* (TechCrunch)
+Due in "fall 2027," Ford said Thursday that it won't reveal what Fathom looks like until early next year.
+https://techcrunch.com/2026/08/06/fords-new-electric-truck-fathom-starts-at-28350/
+
+🛠️ أدوات وتحديثات جديدة
+
+1. *Google shakes up its AI brain trust* (The Rundown AI)
+PLUS: Build a website hands-free With Claude Voice
+https://www.therundown.ai/p/google-shakes-up-its-ai-brain-trust
