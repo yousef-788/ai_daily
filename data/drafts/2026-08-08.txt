@@ -1,0 +1,65 @@
+🗞️ AI Daily — 2026-08-08
+
+📰 أخبار الذكاء الاصطناعي
+
+1. *OpenAI says it slowed Astra model development over security concerns* (TechCrunch)
+OpenAI said this model, which is still in development, reached its "critical cybersecurity threshold," meaning it could independently identify and carry out cyberattacks against traditionally well-pro...
+https://techcrunch.com/2026/08/07/openai-says-it-slowed-astra-model-development-over-security-concerns/
+
+2. *After Rippling blew millions on AI in months, it built an employee ROI tool* (TechCrunch)
+After its own AI usage wake-up call, Rippling this week unveiled AI Spend Console, a product that tracks individual and team employee AI spending.
+https://techcrunch.com/2026/08/07/after-rippling-blew-millions-on-ai-in-months-it-built-an-employee-roi-tool/
+
+3. *Wacom’s MovinkPad 11 is a fun, midpriced entry point for digital artists* (TechCrunch)
+The MovinkPad 11 a versatile little graphics tablet that can help make your wildest digital art dreams come true.
+https://techcrunch.com/2026/08/07/wacoms-movinkpad-11-is-a-fun-and-mid-priced-entry-point-for-digital-artists/
+
+4. *Security researchers scanned the Polish web and found courts, hospitals, and airports at risk of hacks* (TechCrunch)
+Researchers found common points of failure, like software used to organize and display web content, could have allowed hackers to run riot through government websites.
+https://techcrunch.com/2026/08/07/security-researchers-scanned-the-polish-web-and-found-courts-hospitals-and-airports-at-risk-of-hacks/
+
+5. *Cloudflare launches Kitesurf, a browser built for AI agents* (TechCrunch)
+Kitesurf is a cloud-hosted browser designed for AI agents instead of people. It uses less computing power than Chromium for common automation tasks, helping developers build browser-based AI agents mo...
+https://techcrunch.com/2026/08/07/cloudflare-launches-kitesurf-a-browser-built-for-ai-agents/
+
+6. *Computer maker Framework notifies ‘all customers’ of a data breach* (TechCrunch)
+Framework told "all" of its customers that hackers accessed their names, email addresses, phone numbers, and physical addresses in a data breach.
+https://techcrunch.com/2026/08/07/computer-maker-framework-notifies-all-customers-of-a-data-breach/
+
+7. *Today’s the last day to get up to $400 off your TechCrunch Disrupt 2026 ticket* (TechCrunch)
+Starting today, you can take an additional $100 off your founder, investor, or attendee TechCrunch Disrupt 2026 pass, which is a nice bonus on top of our current discounted pricing.
+https://techcrunch.com/2026/08/07/todays-the-last-day-to-get-up-to-400-off-your-techcrunch-disrupt-2026-ticket/
+
+8. *Trump administration has spent nearly $4B to cancel offshore wind farms* (TechCrunch)
+The Trump administration has now convinced developers to abandon 12 offshore wind leases. The latest will cost taxpayers $1.2 billion.
+https://techcrunch.com/2026/08/07/trump-administration-has-spent-nearly-4b-to-cancel-offshore-wind-farms/
+
+9. *Host your own piece of Disrupt: Apply to run a Side Event at TechCrunch Disrupt 2026* (TechCrunch)
+You put together the concept — from a founder mixer, an after-hours panel, a themed party, a morning run, whatever fits your goal — and the TechCrunch team helps put it in front of the attendees alrea...
+https://techcrunch.com/2026/08/07/host-your-own-piece-of-disrupt-apply-to-run-a-side-event-at-techcrunch-disrupt-2026/
+
+10. *Chinese AI model Kimi escaped its cybersecurity testing environment, researchers say* (TechCrunch)
+In the Kimi test, the sandbox designed to contain the experiment was not properly configured.
+https://techcrunch.com/2026/08/07/chinese-ai-model-kimi-escaped-its-cybersecurity-testing-environment-researchers-say/
+
+11. *Airbnb says AI is helping it ship features faster as it tests a new search function* (TechCrunch)
+Airbnb will debut a new AI-powered search experience with a toggle.
+https://techcrunch.com/2026/08/07/airbnb-says-ai-is-helping-it-ship-features-faster-as-it-tests-a-new-search-function/
+
+12. *SpaceX’s Terafab will rely on natural gas power plants, not Tesla solar panels* (TechCrunch)
+The fab is intended to build chips for data centers that will be run by SpaceX and its xAI subsidiary.
+https://techcrunch.com/2026/08/07/spacexs-terafab-will-rely-on-natural-gas-power-plants-not-tesla-solar-panels/
+
+13. *The founder’s guide to TechCrunch Disrupt 2026: Everything you need to know* (TechCrunch)
+TechCrunch Disrupt 2026 is built around one question: How do you build an enduring company in the AI era? Our programming and speaker lineup reflect that.
+https://techcrunch.com/2026/08/07/the-founders-guide-to-techcrunch-disrupt-2026-everything-you-need-to-know/
+
+14. *New Mexico court orders Meta to pay additional $567M in child safety case* (TechCrunch)
+Meta's total fine has racked up to $942 million in this case.
+https://techcrunch.com/2026/08/07/new-mexico-court-orders-meta-to-pay-additional-567m-in-child-safety-case/
+
+🛠️ أدوات وتحديثات جديدة
+
+1. *AI designs viruses never seen in nature* (The Rundown AI)
+PLUS: Turn any idea into an AI-powered site with Lovable
+https://www.therundown.ai/p/ai-designs-viruses-never-seen-in-nature
