@@ -1,0 +1,23 @@
+🗞️ AI Daily — 2026-08-09
+
+📰 أخبار الذكاء الاصطناعي
+
+1. *Planned Amazon data center could become the biggest climate polluter in the U.S.* (TechCrunch)
+As part of a planned Texas data center, Amazon is investing in an on-site power plant that could reportedly become the largest source of climate pollution in the United States.
+https://techcrunch.com/2026/08/08/planned-amazon-data-center-could-become-the-biggest-climate-polluter-in-the-u-s/
+
+2. *OpenAI acquires presentation startup NextSlide* (TechCrunch)
+NextSlide says its team members are now working on ChatGPT.
+https://techcrunch.com/2026/08/08/openai-acquires-presentation-startup-nextslide/
+
+3. *X replaces ‘misaligned’ revenue sharing program with Original Content Rewards* (TechCrunch)
+X is winding down its existing Revenue Sharing program.
+https://techcrunch.com/2026/08/08/x-replaces-misaligned-revenue-sharing-program-with-original-content-rewards/
+
+4. *The Kindle Scribe Colorsoft is a lot of fun, but it’s not a must-have* (TechCrunch)
+While the device is pretty and lightweight, it’s not something the everyday person needs due to its hefty price tag and size.
+https://techcrunch.com/2026/08/08/the-kindle-scribe-colorsoft-is-a-lot-of-fun-but-its-not-a-must-have/
+
+5. *Google’s top hacker hunter explains why hacking groups get codenames* (TechCrunch)
+Google recently changed how it refers and assigns names to hacking groups. TechCrunch spoke with one of the world’s foremost experts on tracking hackers to understand why companies give hackers codena...
+https://techcrunch.com/2026/08/08/googles-top-hacker-hunter-explains-why-hacking-groups-get-codenames/
