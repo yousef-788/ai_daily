@@ -1,0 +1,81 @@
+🗞️ AI Daily — 2026-08-11
+
+📰 أخبار الذكاء الاصطناعي
+
+1. *OpenAI reportedly completed a $7 billion employee tender offer* (TechCrunch)
+San Francisco's housing market is in trouble again.
+https://techcrunch.com/2026/08/10/openai-reportedly-completed-a-7-billion-employee-tender-offer/
+
+2. *As AI-led attacks multiply, OpenAI launches a new cyber model* (TechCrunch)
+OpenAI is expanding its AI cybersecurity defense program Daybreak, and rolling out a new cyber-trained AI model with it.
+https://techcrunch.com/2026/08/10/as-ai-led-attacks-multiply-openai-launches-a-new-cyber-model/
+
+3. *Jeff Bezos might finally get his hands on a sports team* (TechCrunch)
+Jeff Bezos is reportedly close to buying his first stake in a sports team: the U.K.'s famed Liverpool Football Club.
+https://techcrunch.com/2026/08/10/jeff-bezos-might-finally-get-his-hands-on-a-sports-team/
+
+4. *Now Rippling is counter-suing tiny startup Runlayer* (TechCrunch)
+This lawsuit follows one filed last month by Runlayer that accused Rippling of stealing its product ideas. It's a seller- and buyer-beware market warning.
+https://techcrunch.com/2026/08/10/now-rippling-is-counter-suing-tiny-startup-runlayer/
+
+5. *Google co-founder Sergey Brin has now spent $100 million to fight the billionaire tax* (TechCrunch)
+California's Prop 40 would impose a one-time 5% tax on the net worth of the state's billionaires.
+https://techcrunch.com/2026/08/10/google-co-founder-sergey-brin-has-now-spent-100-million-to-fight-the-billionaire-tax/
+
+6. *Mark Zuckerberg’s AI manifesto is exactly why people don’t like AI* (TechCrunch)
+On Monday, Mark Zuckerberg published a 6,500-word manifesto about personal AI, largely about the possibilities for the "personal superintelligence" systems Meta AI is building.
+https://techcrunch.com/2026/08/10/mark-zuckerbergs-ai-manifesto-is-exactly-why-people-dont-like-ai/
+
+7. *Tech industry is buzzing after a Claude agent hacked into a gym* (TechCrunch)
+An OpenClaw agent hacked into a gym's reservation system to bump its human boss higher on a class' waitlist. And the tech industry took notice.
+https://techcrunch.com/2026/08/10/tech-industry-is-buzzing-after-a-claude-agent-hacked-into-a-gym/
+
+8. *Aptoide becomes the first rival app store to return to Google Play in the US* (TechCrunch)
+Aptoide has brought its games store back to Google Play after more than a decade, as court-ordered changes open Android to competing app stores.
+https://techcrunch.com/2026/08/10/aptoide-becomes-the-first-rival-app-store-to-return-to-google-play-in-the-us/
+
+9. *Social media platforms still facing thousands of user addiction lawsuits after failed appeals* (TechCrunch)
+Platforms like Meta, TikTok, Snapchat, and Google are facing a long road of litigation.
+https://techcrunch.com/2026/08/10/social-media-platforms-still-facing-thousands-of-user-addiction-lawsuits-after-failed-appeals/
+
+10. *YouTube now requires creators to have twice as many watch hours to start earning money* (TechCrunch)
+Creators who want to start earning on the platform will need at least 8,000 qualified watch hours over the past year or 20 million qualified Shorts views in the last 90 days.
+https://techcrunch.com/2026/08/10/youtube-now-requires-creators-to-have-twice-as-many-watch-hours-to-start-earning-money/
+
+11. *Clicks’ Power Keyboard brings BlackBerry-style typing to any phone — with some compromises* (TechCrunch)
+Clicks’ $99 Power Keyboard brings a customizable, slide-out physical keyboard to MagSafe and Qi2 smartphones, but its added heft can make larger phones awkward to use.
+https://techcrunch.com/2026/08/10/clicks-power-keyboard-brings-blackberry-style-typing-to-any-phone-with-some-compromises/
+
+12. *Meta’s new Glimmer AI model offers a hint at Zuckerberg’s personal intelligence vision* (TechCrunch)
+Meta’s new open-weight Muse Glimmer model offers a glimpse of Mark Zuckerberg’s personal superintelligence vision, as well as the emerging divide between AI users can own and access.
+https://techcrunch.com/2026/08/10/metas-new-glimmer-ai-model-offers-a-hint-at-zuckerbergs-personal-intelligence-vision/
+
+13. *Sila lands $1.4B Pentagon loan as militaries demand more batteries* (TechCrunch)
+Battery materials startup Sila will use a $1.4 billion loan from the U.S. Department of Defense to scale production at its factory in Washington state.
+https://techcrunch.com/2026/08/10/sila-lands-1-4b-pentagon-loan-as-militaries-demand-more-batteries/
+
+14. *Archer buys former rival Wisk Aero* (TechCrunch)
+The two companies were once embroiled in a trade secret theft lawsuit. Now, Wisk is being absorbed into Archer.
+https://techcrunch.com/2026/08/10/archer-buys-former-rival-wisk-aero/
+
+15. *A data breach at shipping giant Ceva Logistics is rippling across banks, retailers, Steam gamers, and beyond* (TechCrunch)
+Companies that rely on Ceva Logistics for shipping their physical goods to customers say their personal data was taken during a recent cyberattack.
+https://techcrunch.com/2026/08/10/a-data-breach-at-shipping-giant-ceva-logistics-is-rippling-across-banks-retailers-steam-gamers-and-beyond/
+
+16. *Signed up for Klaviyo? Dozens of advertisers may have seen your password* (TechCrunch)
+A bug in the tech giant's website the logo of US marketing automation company Klaviyo Inc. is seen displayed on a smartphone in front of an abstract background on a computer screen..
+https://techcrunch.com/2026/08/10/signed-up-for-klaviyo-dozens-of-advertisers-may-have-seen-your-password/
+
+17. *Discovered Materials is playing AI whack-a-mole to hunt cooler chips* (TechCrunch)
+Discovered Materials raised $9 million to fund the hunt for more novel materials to build more efficient chips.
+https://techcrunch.com/2026/08/10/discovered-materials-is-playing-ai-whack-a-mole-to-hunt-cooler-chips/
+
+18. *Google Play adds Venmo as a payment option* (TechCrunch)
+The ability to add Venmo to Google Play comes as people are spending more money on apps and games.
+https://techcrunch.com/2026/08/10/google-play-adds-venmo-as-a-payment-option/
+
+🛠️ أدوات وتحديثات جديدة
+
+1. *OpenAI puts the safety brakes on Astra* (The Rundown AI)
+PLUS: Cut onboarding time in half with Loom and ChatGPT
+https://www.therundown.ai/p/openai-puts-the-safety-brakes-on-astra
