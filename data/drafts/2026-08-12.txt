@@ -1,0 +1,89 @@
+🗞️ AI Daily — 2026-08-12
+
+📰 أخبار الذكاء الاصطناعي
+
+1. *India’s Yulu raises $93M as quick-commerce boom fuels e-bike demand* (TechCrunch)
+Yulu aims to have a fleet of 200,000 bikes in the next two years and faster electric two-wheelers, aiming at new logistics use cases.
+https://techcrunch.com/2026/08/11/indias-yulu-raises-93m-as-quick-commerce-boom-fuels-e-bike-demand/
+
+2. *Phoebe Gates and Sophia Kianni reportedly knew Phia was ‘cookie stuffing’ for months* (TechCrunch)
+Phia, the shopping startup co-founded by Phoebe Gates and Sophia Kianni, is once again under fire for its alleged business practices.
+https://techcrunch.com/2026/08/11/phoebe-gates-and-sophia-kianni-reportedly-knew-phia-was-cookie-stuffing-for-months/
+
+3. *Accel closes oversubscribed $550M India fund within weeks, 19 months after its last* (TechCrunch)
+The U.S. VC firm still has more than 55% of its previous $650 million India fund available for deployment.
+https://techcrunch.com/2026/08/11/accel-closes-oversubscribed-550m-india-fund-within-weeks-19-months-after-its-last/
+
+4. *Uber surprised robotics company Serve by selling its entire stake* (TechCrunch)
+The divestiture comes as the two once-tight companies have started to diverge on the business side.
+https://techcrunch.com/2026/08/11/uber-surprised-robotics-company-serve-by-selling-its-entire-stake/
+
+5. *FBI says cybercriminals are hacking into victims’ online accounts to steal their intimate pictures* (TechCrunch)
+In a new alert, the FBI said cybercriminals are targeting adults and minors in an attempt to steal their personal and intimate pictures in extortion campaigns.
+https://techcrunch.com/2026/08/11/fbi-says-cybercriminals-are-hacking-into-victims-online-accounts-to-steal-their-intimate-pictures/
+
+6. *OpenAI launches ChatGPT desktop app for Linux* (TechCrunch)
+OpenAI is finally bringing a dedicated ChatGPT desktop app to Linux operating systems.
+https://techcrunch.com/2026/08/11/openai-launches-chatgpt-desktop-app-for-linux/
+
+7. *Google’s Gemini app surges to 1 billion users* (TechCrunch)
+Google also shared numbers of how people are actually using the chatbot, with 63% of Gemini users talking directly to the assistant using the voice feature. Plus, Gemini now generates more than 150 mi...
+https://techcrunch.com/2026/08/11/googles-gemini-app-surges-to-one-billion-users/
+
+8. *Bluesky’s active user base is shrinking as its focus expands beyond the app* (TechCrunch)
+Over a year following its post-election surge, Bluesky’s mobile app is seeing a continued decline in active users, though its remaining community is still relatively engaged.
+https://techcrunch.com/2026/08/11/blueskys-active-user-base-is-shrinking-as-its-focus-expands-beyond-the-app/
+
+9. *What’s Scaleup Europe, the $5.7B fund that just backed satellite company ICEYE?* (TechCrunch)
+Scaleup Europe, a public-private fund with a $5.7 billion target, made its first investment by backing Finnish satellite company ICEYE.
+https://techcrunch.com/2026/08/11/whats-scaleup-europe-the-5-7b-fund-that-just-backed-satellite-company-iceye/
+
+10. *Brad Lightcap, OpenAI’s longtime COO, is leaving to ‘start something new’* (TechCrunch)
+One of OpenAI's longest-serving executives is headed out the door, although the longtime COO told staff that he was "excited to help you all advance the mission from a different vantage point."
+https://techcrunch.com/2026/08/11/brad-lightcap-openais-longtime-coo-is-leaving-to-start-something-new/
+
+11. *General Catalyst leads $1.1B round into 2-month-old River AI* (TechCrunch)
+River AI, a startup founded by xAI co-founder Igor Babuschkin, has a fascinating vision for personal agents and secured $1.1 billion out of the gate.
+https://techcrunch.com/2026/08/11/general-catalyst-leads-1-1b-round-into-2-month-old-river-ai/
+
+12. *An unreleased Anthropic model made progress on one of math’s biggest unsolved problems* (TechCrunch)
+For more than 150 years, the Riemann hypothesis has stood as one of the major unsolved problems in mathematics. Anthropic hasn't solved it — but the company's models made more progress than you might...
+https://techcrunch.com/2026/08/11/an-unreleased-anthropic-model-made-progress-on-one-of-maths-biggest-unsolved-problems/
+
+13. *Joby Aviation builds out defense business with $500M acquisition* (TechCrunch)
+Joby Aviation reached an agreement to acquire Resonant Sciences, which will kick off its new defense business.
+https://techcrunch.com/2026/08/11/joby-aviation-builds-out-defense-business-with-500m-acquisition/
+
+14. *Delta investigating after someone set up fake Wi-Fi network mid-flight* (TechCrunch)
+The Delta flight crew switched off the aircraft's legitimate Wi-Fi network for around 30 minutes due to the incident, according to a spokesperson.
+https://techcrunch.com/2026/08/11/delta-investigating-after-someone-set-up-fake-wi-fi-network-mid-flight/
+
+15. *Block Blast! goes ad-free on Apple Arcade* (TechCrunch)
+Block Blast!, the most downloaded mobile game of 2025, is coming to Apple Arcade in September, where it will be ad-free.
+https://techcrunch.com/2026/08/11/2025s-most-downloaded-game-block-blast-is-going-ad-free-on-apple-arcade/
+
+16. *Rivian CEO RJ Scaringe is betting on EVs, robots, and autonomy all at once — he’ll explain why at Disrupt 2026* (TechCrunch)
+Rivian's CEO RJ Scaringe is speaking at TechCrunch Disrupt 2026 to detail his journey, and the lessons it’s bestowed.
+https://techcrunch.com/2026/08/11/rivian-ceo-rj-scaringe-is-betting-on-evs-robots-and-autonomy-all-at-once-hell-explain-why-at-disrupt-2026/
+
+17. *FlightAware sues Kalshi over flight cancellation prediction markets* (TechCrunch)
+FlightAware says that Kalshi used its name and data to offer bets on flight cancellations without the flight tracker's permission.
+https://techcrunch.com/2026/08/11/flightaware-sues-kalshi-over-flight-cancellation-prediction-markets/
+
+18. *Kyoto Fusioneering starts work on key fusion power plant device* (TechCrunch)
+Fusion power startups are turning to Kyoto Fusioneering to supply components for future power plants. The Japan-based startup just received a grant to build a part of the fuel system.
+https://techcrunch.com/2026/08/11/kyoto-fusioneering-starts-work-on-key-fusion-power-plant-device/
+
+19. *Bumble ditches its rule that kept men from making the first move* (TechCrunch)
+Bumble is ditching the rule that it has enforced since launching in 2024. Men can finally message first.
+https://techcrunch.com/2026/08/11/bumble-ditches-its-rule-that-kept-men-from-making-the-first-move/
+
+20. *North Korean remote IT staffer worked for US government agency, says FBI* (TechCrunch)
+The investigation shows that North Koreans are able to infiltrate government agencies, as well as private organizations and crypto exchanges.
+https://techcrunch.com/2026/08/11/north-korean-remote-it-staffer-worked-for-us-government-agency-says-fbi/
+
+🛠️ أدوات وتحديثات جديدة
+
+1. *Meta returns to its open-source roots* (The Rundown AI)
+PLUS: Go from idea to website with ChatGPT Work + Codex
+https://www.therundown.ai/p/meta-returns-to-its-open-source-roots
