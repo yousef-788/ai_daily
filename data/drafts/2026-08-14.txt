@@ -1,0 +1,81 @@
+🗞️ AI Daily — 2026-08-14
+
+📰 أخبار الذكاء الاصطناعي
+
+1. *Investors sue Selena Gomez alleging fraud tied to her mental health startup* (TechCrunch)
+The plaintiffs say they invested nearly $1.2 million in the company, and are accusing Gomez of failing to build and market the startup.
+https://techcrunch.com/2026/08/13/investors-sue-selena-gomez-alleging-fraud-tied-to-her-mental-health-startup/
+
+2. *Flock says its new tool will help identify police abuse, but hasn’t explained how it works* (TechCrunch)
+The surveillance company announced it's making a tool called "Audit Assistance" mandatory for all customers, claiming it's already helped catch abuse. But the company has yet to explain how the tool w...
+https://techcrunch.com/2026/08/13/flock-says-its-new-tool-will-help-identify-police-abuse-but-hasnt-explained-how-it-works/
+
+3. *If Apple sends you a push notification alerting you to a spyware attack, take it seriously* (TechCrunch)
+Apple now sends out push notifications to iPhone lock screens when the company identifies government spyware targeting someone's devices.
+https://techcrunch.com/2026/08/13/if-apple-sends-you-a-push-notification-alerting-you-to-a-spyware-attack-take-it-seriously/
+
+4. *Writer introduces new AI model and upgraded harness to contain token costs* (TechCrunch)
+Built as a post-training variation on Z.ai's open source model GLM-5.2, Writer says the new system should provide deployment-ready capabilities at a much lower price.
+https://techcrunch.com/2026/08/13/writer-introduces-new-ai-model-and-upgraded-harness-to-contain-token-costs/
+
+5. *Databricks wanted to raise $1B, investors wanted $15B. It settled on $5B at a $190B valuation.* (TechCrunch)
+AI is expensive, Ali Ghodsi tells TechCrunch. With so many investors wanting into his latest round, he said yes to more than planned.
+https://techcrunch.com/2026/08/13/databricks-wanted-to-raise-1b-investors-wanted-15b-it-settled-on-5b-at-a-190b-valuation/
+
+6. *OpenAI introduces ‘Ultrafast,’ a new mode that makes GPT-5.6 Sol work at 14x the speed* (TechCrunch)
+OpenAI is launching a preview of a sped up version of its latest, most powerful model, in an effort to court enterprise users.
+https://techcrunch.com/2026/08/13/openai-introduces-ultrafast-a-new-mode-that-makes-gpt-5-6-sol-work-at-14x-the-speed/
+
+7. *IBM partners with OpenAI to bolster enterprise AI push* (TechCrunch)
+IBM plans to train and certify tens of thousands of consultants on OpenAI's technologies as part of this deal.
+https://techcrunch.com/2026/08/13/ibm-partners-with-openai-to-bolster-enterprise-ai-push/
+
+8. *Anthropic set AI agents loose on the same task. They started a turf war.* (TechCrunch)
+Anthropic researchers found AI agents can clash, collude, and coordinate in unexpected ways, raising new questions about whether today’s safety tests capture the risks of multi-agent systems.
+https://techcrunch.com/2026/08/13/anthropic-set-ai-agents-loose-on-the-same-task-they-started-a-turf-war/
+
+9. *OpenAI hires new CRO as executive shake-up continues* (TechCrunch)
+OpenAI has replaced chief revenue officer Denise Dresser after just nine months on the job, tapping Wiz president and chief operating officer Dali Rajic to take on frontier lab's top sales job.
+https://techcrunch.com/2026/08/13/openai-hires-new-cro-as-executive-shake-up-continues/
+
+10. *Ford on track to complete $2B factory overhaul for Fathom EV truck* (TechCrunch)
+Ford expects to begin prototype builds of the Fathom EV in the first quarter of 2027.
+https://techcrunch.com/2026/08/13/ford-on-track-to-complete-2b-factory-overhaul-for-fathom-ev-truck/
+
+11. *X open sources its ranking algorithm, letting users see if they’ve been ‘shadowbanned’* (TechCrunch)
+X is expanding the open source code behind its 'For You' feed and launching new transparency tools that show users when its ranking systems have affected their accounts or posts.
+https://techcrunch.com/2026/08/13/x-open-sources-its-ranking-algorithm-letting-users-see-if-theyve-been-shadowbanned/
+
+12. *Instagram introduces a redesigned wordmark* (TechCrunch)
+The social media giant says it was time for a sharper and more modern look after a decade.
+https://techcrunch.com/2026/08/13/instagram-introduces-a-redesigned-wordmark/
+
+13. *Microsoft kills off unsuccessful AI features while merging its separate Copilot apps* (TechCrunch)
+Microsoft is simplifying Copilot by combining its consumer and business apps, and dropping AI-generated podcasts, Group Chats, Deep Research, and its Mico character.
+https://techcrunch.com/2026/08/13/microsoft-kills-off-unsuccessful-ai-features-while-merging-its-separate-copilot-apps/
+
+14. *Nvidia’s new $500B plan is risky but brilliant, especially for aging GPUs* (TechCrunch)
+Nvidia has a plan to make sure its GPUs won't lose value. It wants to convince a new crop of financiers to keep lending for AI buildouts.
+https://techcrunch.com/2026/08/13/nvidias-new-500b-plan-is-risky-but-brilliant-especially-for-aging-gpus/
+
+15. *Who really needs a cocktail robot?* (TechCrunch)
+Bartesian's cocktail makers would be best described like a Keurig or Nespresso machine, but for alcoholic drinks.
+https://techcrunch.com/2026/08/13/bartesian-duet-cocktail-maker-review/
+
+16. *Apple in talks to pay publishers to provide Siri with current news: report* (TechCrunch)
+The tech giant has considered a nine-figure budget for the payments, according to the WSJ.
+https://techcrunch.com/2026/08/13/apple-in-talks-to-pay-publishers-to-provide-siri-with-current-news-report/
+
+17. *In a first, US will allow some private firms to carry out cyberattacks* (TechCrunch)
+The new order sweeps away decades of existing U.S. cybersecurity policy prohibiting private companies from conducting 'hack back' attacks or offensive cyber operations.
+https://techcrunch.com/2026/08/13/in-a-first-us-will-allow-some-private-firms-to-carry-out-cyberattacks/
+
+18. *Can social media start over? Bluesky’s CEO and COO deliver their case at TechCrunch Disrupt 2026* (TechCrunch)
+Bluesky CEO Toni Schneider is joined by COO Rose Wang for a Disrupt Stage session on whether social media can start over and where Bluesky fits into that potential reboot.
+https://techcrunch.com/2026/08/13/can-social-media-start-over-blueskys-ceo-and-coo-deliver-their-case-at-techcrunch-disrupt-2026/
+
+🛠️ أدوات وتحديثات جديدة
+
+1. *Grok 4.6 storms the AI frontier* (The Rundown AI)
+PLUS: Generate 100 pain-point ad hooks from customer feedback
+https://www.therundown.ai/p/grok-4-6-storms-the-ai-frontier
