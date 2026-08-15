@@ -1,0 +1,61 @@
+🗞️ AI Daily — 2026-08-15
+
+📰 أخبار الذكاء الاصطناعي
+
+1. *Talks to sell PayPal to Stripe and Advent are heating up* (TechCrunch)
+PayPal is still reportedly negotiating a potential sale to Stripe and private equity firm Advent, as the fintech firm's new CEO attempts to turn the company around.
+https://techcrunch.com/2026/08/14/talks-to-sell-paypal-to-stripe-and-advent-are-heating-up/
+
+2. *Self-driving trucks are officially testing on California highways* (TechCrunch)
+Aurora Innovation and Kodiak AI, two companies developing self-driving trucks, have received permits from the California Department of Motor Vehicles.
+https://techcrunch.com/2026/08/14/self-driving-trucks-are-officially-testing-on-california-highways/
+
+3. *Thrive’s Joshua Kushner chides Silicon Valley VCs over AI euphoria* (TechCrunch)
+The AI opportunity is huge, but "it would also be a grave error in our minds to let excitement weaken our investment discipline," Kushner warns in his first-ever investment letter.
+https://techcrunch.com/2026/08/14/thrives-joshua-kushner-chides-silicon-valley-vcs-over-ai-euphoria/
+
+4. *What we know about the alleged Iranian hacks on US water utilities* (TechCrunch)
+Over the last couple of weeks, hackers have targeted and broken into the systems of several water plants in the United States. Here’s what we know and don’t know about this wave of attacks allegedly c...
+https://techcrunch.com/2026/08/14/what-we-know-about-the-alleged-iranian-hacks-on-u-s-water-utilities/
+
+5. *Read-it-later app Pocket shut down — here are the best alternatives* (TechCrunch)
+Pocket users have until October 8, 2025, to export their saved articles and other items, including lists, archives, favorites, notes, and highlights.
+https://techcrunch.com/2026/08/14/read-it-later-app-pocket-is-shutting-down-here-are-the-best-alternatives/
+
+6. *Unforgetful is a new reminders app for people who can’t stop hitting snooze* (TechCrunch)
+Unforgetful, the latest app from longtime indie developer Marco Arment, is designed to make reminders harder to ignore — or accidentally dismiss.
+https://techcrunch.com/2026/08/14/unforgetful-is-a-new-reminders-app-for-people-who-cant-stop-hitting-snooze/
+
+7. *Google will now allow users to remove visible watermark from its AI generations* (TechCrunch)
+Turning off this setting won't affect invisible benchmarks used to identify an AI generated file.
+https://techcrunch.com/2026/08/14/google-will-now-allow-users-to-remove-visible-watermark-from-its-ai-generations/
+
+8. *Does Mark Zuckerberg really believe AI is ‘for everyone’?* (TechCrunch)
+Meta released Glimmer this week, an open-weight AI model anyone can download and run on their own hardware — a contrast to Muse Spark, the company’s more powerful model that stays locked behind its ow...
+https://techcrunch.com/video/does-mark-zuckerberg-really-believe-ai-is-for-everyone/
+
+9. *Apple proposes to take a 15% cut of purchases made outside the App Store* (TechCrunch)
+Apple is asking a federal judge to allow it to charge commissions of up to 15% on purchases made through external links in iOS apps.
+https://techcrunch.com/2026/08/14/apple-proposes-to-take-a-15-cut-of-purchases-made-outside-the-app-store/
+
+10. *Kog is going deeper to squeeze more inference out of GPUs* (TechCrunch)
+The idea that GPUs are poorly suited for agentic workflows may be a misconception, according to French startup Kog.
+https://techcrunch.com/2026/08/14/kog-is-going-deeper-to-squeeze-more-inference-out-of-gpus/
+
+11. *Hyperscalers might regret embracing natural gas if new forecast proves correct* (TechCrunch)
+Natural gas prices could triple in some parts of the U.S., which could saddle hyperscalers with massive bills to power their AI data centers.
+https://techcrunch.com/2026/08/14/hyperscalers-might-regret-embracing-natural-gas-if-new-forecast-proves-correct/
+
+12. *US courts will start publishing how often the government uses spyware* (TechCrunch)
+The Administrative Office of the U.S. Courts told TechCrunch that it will start disclosing how many times judges authorized the use of spyware to wiretap suspected criminals.
+https://techcrunch.com/2026/08/14/us-courts-will-start-publishing-how-often-the-government-uses-spyware/
+
+13. *Uber and Pony.ai plan to bring 2,000 robotaxis to Europe* (TechCrunch)
+The partnership is expanding beyond the initial market of Zagreb, Croatia to four additional European cities.
+https://techcrunch.com/2026/08/14/uber-and-pony-ai-plan-to-bring-2000-robotaxis-to-europe/
+
+🛠️ أدوات وتحديثات جديدة
+
+1. *OpenAI feels the frontier need for speed* (The Rundown AI)
+PLUS: Build a work 'Second Brain' that updates itself
+https://www.therundown.ai/p/openai-feels-the-frontier-need-for-speed
