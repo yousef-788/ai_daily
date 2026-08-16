@@ -1,0 +1,23 @@
+🗞️ AI Daily — 2026-08-16
+
+📰 أخبار الذكاء الاصطناعي
+
+1. *Woman claims her stepfather used Grok to transform childhood photo into explicit imagery* (TechCrunch)
+The woman claimed that AI tools are "taking everyday life and turning it into child sexual abuse."
+https://techcrunch.com/2026/08/15/woman-claims-her-stepfather-used-grok-to-transform-childhood-photo-into-explicit-imagery/
+
+2. *Anthropic shares more details about how Claude’s new watermarks will work* (TechCrunch)
+How will the watermarking actually work? Can it be hidden with editing? And how does this affect code?
+https://techcrunch.com/2026/08/15/anthropic-shares-more-details-about-how-claudes-new-watermarks-will-work/
+
+3. *SpaceX officially closes its Cursor acquisition* (TechCrunch)
+AI coding startup Cursor is now officially a part of SpaceX.
+https://techcrunch.com/2026/08/15/spacex-officially-closes-its-cursor-acquisition/
+
+4. *How to tell if your AI platforms’ accounts have been hacked* (TechCrunch)
+A guide on how to check if hackers have broken into your accounts on the most popular AI platforms.
+https://techcrunch.com/2026/08/15/how-to-tell-if-your-ai-platforms-accounts-have-been-hacked/
+
+5. *Every fusion startup that has raised over $100M* (TechCrunch)
+Fusion startups have raised $7.1 billion to date, with the majority of it going to a handful of companies.
+https://techcrunch.com/2026/08/15/every-fusion-startup-that-has-raised-over-100m/
