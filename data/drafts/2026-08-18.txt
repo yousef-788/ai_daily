@@ -1,0 +1,81 @@
+🗞️ AI Daily — 2026-08-18
+
+📰 أخبار الذكاء الاصطناعي
+
+1. *Anthropic’s annualized revenue surges to $65B* (TechCrunch)
+The model maker added $18 billion in annualized revenue in two months.
+https://techcrunch.com/2026/08/17/anthropics-annualized-revenue-surges-to-65b/
+
+2. *AI automation startup Relay shuts down, staff joins Google’s Chrome team* (TechCrunch)
+"We have some really ambitious plans to help you work with AI in Chrome to get things done, and I’ll have more to share soon," Jacob Bank, Relay founder and CEO, said.
+https://techcrunch.com/2026/08/17/ai-automation-startup-relay-shuts-down-staff-joins-googles-chrome-team/
+
+3. *‘Unprecedented’ number of Apple users received recent spyware alert, say investigators* (TechCrunch)
+Cybersecurity experts who investigate spyware attacks say the number of people who received a recent threat notification from Apple is unusually high.
+https://techcrunch.com/2026/08/17/unprecedented-number-of-apple-users-received-recent-spyware-alert-say-investigators/
+
+4. *Save up to $300 on your TechCrunch Disrupt 2026 pass until August 21* (TechCrunch)
+If you’ve been circling around Disrupt, then now’s the best time to lock in your pass and start getting ready to join the rest of the startup community gathering in San Francisco from October 13-15 at...
+https://techcrunch.com/2026/08/17/save-up-to-300-on-your-techcrunch-disrupt-2026-pass-until-august-21/
+
+5. *Spotify’s new Playlist Notes let users and editors explain their song picks* (TechCrunch)
+Spotify launches a new feature that gives users a chance to explain the stories and reasoning behind their favorite music. Editors will be using the feature, too, on top playlists like RapCaviar and o...
+https://techcrunch.com/2026/08/17/spotifys-new-playlist-notes-let-users-and-editors-explain-their-song-picks/
+
+6. *Higgsfield raises $400M Series B, quadrupling its valuation in 8 months to $5.4B* (TechCrunch)
+Higgsfield, founded by former Snap exec Alex Mashrabov, lets users create AI images and videos.
+https://techcrunch.com/2026/08/17/higgsfield-raises-400m-series-b-quadrupling-its-valuation-in-8-months-to-5-4b/
+
+7. *Reddit begins testing a new audio and video experience, similar to popular TikTok videos* (TechCrunch)
+Reddit is beginning to test video and audio versions of popular posts, allowing users to watch or listen to Reddit stories instead of just reading them.
+https://techcrunch.com/2026/08/17/reddit-begins-testing-a-new-audio-and-video-experience-similar-to-popular-tiktok-videos/
+
+8. *Sound-powered fire protection startup gets $15M to snuff out fires before they turn catastrophic* (TechCrunch)
+Sonic Fire Tech raised its new funding to help get its sound-powered fire protection system into everything from commercial kitchens to apartment buildings.
+https://techcrunch.com/2026/08/17/sound-powered-fire-protection-startup-gets-15m-to-snuff-out-fires-before-they-turn-catastrophic/
+
+9. *YouTube will now count a view as soon as a video starts playing* (TechCrunch)
+The change comes a year after YouTube applied the same approach to counting views on Shorts videos.
+https://techcrunch.com/2026/08/17/youtube-will-now-count-a-view-as-soon-as-a-video-starts-playing/
+
+10. *Feedly attributes weeklong slowdown to bug, not its AI pivot* (TechCrunch)
+Feedly says a bug is behind the performance issues that have made its web app nearly "unusable" for some users, while complaints about its mobile apps and customer support are adding to frustrations.
+https://techcrunch.com/2026/08/17/feedly-attributes-weeklong-slowdown-to-bug-not-its-ai-pivot/
+
+11. *Amazon, which started off selling books, is destroying rare texts to train AI* (TechCrunch)
+Rare books are incredibly valuable for training LLMs, since these models have already trained on whatever's available online.
+https://techcrunch.com/2026/08/17/amazon-once-an-online-bookseller-is-destroying-rare-books-to-train-ai-models/
+
+12. *Groq raises $350M to fuel its pivot from AI chips to neocloud* (TechCrunch)
+Groq raised $350 million at a $3.5 billion valuation as the former AI chipmaker pivots to a neocloud business and expands its Nvidia-powered data center footprint.
+https://techcrunch.com/2026/08/17/groq-raises-350m-to-fuel-its-pivot-from-ai-chips-to-neocloud/
+
+13. *Nvidia investing $1.5B in SoftBank data center developer behind OpenAI project* (TechCrunch)
+Nvidia's investment in SoftBank's data center developer will guarantee its chips power an OpenAI data center.
+https://techcrunch.com/2026/08/17/nvidia-investing-1-5b-in-softbank-data-center-developer-behind-openai-project/
+
+14. *Terra Industries closes $52M seed round to build defense infrastructure for the Global South* (TechCrunch)
+African defense tech company Terra Industries announced an additional $18 million in funding, bringing its seed round to $52 million.
+https://techcrunch.com/2026/08/17/terra-industries-closes-52m-seed-round-to-build-defense-infrastructure-for-the-global-south/
+
+15. *WordPress.com targets the next generation of web creators with a free student plan* (TechCrunch)
+WordPress.com Education lets teachers offer their students free domains, plug-in support, and professional website-building tools.
+https://techcrunch.com/2026/08/17/wordpress-com-targets-the-next-generation-of-web-creators-with-a-free-student-plan/
+
+16. *Uber adds Zipline drones to its Eats delivery network* (TechCrunch)
+Uber is also making investing in Zipline a part of the tie-up.
+https://techcrunch.com/2026/08/17/uber-adds-zipline-drones-to-its-eats-delivery-network/
+
+17. *Wispr raises $280M at $2B valuation as it looks beyond dictation* (TechCrunch)
+The funds will allow Wispr to increase its footprint as it ventures into new areas, such as meetings, with its newly released note-taker tool.
+https://techcrunch.com/2026/08/17/wispr-raises-280m-at-2b-valuation-as-it-looks-beyond-dictation/
+
+18. *Crypto hardware wallet owners face fresh security risks after recent spate of personal data thefts* (TechCrunch)
+The hacks at shipping companies used to mail out hardware wallets puts crypto owners at greater risk of real-world attacks.
+https://techcrunch.com/2026/08/17/crypto-hardware-wallet-owners-face-fresh-security-risks-after-recent-spate-of-personal-data-thefts/
+
+🛠️ أدوات وتحديثات جديدة
+
+1. *Dario Amodei logs on to answer the critics* (The Rundown AI)
+PLUS: Hand off real work across your apps with Grok Bot
+https://www.therundown.ai/p/dario-amodei-logs-on-to-answer-the-critics
