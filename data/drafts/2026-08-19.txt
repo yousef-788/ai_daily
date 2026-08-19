@@ -1,0 +1,89 @@
+🗞️ AI Daily — 2026-08-19
+
+📰 أخبار الذكاء الاصطناعي
+
+1. *Cursor capitalizes on GitHub frustration, launches rival hosting platform* (TechCrunch)
+Cursor, known for its AI Code Editor, is launching a new code-hosting platform to rival developers' long preferred favorite, GitHub.
+https://techcrunch.com/2026/08/18/cursor-capitalizes-on-github-frustration-launches-rival-hosting-platform/
+
+2. *DOJ’s probe into Andreessen Horowitz over board seats baffles VCs* (TechCrunch)
+Since portfolio companies often pivot and expand into competing markets, investors view occasional conflicts of interest as unavoidable for large VC firms.
+https://techcrunch.com/2026/08/18/dojs-probe-into-andreessen-horowitz-over-board-seats-baffles-vcs/
+
+3. *TikTok explores peer-to-peer payments via DMs, report says* (TechCrunch)
+If rolled out, the feature would use the social media service’s TikTok Pay offering, which is already available in Southeast Asia for TikTok Shop purchases.
+https://techcrunch.com/2026/08/18/tiktok-explores-peer-to-peer-payments-via-dms-report-says/
+
+4. *OpenAI institutes new safeguards after Hugging Face breach* (TechCrunch)
+The new safeguards include more detailed monitoring of models during the development process, as well as greater emphasis on alignment and security during the post-training process.
+https://techcrunch.com/2026/08/18/openai-institutes-new-safeguards-after-hugging-face-breach/
+
+5. *Save up to $300 on your TechCrunch Disrupt 2026 pass until August 21* (TechCrunch)
+If you’ve been circling around Disrupt, then now’s the best time to lock in your pass and start getting ready to join the rest of the startup community gathering in San Francisco from October 13-15 at...
+https://techcrunch.com/2026/08/18/save-up-to-300-on-your-techcrunch-disrupt-2026-pass-until-august-21/
+
+6. *Etched’s valuation doubles to $21B in a month* (TechCrunch)
+Jane Street has installed Etched's first shipped AI cluster system, and was so impressed, it led another massive round, the startup says.
+https://techcrunch.com/2026/08/18/etcheds-valuation-doubles-to-21b-in-a-month/
+
+7. *Apple overhauls its EU App Store fees, loosens rules for alternative app stores* (TechCrunch)
+Apple is simplifying its EU App Store fees, replacing its per-install fee with a 5% commission for apps distributed outside the App Store and making it easier for developers to operate alternative app...
+https://techcrunch.com/2026/08/18/apple-overhauls-its-eu-app-store-fees-loosens-rules-for-alternative-app-stores/
+
+8. *Comcast adds motion sensing to millions of its newer routers, with a privacy catch* (TechCrunch)
+A new feature added to Comcast's newest routers can detect if there is motion inside your home without needing traditional motion sensors.
+https://techcrunch.com/2026/08/18/comcast-adds-motion-sensing-to-millions-of-its-newer-routers-with-a-privacy-catch/
+
+9. *Why Apple’s camera-equipped AirPods may not be the ‘pervert pods’ consumers fear* (TechCrunch)
+Apple’s leaked camera-equipped AirPods might avoid the privacy pitfalls of other AI wearables by preventing users from recording photos and videos.
+https://techcrunch.com/2026/08/18/why-apples-camera-equipped-airpods-may-not-be-the-pervert-pods-consumers-fear/
+
+10. *Bluesky says its recent outage was caused by another DDoS attack* (TechCrunch)
+This is the latest large-scale DDoS attack to hit the social networking site this year.
+https://techcrunch.com/2026/08/18/bluesky-says-its-recent-outage-was-caused-by-another-ddos-attack/
+
+11. *Peacock is raising prices across all of its streaming plans* (TechCrunch)
+"These price changes allow Peacock to continue to create the best experience for its viewers, remain competitive in the marketplace, and deliver unique content across all genres," the company wrote on...
+https://techcrunch.com/2026/08/18/peacock-is-raising-prices-across-all-of-its-streaming-plans/
+
+12. *Anthro Energy breaks ground on factory that could pave the road to solid-state batteries* (TechCrunch)
+Battery materials startup Anthro Energy has broken ground on a Louisville factory to make electrolytes, including those for solid-state batteries.
+https://techcrunch.com/2026/08/18/anthro-energy-breaks-ground-on-factory-that-could-pave-the-road-to-solid-state-batteries/
+
+13. *Warp’s new system is an out-of-the-box software factory for AI development* (TechCrunch)
+On Tuesday, Warp introduced Warp Factories, a new infrastructure system designed to make building AI software factories as easy as possible.
+https://techcrunch.com/2026/08/18/warps-new-system-is-an-out-of-the-box-software-factory-for-ai-development/
+
+14. *OpenAI launches a safer ChatGPT for teens — years after teens started using it* (TechCrunch)
+ChatGPT for Teens adds age-appropriate safety measures, parental controls, and learning tools designed to steer teens away from harmful content — and from using AI to cheat on their homework.
+https://techcrunch.com/2026/08/18/openai-launches-a-safer-chatgpt-for-teens-years-after-teens-started-using-it/
+
+15. *Perplexity’s free AI offer left it with millions more users in India* (TechCrunch)
+Perplexity's India revenue rose about 60% after the Airtel offer ended for new users, even as downloads declined.
+https://techcrunch.com/2026/08/18/perplexitys-free-ai-offer-left-it-with-millions-more-users-in-india/
+
+16. *Apple’s new macOS update reportedly contains a video of AirPods with a camera* (TechCrunch)
+A video in a macOS Tahoe release candidate version shows a user wearing AirPods, looking at a book, and talking to Siri.
+https://techcrunch.com/2026/08/18/apples-new-macos-update-reportedly-contains-a-video-of-airpods-with-a-camera/
+
+17. *Daniel Ek’s body-scanning startup Neko Health opens first US office, in New York* (TechCrunch)
+The scanning and bloodwork health startup founded by Spotify's founder will officially launch in New York in about a month.
+https://techcrunch.com/2026/08/18/daniel-eks-body-scanning-startup-neko-health-opens-first-us-office-in-new-york/
+
+18. *Reach Capital raises $265M Fund V to back AI founders building to ‘expand human potential’* (TechCrunch)
+Reach Capital announced Tuesday an oversubscribed $265 million Fund V.
+https://techcrunch.com/2026/08/18/reach-capital-raises-265m-fund-v-to-back-ai-founders-building-to-expand-human-potential/
+
+19. *Fairphone is launching its latest repairable phone in the US too* (TechCrunch)
+The Fairphone 6+ is a midrange Android offering, but given the increasing prices of consumer gadgets amid the ongoing component shortages, a repairable device that can be made to last for years may pr...
+https://techcrunch.com/2026/08/18/fairphone-is-launching-its-latest-repairable-phone-in-the-us-too/
+
+20. *Einride strikes deal to add 500 Tesla Semis to its fleet* (TechCrunch)
+The deal will triple the size of Einride's fleet while sweetening the company's sales pitch for its Saga AI software. The Tesla Semis will be available to customers across North America.
+https://techcrunch.com/2026/08/18/einride-strikes-deal-to-add-500-tesla-semis-to-its-fleet/
+
+🛠️ أدوات وتحديثات جديدة
+
+1. *Cursor's Origin hits GitHub on its worst day* (The Rundown AI)
+PLUS: How to set up ChatGPT to write in your voice
+https://www.therundown.ai/p/cursor-origin-hits-github-on-its-worst-day
