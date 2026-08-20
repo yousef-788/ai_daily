@@ -1,0 +1,169 @@
+🗞️ AI Daily — 2026-08-20
+
+📰 أخبار الذكاء الاصطناعي
+
+1. *VentureBeat names Rob Strechay as its first Lead Analyst, expanding its enterprise AI research push* (VentureBeat AI)
+Rob Strechay, until recently managing director and principal analyst at theCUBE Research, has joined VentureBeat as our first Lead Analyst and a founding analyst of VentureBeat Research. His arrival i...
+https://venturebeat.com/ai/venturebeat-names-rob-strechay-as-its-first-lead-analyst-expanding-its-enterprise-ai-research-push
+
+2. *Stripe didn’t really buy OpenRouter because of the ‘singularity’* (TechCrunch)
+What does a payments giant want with a startup that routes prompts between different AI models? Stripe says it's because of "the singularity" but it's really for a far more real and powerful reason.
+https://techcrunch.com/2026/08/19/stripe-didnt-really-buy-openrouter-because-of-the-singularity/
+
+3. *Waymo’s cheaper, next-gen robotaxi is now open to all riders in these three cities* (TechCrunch)
+The next-generation robotaxi, called the Waymo Ojai, is central to the company's push towards mass scale, and eventually, profitability.
+https://techcrunch.com/2026/08/19/waymos-cheaper-next-gen-robotaxi-is-now-open-to-all-riders-in-these-three-cities/
+
+4. *OpenAI seeks to one-up Anthropic with new customer privacy protections* (TechCrunch)
+A competition is developing between OpenAI and Anthropic over who can provide the best privacy protections for enterprise customer data.
+https://techcrunch.com/2026/08/19/openai-seeks-to-one-up-anthropic-with-new-customer-privacy-protections/
+
+5. *Cognition CEO denies report that SpaceX tried to acquire the startup* (TechCrunch)
+SpaceX was reportedly in talks to buy AI coding startup Cognition. SpaceX has already acquired Cursor as it races to catch up to rivals like OpenAI and Anthropic in enterprise AI.
+https://techcrunch.com/2026/08/19/cognition-ceo-denies-report-that-spacex-tried-to-acquire-the-startup/
+
+6. *Travis Kalanick kicks off another round of VC bashing: ‘1% are helpful’* (TechCrunch)
+After raising $1.7 billion for his new robotics company Atoms, Travis Kalanick is introspective about the role VCs have played in his career.
+https://techcrunch.com/2026/08/19/travis-kalanick-kicks-off-another-round-of-vc-bashing-1-are-helpful/
+
+7. *Rillet raises $100M Series C at $1B valuation — 2 years after emerging from stealth* (TechCrunch)
+AI-native account startup Rillet became a unicorn, led by Iconiq, after it doubled its ARR in the past three months, it said.
+https://techcrunch.com/2026/08/19/rillet-raises-100m-series-c-at-1b-valuation-2-years-after-emerging-from-stealth/
+
+8. *Gwyneth Paltrow allegedly set to throw dinner in honor of Sam Altman* (TechCrunch)
+The actress' firm Kinship Ventures is an investor in the company.
+https://techcrunch.com/2026/08/19/gwyneth-paltrow-allegedly-set-to-throw-dinner-in-honor-of-sam-altman/
+
+9. *Gambling on the Little League World Series? Sports bettors have gone too far* (TechCrunch)
+Have we tried turning off society and turning it back on again?
+https://techcrunch.com/2026/08/19/gambling-on-the-little-league-world-series-sports-bettors-have-gone-too-far/
+
+10. *AI was supposed to win people over by now — it hasn’t* (TechCrunch)
+As AI becomes harder to avoid, consumers are growing more wary of the technology — and Silicon Valley is discovering that widespread adoption doesn’t necessarily lead to acceptance.
+https://techcrunch.com/2026/08/19/ai-was-supposed-to-win-people-over-by-now-it-hasnt/
+
+11. *Google packs Search and Gemini with new AI study tools* (TechCrunch)
+The launch of the new study features marks Google's latest effort to make Gemini the AI assistant that students turn to when learning and studying, as it continues to compete with companies like OpenA...
+https://techcrunch.com/2026/08/19/google-launches-new-study-tools-for-students-across-search-and-gemini/
+
+12. *Researchers say OpenAI revoked their access to limited cyber program* (TechCrunch)
+The idea behind OpenAI's Trusted Access for Cyber program is to give trusted defenders better models so they can report bugs and vulnerabilities to companies, with the aim of getting flaws patched fas...
+https://techcrunch.com/2026/08/19/researchers-complain-that-openai-revoked-their-access-to-limited-cyber-program/
+
+13. *Meet the startup helping Wall Street put a price on AI compute* (TechCrunch)
+The AI buildout shows no signs of slowing. And with hundreds of billions of dollars a year going into data centers and GPUs, compute has become the single biggest cost for anyone building AI products....
+https://techcrunch.com/video/meet-the-startup-helping-wall-street-put-a-price-on-ai-compute/
+
+14. *T-Mobile ‘chopped a cable’ to expel Chinese hackers from its network* (TechCrunch)
+The U.S. phone provider escaped a large-scale breach of its network after identifying Chinese-backed hackers early on.
+https://techcrunch.com/2026/08/19/t-mobile-chopped-a-cable-to-expel-chinese-hackers-from-its-network/
+
+15. *Time’s running out! Save $300 on your TechCrunch Disrupt 2026 pass until August 21* (TechCrunch)
+If you’ve been circling around Disrupt, then now’s the best time to lock in your pass and start getting ready to join the rest of the startup community gathering in San Francisco from October 13-15 at...
+https://techcrunch.com/2026/08/19/times-running-out-save-300-on-your-techcrunch-disrupt-2026-pass-until-august-21/
+
+16. *TerraPower’s nuclear reactor has a secret weapon for powering AI data centers* (TechCrunch)
+TerraPower's nuclear power plant possesses a strategic advantage over competitors, especially when chasing after data center deals.
+https://techcrunch.com/2026/08/19/terrapowers-nuclear-reactor-has-a-secret-weapon-for-powering-ai-data-centers/
+
+17. *Rivian spinout Also raises another $150M* (TechCrunch)
+The round, led by Prysm Capital, will fund the company's expansion beyond pedal-assist electric bikes and commercial cargo quads to autonomous delivery vehicles.
+https://techcrunch.com/2026/08/19/rivian-spinout-also-raises-another-150-million/
+
+18. *Sachin Bansal’s fintech Navi raises first outside capital with $100M Prosus investment* (TechCrunch)
+The investment comes amid Navi plans to go public.
+https://techcrunch.com/2026/08/19/sachin-bansals-fintech-navi-raises-first-outside-capital-with-100m-prosus-investment/
+
+19. *Amazon makes its AI-powered Alexa+ free on Fire TV, no Prime required* (TechCrunch)
+Amazon is making its AI-powered Alexa+ assistant free on all compatible Fire TV devices in the U.S., automatically upgrading users whether or not they subscribe to Prime.
+https://techcrunch.com/2026/08/19/amazon-makes-its-ai-powered-alexa-free-on-fire-tv-no-prime-required/
+
+20. *Amazon’s Prime Air is taking off in nearly 500 US cities* (TechCrunch)
+Amazon is significantly expanding its Prime Air drone delivery service, with plans to reach nearly 500 U.S. cities by the end of 2026.
+https://techcrunch.com/2026/08/19/amazons-prime-air-is-taking-off-in-nearly-500-u-s-cities/
+
+21. *Calendly throws its hat into meeting note-taker circus* (TechCrunch)
+Calendly is also releasing a meeting scheduling assistant called Callie.
+https://techcrunch.com/2026/08/19/calendly-throws-its-hat-into-meeting-note-taker-circus/
+
+🛠️ أدوات وتحديثات جديدة
+
+1. *Pacing comes to the AI frontier* (The Rundown AI)
+PLUS: Build, test, and publish an app without leaving Codex
+https://therundownai.beehiiv.com/p/pacing-comes-to-the-ai-frontier
+
+2. *Cursor's Origin hits GitHub on its worst day* (The Rundown AI)
+PLUS: How to set up ChatGPT to write in your voice
+https://therundownai.beehiiv.com/p/cursor-origin-hits-github-on-its-worst-day
+
+3. *Dario Amodei logs on to answer the critics* (The Rundown AI)
+PLUS: Hand off real work across your apps with Grok Bot
+https://therundownai.beehiiv.com/p/dario-amodei-logs-on-to-answer-the-critics
+
+4. *OpenAI feels the frontier need for speed* (The Rundown AI)
+PLUS: Build a work 'Second Brain' that updates itself
+https://therundownai.beehiiv.com/p/openai-feels-the-frontier-need-for-speed
+
+5. *Grok 4.6 storms the AI frontier* (The Rundown AI)
+PLUS: Generate 100 pain-point ad hooks from customer feedback
+https://therundownai.beehiiv.com/p/grok-4-6-storms-the-ai-frontier
+
+6. *Anthropic slips an invisible signature into Claude* (The Rundown AI)
+PLUS: Use ChatGPT to build a custom Mac shortcut system
+https://therundownai.beehiiv.com/p/anthropic-slips-an-invisible-signature-into-claude
+
+7. *Meta returns to its open-source roots* (The Rundown AI)
+PLUS: Go from idea to website with ChatGPT Work + Codex
+https://therundownai.beehiiv.com/p/meta-returns-to-its-open-source-roots
+
+8. *OpenAI puts the safety brakes on Astra* (The Rundown AI)
+PLUS: Cut onboarding time in half with Loom and ChatGPT
+https://therundownai.beehiiv.com/p/openai-puts-the-safety-brakes-on-astra
+
+9. *AI designs viruses never seen in nature* (The Rundown AI)
+PLUS: Turn any idea into an AI-powered site with Lovable
+https://therundownai.beehiiv.com/p/ai-designs-viruses-never-seen-in-nature
+
+10. *Google shakes up its AI brain trust* (The Rundown AI)
+PLUS: Build a website hands-free With Claude Voice
+https://therundownai.beehiiv.com/p/google-shakes-up-its-ai-brain-trust
+
+11. *Anthropic and OpenAI agents went rogue — again* (The Rundown AI)
+PLUS: Redline any contract with Claude and Microsoft Word
+https://therundownai.beehiiv.com/p/anthropic-and-openai-agents-went-rogue-again
+
+12. *AI giants head to the White House to discuss safety* (The Rundown AI)
+PLUS: Build a project room where humans and agents work
+https://therundownai.beehiiv.com/p/ai-giants-head-to-the-white-house-to-discuss-safety
+
+13. *OpenAI's 'Astra' solves 10 long-standing math problems* (The Rundown AI)
+PLUS: Run your workday by voice with ChatGPT
+https://therundownai.beehiiv.com/p/openai-astra-solves-10-long-standing-math-problems
+
+14. *OpenAI's models cut their own costs* (The Rundown AI)
+PLUS: Turn any idea into an AI-powered site with Lovable
+https://therundownai.beehiiv.com/p/openai-s-models-cut-their-own-costs
+
+15. *OpenAI's escaped AI claims another victim* (The Rundown AI)
+PLUS: Turn ChatGPT into a team of useful agents with Raft
+https://therundownai.beehiiv.com/p/openai-escaped-ai-claims-another-victim
+
+16. *1,000+ frontier staffers ask for an AI brake pedal* (The Rundown AI)
+PLUS: Build interactive lead magnets with Canva Code
+https://therundownai.beehiiv.com/p/1000-frontier-staffers-ask-for-an-ai-brake-pedal
+
+17. *Moonshot lets history's largest open model loose* (The Rundown AI)
+PLUS: Make precise edits on real product photos with AI
+https://therundownai.beehiiv.com/p/moonshot-lets-history-largest-open-model-loose
+
+18. *Anthropic's Opus 5 surprise* (The Rundown AI)
+PLUS: Automate tasks with Claude’s ‘Record a Skill’ feature
+https://therundownai.beehiiv.com/p/anthropic-opus-5-surprise
+
+19. *Black Forest Labs teaches video AI to run robots* (The Rundown AI)
+PLUS: Edit videos faster with AI (for non-editors)
+https://therundownai.beehiiv.com/p/black-forest-labs-teaches-video-ai-to-run-robots
+
+20. *OpenAI’s cyber test escapes the lab* (The Rundown AI)
+PLUS: Build your own AI SEO specialist with Gumloop
+https://therundownai.beehiiv.com/p/openai-cyber-test-escapes-the-lab
