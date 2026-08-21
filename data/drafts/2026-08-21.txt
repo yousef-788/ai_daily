@@ -1,0 +1,89 @@
+🗞️ AI Daily — 2026-08-21
+
+📰 أخبار الذكاء الاصطناعي
+
+1. *Tesla, Uber, and Waymo all get the OK to operate thousands of robotaxis in Nevada* (TechCrunch)
+Together, these permits would allow up to 8,000 robotaxis to be deployed over the next 12 months.
+https://techcrunch.com/2026/08/20/tesla-uber-and-waymo-all-get-the-ok-to-operate-thousands-of-robotaxis-in-nevada/
+
+2. *AI data startup Micro1 reaches $500M gross run rate amid AI training boom* (TechCrunch)
+Surging demand for AI training data is driving rapid growth for the startup and its rivals.
+https://techcrunch.com/2026/08/20/ai-data-startup-micro1-reaches-500m-gross-run-rate-amid-ai-training-boom/
+
+3. *Learn what VCs actually want, from a founder who’s raised $1B* (TechCrunch)
+Investors want founders who understand the financial reality of their business. Messy data, misunderstood metrics, or waiting until you’re nearly out of cash to start fundraising can cost founders lev...
+https://techcrunch.com/video/learn-what-vcs-actually-want-from-a-founder-whos-raised-1b/
+
+4. *OpenAI is gaining on Anthropic with business users, new data indicates* (TechCrunch)
+Businesses are willing to flop back and forth as each lab releases new models, volatility that should give both companies' investors pause about how "sticky" enterprise AI spending really is.
+https://techcrunch.com/2026/08/20/openai-is-gaining-on-anthropic-with-business-users-new-data-indicates/
+
+5. *ChatGPT can now send texts for you with new Apple Messages plug-in* (TechCrunch)
+Ever wanted someone else to do your texting for you? ChatGPT is being offered up as an automated text scribe via a new Apple Messages integration.
+https://techcrunch.com/2026/08/20/chatgpt-can-now-send-texts-for-you-with-new-apple-messages-plugin/
+
+6. *The Enhanced Games — tech’s steroid extravaganza — didn’t pay off, as company posts $60 million loss* (TechCrunch)
+An effort to transform the world of sports through steroid use doesn't exactly seem to be bearing financial fruit.
+https://techcrunch.com/2026/08/20/the-enhanced-games-techs-steroid-extravaganza-didnt-pay-off-as-company-posts-60-million-loss/
+
+7. *OK, can we actually cool data centers with our pee?* (TechCrunch)
+Jason Kelce joked that people should cool data centers with their pee, rather than potable water -- but his suggestion is not completely ludicrous.
+https://techcrunch.com/2026/08/20/ok-can-we-actually-cool-data-centers-with-our-pee/
+
+8. *Someone targeted security researchers using a fake crypto conference as a lure* (TechCrunch)
+A hacker pretending to work for a leading cryptocurrency news website targeted several cybersecurity professionals using Google Docs as a way to deliver malware.
+https://techcrunch.com/2026/08/20/someone-targeted-security-researchers-using-a-fake-crypto-conference-as-a-lure/
+
+9. *Mark buys a castle* (TechCrunch)
+Mark Zuckerberg just bought a cozy abode somewhat close to Meta’s international headquarters in Ireland.
+https://techcrunch.com/2026/08/20/mark-buys-a-castle/
+
+10. *Google gives publishers a new way to fight AI-driven traffic losses* (TechCrunch)
+Google is giving publishers a new button that lets readers make them a preferred source across Search, Discover, and Google News, potentially boosting their traffic as AI search sends fewer clicks to...
+https://techcrunch.com/2026/08/20/google-gives-publishers-a-new-way-to-fight-ai-driven-traffic-losses/
+
+11. *Runlayer, Rippling drop lawsuits — but the brouhaha is still a cautionary tale for founders* (TechCrunch)
+Runlayer and Rippling have dropped their lawsuits. No money was paid. Rippling celebrated by releasing a competing product.
+https://techcrunch.com/2026/08/20/runlayer-rippling-drop-lawsuits-but-the-brouhaha-is-still-a-cautionary-tale-for-founders/
+
+12. *Castelion hits $13B valuation to mass-produce hypersonic missiles* (TechCrunch)
+Founded in 2022, Castelion set out to manufacture hypersonic weapon systems at a lower cost and at faster speeds than traditional defense primes.
+https://techcrunch.com/2026/08/20/castelion-hits-13b-valuation-to-mass-produce-hypersonic-missiles/
+
+13. *Linkdaze’s smart calendar is built to run a household, not just track a schedule* (TechCrunch)
+Linkdaze's smart digital calendar stands out for not putting its features behind a paywall, including an AI meal planner tool.
+https://techcrunch.com/2026/08/20/linkdazes-smart-calendar-is-built-to-run-a-household-not-just-track-a-schedule/
+
+14. *Grok keeps sending gibberish responses to users* (TechCrunch)
+Affected users told TechCrunch they were using Grok Lite, and noticed the issues as early as Wednesday morning.
+https://techcrunch.com/2026/08/20/grok-keeps-sending-gibberish-responses-to-users/
+
+15. *The investor’s guide to TechCrunch Disrupt 2026: Everything you need to know* (TechCrunch)
+Year after year, investors who've explored the Expo Halls, met founders, and learned from peers have proven why you need to be on the ground at Disrupt this year.
+https://techcrunch.com/2026/08/20/the-investors-guide-to-techcrunch-disrupt-2026-everything-you-need-to-know/
+
+16. *A third of web pages published since ChatGPT’s launch show signs of AI authorship, study finds* (TechCrunch)
+ChatGPT and other AI models are now authoring and editing much of the new web.
+https://techcrunch.com/2026/08/20/a-third-of-webpages-published-since-chatgpts-launch-show-signs-of-ai-authorship-study-finds/
+
+17. *Early Cerebras investor Adit Singh joins Mayfield as infrastructure partner* (TechCrunch)
+At Mayfield, Singh will focus on semiconductor, cybersecurity, and physical AI investments.
+https://techcrunch.com/2026/08/20/early-cerebras-investor-adit-singh-joins-mayfield-as-infrastructure-partner/
+
+18. *Ramp launches its own AI model router, called Router* (TechCrunch)
+Ramp has launched its own AI model routing service, dubbed Router, that lets users and companies use and switch between various large language models via an API.
+https://techcrunch.com/2026/08/20/ramp-launches-its-own-ai-model-router-called-router/
+
+19. *Senators demand answers from TikTok over experiment that disabled safeguards* (TechCrunch)
+The safeguard was designed to prevent users from being overwhelmed by harmful content, but TikTok wanted to determine whether it made the app less engaging.
+https://techcrunch.com/2026/08/20/senators-demand-answers-from-tiktok-over-experiment-that-disabled-safeguards/
+
+20. *Meta brings Pocket, an app that lets you vibe-code and share games, to US users* (TechCrunch)
+Meta is bringing Pocket, its experimental AI-powered app for creating and sharing interactive games, to users across the U.S. after quietly testing it in Brazil.
+https://techcrunch.com/2026/08/20/meta-brings-pocket-an-app-that-lets-you-vibe-code-and-share-games-to-us-users/
+
+🛠️ أدوات وتحديثات جديدة
+
+1. *Claude adds protein design to its resume* (The Rundown AI)
+PLUS: Use the Loop Method for better ChatGPT results
+https://therundownai.beehiiv.com/p/claude-adds-protein-design-to-its-resume
