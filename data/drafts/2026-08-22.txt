@@ -1,0 +1,89 @@
+🗞️ AI Daily — 2026-08-22
+
+📰 أخبار الذكاء الاصطناعي
+
+1. *Michael Polansky is training an AI model on skin that’s still alive* (TechCrunch)
+Michael Polansky — better known publicly as Lady Gaga's partner and a former top deputy to Sean Parker — has quietly spent years building an AI-driven startup that keeps living human skin tissue alive...
+https://techcrunch.com/2026/08/21/michael-polansky-is-training-an-ai-model-on-skin-thats-still-alive/
+
+2. *Japanese space tech startup Letara expands beyond satellite thrusters with $16M* (TechCrunch)
+Japanese space startup Letara is betting its hybrid rocket technology can move beyond small satellite thrusters into a broader market for space, defense and security, after raising ¥2.6 billion ($16 m...
+https://techcrunch.com/2026/08/21/japanese-space-tech-startup-letara-expands-beyond-satellite-thrusters-with-16m/
+
+3. *Anthropic’s Opus 4.6 is a smut-machine* (TechCrunch)
+Anthropic forbids its Claude models from generating sexually explicit content. But a series of tests conducted by TechCrunch found that it didn't take much to get past the restriction.
+https://techcrunch.com/2026/08/21/anthropics-opus-4-6-is-a-smut-machine/
+
+4. *Nvidia partners with data center developer Cloverleaf* (TechCrunch)
+Nvidia continues to pour money into data center development — just as AI data centers bring lots of money into Nvidia.
+https://techcrunch.com/2026/08/21/nvidia-partners-with-data-center-developer-cloverleaf/
+
+5. *How AI accounting startup Rillet raised $100M and became a unicorn in 48 hours* (TechCrunch)
+Rillet CEO Nicolas Kopp shared growth numbers at a board meeting and set off a fundraising frenzy from Iconiq, Sequoia and others. Without even trying.
+https://techcrunch.com/2026/08/21/how-ai-accounting-startup-rillet-raised-100m-and-became-a-unicorn-in-48-hours/
+
+6. *Apple is reportedly cutting hundreds of jobs from Siri, Vision Pro teams* (TechCrunch)
+Apple has admitted that some roles are being impacted as it shifts its focus away from certain initiatives.
+https://techcrunch.com/2026/08/21/apple-is-reportedly-cutting-hundreds-of-jobs-from-siri-vision-pro-teams/
+
+7. *TikTok reaches $400M settlement over children’s privacy lawsuit* (TechCrunch)
+Two years after the U.S. Department of Justice alleged that TikTok violated the Children’s Online Privacy Protection Act, it has reached a $400 million settlement.
+https://techcrunch.com/2026/08/21/tiktok-reaches-400m-settlement-over-childrens-privacy-lawsuit/
+
+8. *The $225 Pebble Time 2 is a refreshingly fun smartwatch* (TechCrunch)
+The $225 Pebble Time 2 pairs quirky watch faces and apps with physical buttons, an e-paper display, weeks of battery life, and a playful hacker spirit.
+https://techcrunch.com/2026/08/21/the-225-pebble-time-2-is-a-refreshingly-fun-smartwatch/
+
+9. *Nvidia just showed that the harness, not the AI model, is now the real hero* (TechCrunch)
+Nvidia research shows that AI agents can perform well, and not go off the deep end, through fine-tuning, even if the AI model isn't that great at the task.
+https://techcrunch.com/2026/08/21/nvidia-just-showed-that-the-harness-not-the-ai-model-is-now-the-real-hero/
+
+10. *Last chance: Save up to $300 on your TechCrunch Disrupt 2026 ticket today* (TechCrunch)
+If you’ve been circling around Disrupt, then now’s the best time to lock in your pass and start getting ready to join the rest of the startup community gathering in San Francisco from October 13-15 at...
+https://techcrunch.com/2026/08/21/last-chance-save-up-to-300-on-your-techcrunch-disrupt-2026-ticket-today/
+
+11. *Tesla’s solar roof is dead — here’s what went wrong* (TechCrunch)
+Tesla's solar roof was an experiment that never really caught on for the company. But does that mean the concept of roof-integrated solar is dead?
+https://techcrunch.com/2026/08/21/teslas-solar-roof-is-dead-heres-what-went-wrong/
+
+12. *Waymo hands over documents in NHTSA’s child collision probe* (TechCrunch)
+The responses to NHTSA's questions so far are redacted entirely, citing "confidential business information."
+https://techcrunch.com/2026/08/21/waymo-hands-over-documents-in-nhtsas-child-collision-probe/
+
+13. *Why is the DOJ investigating Andreessen Horowitz’s board seats?* (TechCrunch)
+Andreessen Horowitz has two partners sitting on the boards of companies that now compete with each other: Ben Horowitz at Databricks and Martin Casado at Fivetran. Nothing too scandalous on the surfac...
+https://techcrunch.com/video/why-is-the-doj-investigating-andreessen-horowitzs-board-seats/
+
+14. *US government lab is probing Chinese lidar for security vulnerabilities* (TechCrunch)
+The security review is being performed by the Idaho National Laboratory, and the research is being funded by a company -- or a group of companies -- in the electric and autonomous vehicle industries.
+https://techcrunch.com/2026/08/21/us-government-lab-is-probing-chinese-lidar-for-security-vulnerabilities/
+
+15. *Oura faces lawsuit accusing it of misleading consumers about sleep-tracking accuracy* (TechCrunch)
+The lawsuit alleges that Oura rings are unable to measure any of the physiological signals needed to assess sleep quality or determine sleep stages.
+https://techcrunch.com/2026/08/21/oura-faces-lawsuit-accusing-it-of-misleading-consumers-about-sleep-tracking-accuracy/
+
+16. *Walmart to finally start accepting Apple Pay and Google Pay* (TechCrunch)
+Are pigs flying? Walmart has finally caved on its refusal to support Apple Pay and Google Pay.
+https://techcrunch.com/2026/08/21/walmart-to-finally-start-accepting-apple-pay-and-google-pay/
+
+17. *Starcloud raises $250 million for orbital data centers as launch options dry up* (TechCrunch)
+There's about to be a big fight to secure access to space.
+https://techcrunch.com/2026/08/21/starcloud-raises-200-million-for-orbital-data-centers-as-launch-options-dry-up/
+
+18. *Tesla recalls 3 million cars as part of China-wide push to stop hidden door handles* (TechCrunch)
+Tesla and eight other automakers will install warning labels that help occupants identify the often hard-to-find manual door releases.
+https://techcrunch.com/2026/08/21/tesla-recalls-3-million-cars-as-part-of-china-wide-push-to-stop-hidden-door-handles/
+
+19. *Private equity firm Apollo confirms data breach amid hacking wave targeting financial giants* (TechCrunch)
+The private equity giant confirms a breach, weeks after Google researchers said hackers were targeting financial companies.
+https://techcrunch.com/2026/08/21/private-equity-firm-apollo-confirms-data-breach-amid-hacking-wave-targeting-financial-giants/
+
+20. *Senator asks US government watchdog to review how feds use hacking tools* (TechCrunch)
+Senator Ron Wyden sent a letter to the U.S. federal watchdog requesting a comprehensive review of how the FBI, DEA, ICE's HSI, and the Secret Service use hacking tools and spyware against Americans.
+https://techcrunch.com/2026/08/21/senator-asks-us-federal-watchdog-to-review-how-feds-use-hacking-tools/
+
+🛠️ أدوات وتحديثات جديدة
+
+1. *Slack turns coding into a group project* (The Rundown AI)
+PLUS: Sell a high-value AI workflow audit as a consultant
+https://therundownai.beehiiv.com/p/slack-turns-coding-into-a-group-project
