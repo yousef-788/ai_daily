@@ -1,0 +1,27 @@
+🗞️ AI Daily — 2026-08-24
+
+📰 أخبار الذكاء الاصطناعي
+
+1. *Who’s behind the new ‘stealth model’ Ox Alpha?* (TechCrunch)
+A mysterious new AI model called Ox Alpha has driven certain corners of the internet into a frenzy of speculation.
+https://techcrunch.com/2026/08/23/whos-behind-the-new-stealth-model-ox-alpha/
+
+2. *Uber faces fine of nearly $1B over automated driver suspensions* (TechCrunch)
+The Dutch Data Protection Authority is fining Uber €825 million in the second largest penalty issued under Europe’s GDPR.
+https://techcrunch.com/2026/08/23/uber-faces-fine-of-nearly-1b-over-automated-driver-suspensions/
+
+3. *Linkdaze’s smart calendar is built to run a household, not just track a schedule* (TechCrunch)
+Linkdaze's smart digital calendar stands out for not putting its features behind a paywall, including an AI meal planner tool.
+https://techcrunch.com/2026/08/23/linkdazes-smart-calendar-is-built-to-run-a-household-not-just-track-a-schedule/
+
+4. *TechCrunch Mobility: The custom chip driving Waymo’s robotaxi ambitions* (TechCrunch)
+Welcome back to TechCrunch Mobility — your central hub for news and insights on the future of transportation.
+https://techcrunch.com/2026/08/23/techcrunch-mobility-the-custom-chip-driving-waymos-robotaxi-ambitions/
+
+5. *Flock CEO calls for ‘compromise’ as surveillance company faces growing backlash* (TechCrunch)
+Flock Safety faces a growing public outcry over concerns that its surveillance technology could be misused.
+https://techcrunch.com/2026/08/23/flock-ceo-calls-for-compromise-as-surveillance-company-faces-growing-backlash/
+
+6. *Is it legal to train AI models on copyrighted books? It’s complicated* (TechCrunch)
+Most published authors have, without their knowledge or consent, contributed to the development of the same AI tools that threaten to undermine their livelihoods. That seems illegal, right?
+https://techcrunch.com/2026/08/23/is-it-legal-to-train-ai-models-on-copyrighted-books-its-complicated/
