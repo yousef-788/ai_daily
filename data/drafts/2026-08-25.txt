@@ -1,0 +1,73 @@
+🗞️ AI Daily — 2026-08-25
+
+📰 أخبار الذكاء الاصطناعي
+
+1. *India’s Airbound bags $37M to take on trucks with rocket-like drones* (TechCrunch)
+Airbound's ultra-lightweight approach to drone delivery has attracted backing from Greenoaks, DoorDash, and Silicon Valley investor Lachy Groom.
+https://techcrunch.com/2026/08/24/indias-airbound-bags-37m-to-take-on-trucks-with-rocket-like-drones/
+
+2. *Situational Awareness, star AI hedge fund that nearly imploded, now being probed by the SEC* (TechCrunch)
+The AI hedge fund went from "the talk of Wall Street" to "subject of federal subpoenas" faster than you can say "diversify your portfolio."
+https://techcrunch.com/2026/08/24/situational-awareness-star-ai-hedge-fund-that-nearly-imploded-now-being-probed-by-the-sec/
+
+3. *Oura is reportedly eyeing a September IPO that could value it at more than $16B* (TechCrunch)
+We all knew it was coming. The expected valuation may surprise, though.
+https://techcrunch.com/2026/08/24/oura-is-reportedly-eyeing-a-september-ipo-that-could-value-it-at-more-than-16b/
+
+4. *Trump bought SpaceX shares two weeks after blockbuster IPO* (TechCrunch)
+The president bought when the stock was in the mid-$150 range. SpaceX finished trading on Monday back at its IPO price of $135.
+https://techcrunch.com/2026/08/24/trump-bought-spacex-shares-two-weeks-after-blockbuster-ipo/
+
+5. *Zillow and Redfin settle FTC antitrust case* (TechCrunch)
+Zillow and Redfin reached a settlement with the FTC, which requires Redfin to reenter the rental advertising business.
+https://techcrunch.com/2026/08/24/zillow-and-redfin-settle-ftc-antitrust-case/
+
+6. *Showcase your startup at TechCrunch Disrupt 2026 and book an exhibit table while there’s still space* (TechCrunch)
+Make the most of Disrupt's crowds of potential investors and partners by exhibiting your startup from October 13-15.
+https://techcrunch.com/2026/08/24/showcase-your-startup-at-techcrunch-disrupt-2026-and-book-an-exhibit-table-while-theres-still-space/
+
+7. *Alabama launches investigation into OpenAI’s hack of Hugging Face* (TechCrunch)
+Weeks after OpenAI disclosed that one of its cybersecurity models had gone rogue and hacked AI dataset company Hugging Face, Alabama’s attorney general announced an investigation into the incident.
+https://techcrunch.com/2026/08/24/alabama-launches-investigation-into-openais-hack-of-hugging-face/
+
+8. *Amazon hikes hardware prices by 60%, blaming memory shortage* (TechCrunch)
+As the memory shortage continues to cause trouble for hardware makers, Amazon says it is now being forced to pass on the costs to its consumers.
+https://techcrunch.com/2026/08/24/amazon-hikes-hardware-prices-by-60-percent-blaming-memory-shortage/
+
+9. *Amjad Masad, CEO and co-founder of Replit, joins the Disrupt Stage at TechCrunch Disrupt 2026* (TechCrunch)
+At TechCrunch Disrupt 2026, Replit CEO Amjad Masad will share his perspective on the future of programming and Replit's role in developing it.
+https://techcrunch.com/2026/08/24/amjad-masad-ceo-and-co-founder-of-replit-joins-the-disrupt-stage-at-techcrunch-disrupt-2026/
+
+10. *Apply now to host a Side Event at TechCrunch Disrupt 2026* (TechCrunch)
+Apply before September 4 to be a part of the TechCrunch Disrupt community by hosting your own Side Event.
+https://techcrunch.com/2026/08/24/apply-now-to-host-a-side-event-at-techcrunch-disrupt-2026/
+
+11. *Instinct’s powerful AI assistant is raising privacy and security concerns* (TechCrunch)
+Early testers are raving about what Instinct can do, but some say the AI assistant’s sweeping access, broad terms and ability to act on users’ behalf come with uncomfortable trade-offs.
+https://techcrunch.com/2026/08/24/instincts-powerful-ai-assistant-is-raising-privacy-and-security-concerns/
+
+12. *Valor, Point72 back General Intuition at $6B valuation as AI startup pushes into robotics* (TechCrunch)
+General Intuition, the startup building a foundation model that trains generalized AI agents how to move through space and time, is in talks to raise at a $6 billion pre-money valuation from new inves...
+https://techcrunch.com/2026/08/24/valor-point72-back-general-intuition-at-6b-valuation-as-ai-startup-pushes-into-robotics/
+
+13. *OpenAI is building AI agents for everything. Will everyone use them?* (TechCrunch)
+Inside the frontier lab’s push to bring AI agents from software engineers to the masses.
+https://techcrunch.com/2026/08/24/openai-is-building-an-ai-agent-for-everything-will-everyone-use-them/
+
+14. *Brake problems in GM EVs draw greater federal scrutiny* (TechCrunch)
+In one crash, the driver of a 2024 Blazer EV said they had to "deliberately steer the vehicle into a concrete curb" to slow it down and avoid a "catastrophic intersection collision."
+https://techcrunch.com/2026/08/24/brake-problems-in-gm-evs-draw-greater-federal-scrutiny/
+
+15. *Hugging Face reportedly in talks to be acquired for $13B* (TechCrunch)
+Hugging Face has reportedly been fielding acquisition offers that would value the company at around $13B. But with the founders' feeling of responsibility to community, doubts arise as to whether a sa...
+https://techcrunch.com/2026/08/24/hugging-face-reportedly-in-talks-to-be-acquired-for-13b/
+
+16. *US nutrition startup Berry Street merges with India’s Healthify as GLP-1 trends upwards* (TechCrunch)
+Berry Street founder Noah Kotlove and Healthify founder Tushar Vashisht will act as co-CEOs of the new entity.
+https://techcrunch.com/2026/08/24/us-nutrition-startup-berry-street-merges-with-indias-healthify-as-glp-1-trends-upwards/
+
+🛠️ أدوات وتحديثات جديدة
+
+1. *A mystery challenger at the AI frontier* (The Rundown AI)
+PLUS: Use Gemini Canvas to visualize Google Sheets
+https://therundownai.beehiiv.com/p/a-mystery-challenger-at-the-ai-frontier
