@@ -1,0 +1,27 @@
+🗞️ AI Daily — 2026-08-30
+
+📰 أخبار الذكاء الاصطناعي
+
+1. *Sony Music, Warner sue Anthropic, alleging a “brazen campaign” of intellectual property theft* (TechCrunch)
+This latest lawsuit is particularly broad and homes in on accusations of illegal piracy.
+https://techcrunch.com/2026/08/29/sony-music-warner-sue-anthropic-alleging-a-brazen-campaign-of-intellectual-property-theft/
+
+2. *At TechBBQ, Europe’s AI conversations kept coming back to: Who’s actually in control?* (TechCrunch)
+Investors, founders, and operators from across Europe arrived for the annual Nordic TechBBQ conference to talk about how humans can have agency over AI.
+https://techcrunch.com/2026/08/29/at-techbbq-europes-ai-conversations-kept-coming-back-to-whos-actually-in-control/
+
+3. *“We’re not doing 30 bets a year”: Vijay Pande on betting small after running $4 billion at a16z* (TechCrunch)
+Vijay Pande — who left a16z's roughly $4 billion biotech practice last year to start the much smaller, AI-native VZVC — talks about why biology is finally shifting from a "discovery" science to an "en...
+https://techcrunch.com/2026/08/29/were-not-doing-30-bets-a-year-vijay-pande-on-betting-small-after-running-4-billion-at-a16z/
+
+4. *Hollywood celebs are getting into microdrama apps* (TechCrunch)
+Several Hollywood celebs are ditching the massive eight-figure checks and exotic movie sets for a rising format: microdramas.
+https://techcrunch.com/2026/08/29/hollywood-celebs-are-getting-into-microdrama-apps/
+
+5. *The Theragun Sense makes everyday recovery surprisingly easy* (TechCrunch)
+As my 20s are set to come to an end later this year, I’ve officially reached the age where sleeping in the wrong position or stretching just a little too far can cause aches and pains. I’ve always bee...
+https://techcrunch.com/2026/08/29/the-theragun-sense-makes-everyday-recovery-surprisingly-easy/
+
+6. *Nvidia’s AI advantage is moving beyond the GPU* (TechCrunch)
+The new generation of data center systems is increasing efficiency with smarter traffic control instead of just more processor cycles.
+https://techcrunch.com/2026/08/29/nvidias-ai-advantage-is-moving-beyond-the-gpu/
