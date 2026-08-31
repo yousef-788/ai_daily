@@ -1,0 +1,37 @@
+🗞️ AI Daily — 2026-08-31
+
+📰 أخبار الذكاء الاصطناعي
+
+1. *Meeting notetaker Circleback adds a free tier to attract more customers* (TechCrunch)
+Circleback is also introducing new pricing plans starting from $14 per month
+https://techcrunch.com/2026/08/31/meeting-notetaker-circleback-adds-a-free-tier-to-attract-more-customers/
+
+2. *The U.S. is building barriers around drones and robots, but China has scale to get around them* (TechCrunch)
+The U.S. is shutting out more foreign-made drones and robots. China’s scale means the global competition may simply move elsewhere.
+https://techcrunch.com/2026/08/30/the-u-s-is-building-barriers-around-drones-and-robots-china-still-has-scale/
+
+3. *Grindr wants to be the everything app for gay men; investors are still deciding whether it can pull it off* (TechCrunch)
+George Arison is done letting Wall Street's "Grindr discount" go unchallenged — in a wide-ranging Q&A, the CEO walks us through how AI, a controversial $350-plus EDGE tier, and a bet on healthcare and...
+https://techcrunch.com/2026/08/30/grindr-wants-to-be-the-everything-app-for-gay-men-investors-are-still-deciding-whether-it-can-pull-it-off/
+
+4. *Liux’s Big microcar bets on sustainability to take on Chinese rivals* (TechCrunch)
+The Liux Big microcar is made in Spain. The startup thinks it can compete in a crowded market with its tiny electric car built around sustainability.
+https://techcrunch.com/2026/08/30/liuxs-big-microcar-bets-on-sustainability-to-take-on-chinese-rivals/
+
+5. *Musk’s faster path to more gas turbines comes with pollution problem* (TechCrunch)
+Elon Musk says a secretive new SpaceX foundry will let him cast his own turbine blades and get gas power online 18 months faster than anyone else — but it's a bet on a fuel source that's already trigg...
+https://techcrunch.com/2026/08/30/musks-faster-path-to-more-gas-turbines-comes-with-pollution-problem/
+
+6. *TechCrunch Mobility: The hidden human cost of robotaxis* (TechCrunch)
+Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it.
+https://techcrunch.com/2026/08/30/techcrunch-mobility-the-hidden-human-cost-of-robotaxis/
+
+7. *Caterpillar is bringing to AI deployment what it learned from automating mining* (TechCrunch)
+Caterpillar has spent decades putting autonomous machines to work at remote mining sites. It's now bringing that experience to AI deployment.
+https://techcrunch.com/2026/08/30/caterpillar-is-bringing-to-ai-deployment-what-it-learned-from-automating-mining/
+
+🛠️ أدوات وتحديثات جديدة
+
+1. *OpenAI cuts out SpaceX-owned Cursor* (The Rundown AI)
+PLUS: Submit your iOS app to the App Store with Codex
+https://therundownai.beehiiv.com/p/openai-cuts-out-spacex-owned-cursor
