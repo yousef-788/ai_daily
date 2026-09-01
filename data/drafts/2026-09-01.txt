@@ -1,0 +1,89 @@
+🗞️ AI Daily — 2026-09-01
+
+📰 أخبار الذكاء الاصطناعي
+
+1. *If space data centers feel far-fetched, why not interstellar travel?* (TechCrunch)
+The team behind Starcloud's orbital data centers has a new high-risk space project: Sending a probe to Alpha Centauri.
+https://techcrunch.com/2026/09/01/if-space-data-centers-feel-far-fetched-why-not-interstellar-travel/
+
+2. *Magna increases bet on battery swapping in India with $35M for Yuma* (TechCrunch)
+Magna's investment in Yuma Energy has reached $87 million as the Canadian auto supplier increases its majority stake in the Indian battery-swapping firm.
+https://techcrunch.com/2026/08/31/magna-increases-bet-on-battery-swapping-in-india-with-35m-for-yuma/
+
+3. *Lachy Groom backs Indian startup aiming to keep aircraft aloft for a year* (TechCrunch)
+Founded by a 20-year-old, Alteon is developing autonomous aircraft that hopes to harvest wind energy to stay aloft for several months.
+https://techcrunch.com/2026/08/31/lachy-groom-backs-indian-startup-aiming-to-keep-aircraft-aloft-for-a-year/
+
+4. *Apple shares ‘shocking evidence’ against former employee accused of stealing company data for OpenAI* (TechCrunch)
+Apple says it has evidence that a former employee destroyed evidence of data theft after learning he was under investigation.
+https://techcrunch.com/2026/08/31/apple-shares-shocking-evidence-against-former-employee-accused-of-stealing-company-data-for-openai/
+
+5. *Polymarket reportedly raises $300 million from Donald Trump Jr.’s investment fund* (TechCrunch)
+The firm, 1789 Capital, led the funding round that reportedly will total around $1 billion.
+https://techcrunch.com/2026/08/31/polymarket-reportedly-raises-300-million-from-donald-trump-jr-s-investment-fund/
+
+6. *a16z brings growth fund to $8.5B days after launching new $1.1B fund* (TechCrunch)
+Andreessen Horowitz held out its hand and returned with billions more in new funds to invest in startups.
+https://techcrunch.com/2026/08/31/a16z-brings-growth-fund-to-8-5b-days-after-launching-new-1-1b-fund/
+
+7. *A group funded by Andreessen, Horowitz, and Brockman plans data center ads to sway midterms* (TechCrunch)
+Build American AI plans to lobby voters in select states about the virtues of data centers by spending millions of dollars on ads.
+https://techcrunch.com/2026/08/31/a-group-funded-by-andreessen-horowitz-and-brockman-plan-data-center-ads-to-sway-midterms/
+
+8. *FTC accuses Amazon of running a ‘secret ad surcharge scheme’ in new lawsuit* (TechCrunch)
+Amazon is facing a new lawsuit from the FTC and 22 states for allegedly secretly charging businesses more for advertising.
+https://techcrunch.com/2026/08/31/ftc-accuses-amazon-of-running-a-secret-ad-surcharge-scheme-in-new-lawsuit/
+
+9. *The Pentagon now has its own version of ChatGPT and Grok* (TechCrunch)
+Versions of OpenAI's ChatGPT and SpaceXAI's Grok will join Google's Gemini on the Pentagon's central portal for AI tools.
+https://techcrunch.com/2026/08/31/the-pentagon-now-has-its-own-version-of-chatgpt-and-grok/
+
+10. *Apply now to host a Side Event at TechCrunch Disrupt 2026* (TechCrunch)
+Apply before September 4 to be a part of the TechCrunch Disrupt community by hosting your own Side Event.
+https://techcrunch.com/2026/08/31/apply-now-to-host-a-side-event-at-techcrunch-disrupt-2026/
+
+11. *Instagram puts new limits on undisclosed AI profiles* (TechCrunch)
+As frustration over AI influencers has been growing, Instagram is limiting the reach of undisclosed AI profiles.
+https://techcrunch.com/2026/08/31/instagram-puts-new-limits-on-undisclosed-ai-profiles/
+
+12. *Apple’s top App Store exec, Phil Schiller, follows wave of exits as CEO Tim Cook steps down* (TechCrunch)
+The longtime executive won't be leaving Apple just yet but staff at the company say it's a step closer to Schiller retiring.
+https://techcrunch.com/2026/08/31/apples-top-app-store-exec-phil-schiller-follows-wave-of-exits-as-ceo-tim-cook-steps-down/
+
+13. *Microsoft tests fix for latest hours-long Outlook outage* (TechCrunch)
+Microsoft says it's testing a fix for the widespread Outlook issues that have led to email delays and failures.
+https://techcrunch.com/2026/08/31/microsoft-tests-fix-for-latest-hours-long-outlook-outage/
+
+14. *Kalshi bans George Santos for life over State of the Union bets* (TechCrunch)
+The disciplinary action comes two months after the Commodity Futures Trading Commission settled charges against Santos.
+https://techcrunch.com/2026/08/31/kalshi-bans-george-santos-for-life-over-state-of-the-union-bets/
+
+15. *Harvard Law dropout raises $6M for Blue Voice to build a ‘Harvey for police officers’* (TechCrunch)
+Blue Voice is trained on department-specific laws, local ordinances, protocols, and guidelines that general-purpose AI tools can't access on the public internet.
+https://techcrunch.com/2026/08/31/harvard-law-dropout-raises-6m-for-blue-voice-to-build-a-harvey-for-police-officers/
+
+16. *Hackers claim millions of patient records stolen during data breach at healthcare giant McKesson* (TechCrunch)
+The company, which distributes medicines and medical devices to hospitals and healthcare practices across the U.S., said it was hacked and expects intermittent service degradation.
+https://techcrunch.com/2026/08/31/hackers-claim-millions-of-patient-records-stolen-during-data-breach-at-healthcare-giant-mckesson/
+
+17. *Ryan Breslow is raising up to $27M in pay-to-play bridge funding to save Bolt* (TechCrunch)
+The controversial founder of the checkout startup once valued at $11 billion is putting in $5 million of his own money.
+https://techcrunch.com/2026/08/31/ryan-breslow-is-raising-up-to-27m-in-pay-to-play-bridge-funding-to-save-bolt/
+
+18. *Tim Cook’s parting message: Apple is in the hands of a product builder* (TechCrunch)
+Tim Cook’s farewell memo to Apple employees offers a glimpse at how he wants John Ternus to be seen: as a product builder with deep experience across the iPhone, Mac, AirPods, and other major hardware...
+https://techcrunch.com/2026/08/31/tim-cooks-parting-message-apple-is-in-the-hands-of-a-product-builder/
+
+19. *VLC crosses 7 billion downloads* (TechCrunch)
+In our world of expensive streaming platforms, the very free and offline VLC media player has crossed 7 billion downloads.
+https://techcrunch.com/2026/08/31/vlc-crosses-7-billion-downloads/
+
+20. *Clipto uses AI to search terabytes of video and is now valued at $250M* (TechCrunch)
+The three-year-old startup says it reached $15 million in ARR and profitability before raising its latest $15 million round.
+https://techcrunch.com/2026/08/31/three-year-old-ai-media-search-startup-clipto-hits-a-250m-valuation/
+
+🛠️ أدوات وتحديثات جديدة
+
+1. *Runway's Solaris previews the no-code internet* (The Rundown AI)
+PLUS: How to connect ChatGPT to iMessage
+https://therundownai.beehiiv.com/p/runway-solaris-previews-the-no-code-internet
