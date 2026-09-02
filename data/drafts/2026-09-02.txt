@@ -1,0 +1,89 @@
+🗞️ AI Daily — 2026-09-02
+
+📰 أخبار الذكاء الاصطناعي
+
+1. *Larry Page’s flying car company Pivotal loses its CEO* (TechCrunch)
+The company told TechCrunch he is "pursuing new endeavors." Karklin will be replaced on an interim basis by Mike Ross, an aviation executive who joined Pivotal's board of directors in November 2025.
+https://techcrunch.com/2026/09/01/larry-pages-flying-car-company-pivotal-loses-its-ceo/
+
+2. *Reliance’s JioHotstar takes its streaming empire global — without sports* (TechCrunch)
+JioHotstar will only have entertainment content when it launches in the UK, Canada, and Singapore.
+https://techcrunch.com/2026/09/01/reliances-jiohotstar-takes-its-streaming-empire-global-without-sports/
+
+3. *Apple follows Google in adopting Trump’s ‘Lake America’ name* (TechCrunch)
+Apple Maps is following President Trump's executive order to change the name of Lake Ontario to Lake America.
+https://techcrunch.com/2026/09/01/apple-follows-google-in-adopting-trumps-lake-america-name/
+
+4. *AfterQuery reportedly becomes Y Combinator’s fastest-ever unicorn, now valued at $3.2B* (TechCrunch)
+AI model-training startup AfterQuery has reportedly raised a round that valued it at $3.2 billion, just five months after announcing its $30 million Series A at a $300 million valuation in April.
+https://techcrunch.com/2026/09/01/afterquery-reportedly-becomes-y-combinators-fastest-ever-unicorn-now-valued-at-3-2b/
+
+5. *OpenAI’s Astra model is on the way — and very good at breaking into computer systems* (TechCrunch)
+OpenAI previewed the precautions it is taking as it prepares to release Astra, its newest, cyber-critical LLM.
+https://techcrunch.com/2026/09/01/open-ais-astra-model-is-on-the-way-and-very-good-at-breaking-into-computer-systems/
+
+6. *Google’s Android update tackles motion sickness, accessibility, and more* (TechCrunch)
+While some of the features see Google playing catch-up to Apple, which already offers similar features for iPhone users, others specifically leverage Gemini to provide various improvements.
+https://techcrunch.com/2026/09/01/googles-android-update-tackles-motion-sickness-accessibility-and-more/
+
+7. *X says attackers are targeting user accounts after the launch of X Money* (TechCrunch)
+X is investigating a wave of unsolicited password reset emails that it believes may be tied to the rollout of its new payments service.
+https://techcrunch.com/2026/09/01/x-says-attackers-are-targeting-accounts-after-the-launch-of-x-money/
+
+8. *John Ternus hypes ‘huge launch next week’ in first memo as Apple CEO* (TechCrunch)
+Apple is hosting its iPhone release event next week, which is rumored to feature the first-ever foldable iPhone.
+https://techcrunch.com/2026/09/01/john-ternus-hypes-huge-launch-next-week-in-first-memo-as-apple-ceo/
+
+9. *Anthropic’s new Fable release is cheaper, less restrictive* (TechCrunch)
+Fable 5.1 includes changes meant to reduce token cost and false-positive restrictions from the model's safeguards.
+https://techcrunch.com/2026/09/01/anthropics-new-fable-release-is-cheaper-less-restrictive/
+
+10. *Thrive’s Kushner defends involvement in FIFA mess, hires Elon’s go-to lawyer* (TechCrunch)
+New York's prestigious-yet-secretive venture firm Thrive Capital finally speaks out about its involvement in the messy drama upending international soccer.
+https://techcrunch.com/2026/09/01/thrives-kushner-defends-involvement-in-fifa-mess-hires-elons-go-to-lawyer/
+
+11. *Who is John Ternus, the new Apple CEO?* (TechCrunch)
+Starting on September 1, Ternus will lead one of the world's most valuable companies, but if you're not a dedicated Apple enthusiast, you've probably never heard of this man, who has largely remained...
+https://techcrunch.com/2026/09/01/who-is-john-ternus-the-incoming-apple-ceo/
+
+12. *Google’s answer to Canva is an AI tool where you prompt instead of design* (TechCrunch)
+With Google Pics, Google is pushing deeper into the creative software market dominated by Canva and Adobe, but with a distinctly AI-first approach.
+https://techcrunch.com/2026/09/01/googles-answer-to-canva-is-an-ai-tool-where-you-prompt-instead-of-design/
+
+13. *ChatGPT Health adds Epic integration for clinicians to import patient data* (TechCrunch)
+OpenAI said that the integration provides read-only access to health records for clinicians.
+https://techcrunch.com/2026/09/01/chatgpt-health-adds-epic-integration-for-clinicians-to-import-patient-data/
+
+14. *Waymo goes on offense ahead of Tesla’s Cybercab launch* (TechCrunch)
+Waymo argued that fully autonomous vehicles aren't possible without using a mix of sensors and warned that pure end-to-end AI systems aren't safe enough.
+https://techcrunch.com/2026/09/01/waymo-goes-on-offense-ahead-of-teslas-cybercab-launch/
+
+15. *Sequoia-incubated Empirik launches with $21M to predict outages before they happen* (TechCrunch)
+The startup wants to do for IT infrastructure what Cursor did for software engineering.
+https://techcrunch.com/2026/09/01/sequoia-incubated-empirik-launches-with-21m-to-predict-outages-before-they-happen/
+
+16. *GoPro to be acquired for $285M, will remain a public company* (TechCrunch)
+GoPro is merging with a company that builds AI infrastructure, and will continue supporting existing consumer products.
+https://techcrunch.com/2026/09/01/gopro-to-be-acquired-for-285m-will-remain-a-public-company/
+
+17. *Amazon Alexa can now alert you when something new might tempt you to shop* (TechCrunch)
+Amazon is adding a new Alexa-powered feature called “Update Me When” that can send personalized alerts about product launches, tours, books, shows, and other events that could trigger a purchase.
+https://techcrunch.com/2026/09/01/amazon-alexa-can-now-alert-you-when-something-new-might-tempt-you-to-shop/
+
+18. *AIR raises $50M to help companies vet the skills and add-ons AI agents use* (TechCrunch)
+AIR's platform can discover agents running at a company, continuously vets any skills and add-ons they use, and blocks any unwanted behavior.
+https://techcrunch.com/2026/09/01/air-raises-50m-to-help-companies-vet-the-skills-and-add-ons-ai-agents-use/
+
+19. *Microsoft 365 outage drags on, but things are improving* (TechCrunch)
+Microsoft 365 and Outlook are still seeing service degradations on Tuesday, the company's status page indicates.
+https://techcrunch.com/2026/09/01/microsoft-365-outage-drags-on-but-things-are-improving/
+
+20. *Fambot introduces an ‘AI chief of staff’ for families* (TechCrunch)
+Fambot is building an AI “chief of staff” to help families manage the emails, calendars, school updates, sports schedules, and other logistics of raising kids.
+https://techcrunch.com/2026/09/01/fambot-introduces-an-ai-chief-of-staff-for-families/
+
+🛠️ أدوات وتحديثات جديدة
+
+1. *Fable 5.1 kicks off launch week at the frontier* (The Rundown AI)
+PLUS: How to pick a dedicated AI device
+https://therundownai.beehiiv.com/p/fable-5-1-kicks-off-launch-week-at-the-frontier
