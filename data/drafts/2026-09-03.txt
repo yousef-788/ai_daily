@@ -1,0 +1,89 @@
+🗞️ AI Daily — 2026-09-03
+
+📰 أخبار الذكاء الاصطناعي
+
+1. *The Builders Stage brings practical strategies for scaling startups to TechCrunch Disrupt 2026* (TechCrunch)
+The Builders Stage is returning to TechCrunch Disrupt, bringing together founders, startup operators, and investors for practical conversations on what it takes to build and scale.
+https://techcrunch.com/2026/09/02/the-builders-stage-brings-practical-strategies-for-scaling-startups-to-techcrunch-disrupt-2026/
+
+2. *Palo Alto Networks paid $500M for Thrive-backed Console, sources say* (TechCrunch)
+The acquisition also leaves Sequoia-backed Serval as the de facto startup leader in AI IT service automation, industry watchers believe.
+https://techcrunch.com/2026/09/02/palo-alto-networks-paid-500m-for-thrive-backed-console-sources-say/
+
+3. *TechCrunch Disrupt 2026’s new Real World AI Stage features Nvidia, robots, and extinct animals* (TechCrunch)
+On our new Real World AI stage, we’ll be focusing on the intersection between the digital and physical, and all the ways we’ll continue to see a blending of the two.
+https://techcrunch.com/2026/09/02/techcrunch-disrupt-2026s-new-real-world-ai-stage-features-nvidia-robots-and-extinct-animals/
+
+4. *Google spared from ad-business breakup, but judge orders changes to how it operates* (TechCrunch)
+Google has dodged an effort to break up its ad business, but a judge said Wednesday that the company will need to adjust its business to benefit competitors.
+https://techcrunch.com/2026/09/02/google-spared-from-ad-business-breakup-but-judge-orders-changes-to-how-it-operates/
+
+5. *OpenAI’s new reasoning technique alarms AI safety experts* (TechCrunch)
+OpenAI’s new Astra model will use “recurrent depth,” a technique that allows the model to operate outside of the sequential thinking that characterizes most reasoning models.
+https://techcrunch.com/2026/09/02/openais-new-reasoning-technique-alarms-ai-safety-experts/
+
+6. *MapQuest is now the No. 1 US app after bucking Trump’s ‘Lake America’ renaming* (TechCrunch)
+The once-dominant mapping app has surged to the top of Apple’s U.S. App Store after refusing to adopt Trump’s “Lake America” name, drawing more than half of its 2026 U.S. downloads in just six days.
+https://techcrunch.com/2026/09/02/mapquest-is-now-the-no-1-u-s-app-after-bucking-trumps-lake-america-renaming/
+
+7. *It sure looks like hackers breached a major ID card verification service* (TechCrunch)
+An identity theft search site claimed to have more than 150 million driver's license photos stolen from an ID verification service. The crime site has now shut down.
+https://techcrunch.com/2026/09/02/it-sure-looks-like-hackers-breached-a-major-id-card-verification-service/
+
+8. *Delivery Hero board backs Uber’s $15B takeover bid* (TechCrunch)
+If approved, the combined company would become one of the largest food delivery platforms in the world.
+https://techcrunch.com/2026/09/02/delivery-hero-board-backs-ubers-15b-takeover-bid/
+
+9. *Pangram’s Max Spero on why AI detection is harder than ‘Real or Fake’* (TechCrunch)
+The internet has a trust problem, and it’s not just because social media feeds are filling up with AI slop. AI-generated text and images are now making their way into job applications, product reviews...
+https://techcrunch.com/video/pangrams-max-spero-on-why-ai-detection-is-harder-than-real-or-fake/
+
+10. *X shifts US creator payouts from Stripe to X Money* (TechCrunch)
+X says U.S. creator payouts will now be handled through its X Money payments service, a change that appears to replace the previous Stripe-powered payout system.
+https://techcrunch.com/2026/09/02/x-shifts-us-creator-payouts-from-stripe-to-x-money/
+
+11. *US government sides with OpenAI on issue of training LLMs on copyrighted material* (TechCrunch)
+"The United States has a strong interest in continuing to develop a robust and competitive artificial intelligence industry that sets the standard for the practice and procedure of AI use globally," t...
+https://techcrunch.com/2026/09/02/u-s-government-sides-with-openai-on-issue-of-training-llms-on-copyrighted-material/
+
+12. *Enhanced geothermal notches another win as Google buys 400 MW from Fervo* (TechCrunch)
+Fervo's deal with Google could expand to 1 gigawatt of geothermal power, enough to supply a very large AI data center in Utah.
+https://techcrunch.com/2026/09/02/enhanced-geothermal-notches-another-win-as-google-buys-400-mw-from-fervo/
+
+13. *Wonderful more than doubles its valuation to $5B in under 6 months* (TechCrunch)
+Wonderful said it will use its $550 million Series C funding to develop products faster, expand its FDE teams, and meet demand for its products.
+https://techcrunch.com/2026/09/02/wonderful-more-than-doubles-its-valuation-to-5b-in-under-6-months/
+
+14. *India’s richest man now wants to turn aging computers into AI-ready PCs* (TechCrunch)
+Jio is betting it can turn an aging computer into an AI-ready PC for as little as about $11 for two months.
+https://techcrunch.com/2026/09/02/indias-richest-man-now-wants-to-turn-aging-computers-into-ai-ready-pcs/
+
+15. *HiddenLayer nabs $100M as enterprises rush to secure their AI deployments* (TechCrunch)
+Security companies are scrambling to build products that can monitor not just agents but also the tools and add-ons they use.
+https://techcrunch.com/2026/09/02/hiddenlayer-nabs-100m-as-enterprises-rush-to-secure-their-ai-deployments/
+
+16. *PSA: Amazon’s shopping AI can now tell you if that message is a scam* (TechCrunch)
+Amazon is adding a scam-detection feature to Alexa for Shopping that can verify whether suspicious emails, texts, and other messages actually came from the retailer.
+https://techcrunch.com/2026/09/02/psa-amazons-shopping-ai-can-now-tell-you-if-that-message-is-a-scam/
+
+17. *Adobe acquires Indian market intelligence startup Rilo* (TechCrunch)
+This is Adobe's second acquisition out of India after Rephrase.ai in 2023
+https://techcrunch.com/2026/09/02/adobe-acquires-indian-market-intelligence-startup-rilo/
+
+18. *Norway considers ban on camera-enabled wearable ‘pervert glasses’* (TechCrunch)
+The Nordic country says wearable camera headsets need to be regulated given their privacy risks.
+https://techcrunch.com/2026/09/02/norway-considers-ban-on-camera-enabled-wearable-pervert-glasses/
+
+19. *Adobe is making its tools available in Slack* (TechCrunch)
+Users will be able to access Express, Premiere, and Acrobat in Slack
+https://techcrunch.com/2026/09/02/adobe-is-making-its-tools-available-in-slack/
+
+20. *Uber is laying off 10% of staff, or 3,300 people* (TechCrunch)
+Uber is laying off about 3,300 people, or about 10% of its global headcount, in a bid to reduce management layers and invest more in its ridesharing, delivery, and robotaxi divisions.
+https://techcrunch.com/2026/09/02/uber-is-laying-off-10-of-staff-or-3300-people/
+
+🛠️ أدوات وتحديثات جديدة
+
+1. *Meta, Google join the AI launch party* (The Rundown AI)
+PLUS: Nail job interviews with the “Proof Project” method
+https://therundownai.beehiiv.com/p/meta-google-join-the-ai-launch-party
