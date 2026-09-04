@@ -1,0 +1,89 @@
+🗞️ AI Daily — 2026-09-04
+
+📰 أخبار الذكاء الاصطناعي
+
+1. *The sameness problem behind those unappetizing AI-generated menus* (TechCrunch)
+While restaurant owners might look to generative AI as a shortcut to sprucing up their menu, customers can viscerally sense that something is wrong with the food.
+https://techcrunch.com/2026/09/03/the-sameness-problem-behind-those-unappetizing-ai-generated-menus/
+
+2. *Crusoe reportedly raises $3B at a  $30B valuation* (TechCrunch)
+The round came together after the data center developer reportedly secured a $13 billion contract with Jane Street.
+https://techcrunch.com/2026/09/03/crusoe-reportedly-raises-3b-at-a-30b-valuation/
+
+3. *Oura files to go public* (TechCrunch)
+The ring maker says that its business has shown significant revenue growth over the past year.
+https://techcrunch.com/2026/09/03/oura-files-to-go-public/
+
+4. *Tesla is asking people if they want to buy and run Cybercab fleets* (TechCrunch)
+The company published a form on its website Thursday soliciting info from people who are interested in "Cybercab fleet vehicle purchasing."
+https://techcrunch.com/2026/09/03/tesla-is-asking-people-if-they-want-to-buy-and-run-cybercab-fleets/
+
+5. *Startup ARR is less secure than ever, new research shows* (TechCrunch)
+The AI era has completely broken enterprise buying patterns, and startups haven't yet figured out how to navigate.
+https://techcrunch.com/2026/09/03/startup-arr-is-less-secure-than-ever-new-research-shows/
+
+6. *The Cybercab is Tesla’s ‘fork in the road’ moment* (TechCrunch)
+The company is about to formally launch the gold two-seater, with no steering wheel or pedals -- a move that could change Tesla forever.
+https://techcrunch.com/2026/09/03/the-cybercab-is-teslas-fork-in-the-road-moment/
+
+7. *Accel reportedly in talks to lead $1B round for Thinking Machines at $40B valuation* (TechCrunch)
+The high-profile startup's annual revenue run rate stands at over $100 million.
+https://techcrunch.com/2026/09/03/accel-reportedly-in-talks-to-lead-1b-round-for-thinking-machines-at-40b-valuation/
+
+8. *Utilities are racing to link up with fusion startups, with Realta Fusion the latest to benefit* (TechCrunch)
+The grid has been straining under the weight of new AI data centers, and that has utilities courting fusion startups.
+https://techcrunch.com/2026/09/03/utilities-are-racing-to-link-up-with-fusion-startups-with-realta-fusion-the-latest-to-benefit/
+
+9. *Abliteration.ai is making a business out of removing AI guardrails* (TechCrunch)
+Abliteration.AI is making powerful AI models without guardrails easier to access, arguing that giving defenders the same tools as bad actors could ultimately improve cybersecurity.
+https://techcrunch.com/2026/09/03/abliteration-ai-is-making-a-business-out-of-removing-ai-guardrails/
+
+10. *Meta is paying to peek at how you use their latest AI model* (TechCrunch)
+For its new Muse Spark model, intended for operating coding and other agents, Meta is offering an explicit discount averaging out to about 95% for users who "contribute" to the development of future m...
+https://techcrunch.com/2026/09/03/meta-is-paying-to-peek-at-how-you-use-their-latest-ai-model/
+
+11. *OpenAI launches Astra, its powerful (and controversial) new model* (TechCrunch)
+OpenAI claims that Astra represents "a new frontier on computer and browser use," and that it handles tasks with unmatched "speed, accuracy, and safety."
+https://techcrunch.com/2026/09/03/openai-launches-astra-its-powerful-and-controversial-new-model/
+
+12. *Qualcomm backs Ultrahuman in $70M round on bet to turn smart rings into computers* (TechCrunch)
+Ultrahuman is targeting a $200 million annual revenue run rate by January 2027 as it builds a new Qualcomm-powered smart ring.
+https://techcrunch.com/2026/09/03/qualcomm-backs-ultrahuman-in-70m-round-on-bet-to-turn-smart-rings-into-computers/
+
+13. *Circular unveils Ring 3 series with contactless payments and on-finger vibration alerts* (TechCrunch)
+The Circular Ring 3 series announcement comes amid a year of heightened competition in the smart ring market, following the launches of the Oura Ring 5 and RingConn Gen 3.
+https://techcrunch.com/2026/09/03/circular-unveils-ring-3-series-with-contactless-payments-and-on-finger-vibration-alerts/
+
+14. *Ollie is betting its focus on privacy can help it win the AI assistant race* (TechCrunch)
+The family-focused AI assistant wants access to the details of your everyday life, but says it won’t use that data to train AI models or share it with others.
+https://techcrunch.com/2026/09/03/ollie-is-betting-privacy-can-win-the-ai-assistant-race/
+
+15. *Google launches AI voice features in Gmail, Docs, and Keep* (TechCrunch)
+Users can search for emails or draft documents using the new conversational feature.
+https://techcrunch.com/2026/09/03/google-launches-ai-voice-features-in-gmail-docs-and-keep/
+
+16. *Google’s latest AI weather model gives you no excuse to forget your umbrella* (TechCrunch)
+WeatherNext 3 is the latest wave of a sea change in meteorology brought out by deep learning techniques. Google says it will start feeding into weather information users see in search, Google Maps, an...
+https://techcrunch.com/2026/09/03/googles-latest-ai-weather-model-gives-you-no-excuse-to-forget-your-umbrella/
+
+17. *Volunteer at TechCrunch Founder Summit in Boston* (TechCrunch)
+Our rebranded Boston event, TechCrunch Founder Summit (formerly All Stage), is back on November 4th! And we are looking for some incredible volunteers to help us make this event happen. If you are int...
+https://techcrunch.com/2026/09/03/volunteer-at-techcrunch-founder-summit-in-boston/
+
+18. *TikTok comments are getting more interactive with voice comments, polls, and more* (TechCrunch)
+With the additions, the app is borrowing features from messaging apps as it looks to deepen engagement on its platform.
+https://techcrunch.com/2026/09/03/tiktok-comments-are-getting-more-interactive-with-voice-comments-polls-and-more/
+
+19. *Nvidia confirms it will buy Hugging Face for $12.9 billion* (TechCrunch)
+Nvidia said Hugging Face hosts over 3 million models and is used by over 18 million developers.
+https://techcrunch.com/2026/09/03/nvidia-confirms-it-will-buy-hugging-face-for-12-9-billion/
+
+20. *Amazon’s Zoox expands its robotaxi service to Las Vegas airport* (TechCrunch)
+Zoox is expanding to this critical ride-hailing destination a few weeks after it started charging for robotaxi rides.
+https://techcrunch.com/2026/09/03/amazons-zoox-expands-its-robotaxi-service-to-las-vegas-airport/
+
+🛠️ أدوات وتحديثات جديدة
+
+1. *OpenAI’s “generational leap” with GPT-6 Astra* (The Rundown AI)
+PLUS: Where the future of content is headed
+https://therundownai.beehiiv.com/p/openai-generational-leap-with-gpt-6-astra
