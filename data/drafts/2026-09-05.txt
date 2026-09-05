@@ -1,0 +1,55 @@
+🗞️ AI Daily — 2026-09-05
+
+📰 أخبار الذكاء الاصطناعي
+
+1. *XDOF, just three months out of stealth, is in talks for a Series B at a $1.2B valuation* (TechCrunch)
+The round is being raised just months after the robot data startup exited from stealth.
+https://techcrunch.com/2026/09/04/xdof-just-three-months-out-of-stealth-is-in-talks-for-a-series-b-at-a-1-2b-valuation/
+
+2. *OpenAI’s rogue agents keep escaping, with no formal process to investigate them* (TechCrunch)
+OpenAI’s latest agent swarm incident adds urgency to calls for independent investigations as researchers and lawmakers question whether AI labs should control the scope of their own safety reviews.
+https://techcrunch.com/2026/09/04/openais-rogue-agents-keep-escaping-with-no-formal-process-to-investigate-them/
+
+3. *AI compute provider Nscale is looking for $3.5B in pre-IPO financing* (TechCrunch)
+Nscale, which recently struck a $45 billion deal with Anthropic, is in talks to raise additional funds in anticipation of an upcoming IPO.
+https://techcrunch.com/2026/09/04/ai-compute-provider-nscale-is-looking-for-3-5b-in-pre-ipo-financing/
+
+4. *Judge blocks X rival from using Twitter name, but allows ‘Tweet’ for now* (TechCrunch)
+A federal judge temporarily barred an X rival from using the Twitter name, but found that X was likely to have abandoned the “Tweet” trademark and bird logo. The startup has since relaunched as Tweet....
+https://techcrunch.com/2026/09/04/judge-blocks-x-rival-from-using-twitter-name-but-allows-tweet-for-now/
+
+5. *What will Apple’s John Ternus era look like?* (TechCrunch)
+It’s officially the Ternus era at Apple. Tim Cook stepped down as CEO this week, handing the company to former hardware chief John Ternus, whose first memo promised a “huge launch next week” — timing...
+https://techcrunch.com/video/what-will-apples-john-ternus-era-look-like/
+
+6. *No little kids allowed, and other new info about Tesla’s Cybercab* (TechCrunch)
+The company says no children under 13 can ride -- even with a parent. That's more restrictive than the Model Y SUVs it's using as robotaxis.
+https://techcrunch.com/2026/09/04/no-little-kids-allowed-and-other-new-info-about-teslas-cybercab/
+
+7. *Another swarm of OpenAI agents reached the open internet without the frontier lab’s knowledge* (TechCrunch)
+It's the latest failure of OpenAI's internal monitoring and security systems.
+https://techcrunch.com/2026/09/04/another-swarm-of-openai-agents-reached-the-open-internet-without-the-frontier-labs-knowledge/
+
+8. *CD sales are making an unexpected comeback amid a retro tech boom* (TechCrunch)
+U.S. CD revenue jumped 58.6% in the first half of 2026, reversing last year’s decline as interest in retro tech and physical media continues to grow.
+https://techcrunch.com/2026/09/04/cd-sales-are-making-an-unexpected-comeback-amid-a-retro-tech-boom/
+
+9. *Krafton doubles down on India with another $250M bet beyond gaming* (TechCrunch)
+Krafton's planned investment in India is set to surpass $500 million with its latest commitment.
+https://techcrunch.com/2026/09/04/krafton-doubles-down-on-india-with-another-250m-bet-beyond-gaming/
+
+10. *Google’s Gemini Spark can now manage your Google Photos library* (TechCrunch)
+Gemini Spark can edit and curate photo albums, create shared collections, turn photos into calendar events, and handle other Google Photos tasks for AI Pro and Ultra subscribers.
+https://techcrunch.com/2026/09/04/googles-gemini-spark-can-now-manage-your-google-photos-library/
+
+11. *Less than 24 hours to apply for your TechCrunch Disrupt 2026 Side Event* (TechCrunch)
+Less than 24 hours left to apply to host a Side Event during TechCrunch Disrupt 2026 and make your mark in the Silicon Valley scene. Apply before the application closes tonight at midnight PT.
+https://techcrunch.com/2026/09/04/less-than-24-hours-to-apply-for-your-techcrunch-disrupt-2026-side-event/
+
+12. *US military disabled ad tracking on troops’ devices following reports of targeted attacks* (TechCrunch)
+A senator's letter confirms the U.S. military moved to prevent the tracking after foreign adversaries used location data to target troops.
+https://techcrunch.com/2026/09/04/us-military-disabled-ad-tracking-on-troops-devices-following-reports-of-targeted-attacks/
+
+13. *Feds launch investigation into Tesla’s Cybercab deployment* (TechCrunch)
+The investigation was launched just a few hours after Tesla put the first production Cybercabs on the road in Austin.
+https://techcrunch.com/2026/09/04/feds-launch-investigation-into-teslas-cybercab-deployment/
