@@ -1,0 +1,25 @@
+🗞️ AI Daily — 2026-09-08
+
+📰 أخبار الذكاء الاصطناعي
+
+1. *Eric Wu’s newest company, out of stealth since May, is going after construction’s labor crunch* (TechCrunch)
+Eric Wu, who built and ran Opendoor before stepping away in 2022, has had his new company, NavigateAI, out of stealth since May — building AI copilots that give construction workers real-time, hands-f...
+https://techcrunch.com/2026/09/07/eric-wus-newest-company-out-of-stealth-since-may-is-going-after-constructions-labor-crunch/
+
+2. *Opaque recurrence, and other AI terms that you should probably know* (TechCrunch)
+The rise of AI has brought an avalanche of new terms and slang. Here is a glossary with definitions of some of the most important words and phrases you might encounter.
+https://techcrunch.com/2026/09/07/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/
+
+3. *A secret new Elizabeth Holmes documentary stuns Telluride* (TechCrunch)
+Nathan Fielder and Lance Oppenheim's secret Elizabeth Holmes documentary, "You Can See Everything," stunned Telluride audiences Sunday night with its generous access to the Theranos founder.
+https://techcrunch.com/2026/09/07/a-secret-new-elizabeth-holmes-documentary-stuns-telluride/
+
+4. *What we expect from the upcoming Apple launch* (TechCrunch)
+While Apple's first foldable iPhone Ultra will headline the September 9 launch, we're also expecting news about AirPods and HomePods.
+https://techcrunch.com/2026/09/07/what-we-expect-from-the-upcoming-apple-launch/
+
+🛠️ أدوات وتحديثات جديدة
+
+1. *Inside OpenAI's agent-powered research boom* (The Rundown AI)
+PLUS: Turn a family scheduler idea into an app with Astra
+https://therundownai.beehiiv.com/p/inside-openai-agent-powered-research-boom
