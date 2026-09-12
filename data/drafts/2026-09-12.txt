@@ -1,0 +1,51 @@
+🗞️ AI Daily — 2026-09-12
+
+📰 أخبار الذكاء الاصطناعي
+
+1. *Mecka AI nears $500M valuation in Sequoia-led deal amid rush for robot training data* (TechCrunch)
+The round for the two-year-old startup is coming together months after Mecka announced its Series A.
+https://techcrunch.com/2026/09/11/mecka-ai-nears-500m-valuation-in-sequoia-led-deal-amid-rush-for-robot-training-data/
+
+2. *Khosla Ventures is opening a New York office this fall — its first outpost outside Sand Hill Road* (TechCrunch)
+"It's actually allegedly being built out now," said Rabois, who has clearly dealt with a missed construction timeline or two.
+https://techcrunch.com/2026/09/11/khosla-ventures-is-opening-a-new-york-office-this-fall-its-first-outpost-outside-sand-hill-road/
+
+3. *Y Combinator’s Garry Tan wants US open-weight AI labs to ‘distill’ frontier models, too* (TechCrunch)
+Tan wants smaller, American open-weight AI labs to use the same kind of training techniques on American frontier AI labs, giving the U.S. a more robust set of open-weight options that aren’t Chinese.
+https://techcrunch.com/2026/09/11/y-combinators-garry-tan-wants-u-s-open-weight-ai-labs-to-distill-frontier-models-too/
+
+4. *OpenAI’s feud with mathematicians is only escalating* (TechCrunch)
+Twenty-five leading mathematicians signed an open letter arguing that AI labs are threatening their intellectual work.
+https://techcrunch.com/2026/09/11/openais-feud-with-mathematicians-is-only-escalating/
+
+5. *One week left to book your exhibit table at TechCrunch Disrupt 2026* (TechCrunch)
+Only one week left to secure your exhibit table. Tables are limited and can sell out before the September 18 deadline.
+https://techcrunch.com/2026/09/11/one-week-left-to-book-your-exhibit-table-at-techcrunch-disrupt-2026/
+
+6. *Final, final, final call for TechCrunch Disrupt 2026 Side Events* (TechCrunch)
+The absolute last chance to apply to host an official Side Event during TechCrunch Disrupt 2026 is tonight, September 11, at 11:59 p.m. PT.
+https://techcrunch.com/2026/09/11/final-final-final-call-for-techcrunch-disrupt-2026-side-events/
+
+7. *Kimi-maker Moonshot AI targets $2B in annual revenue* (TechCrunch)
+While K3's usage figures have declined slightly in recent months, OpenRouter data currently shows as many as 300 billion tokens being generated each day by K3 models on the system.
+https://techcrunch.com/2026/09/11/kimi-maker-moonshot-ai-targets-2-billion-in-annual-revenue/
+
+8. *Roblox is making it easier to build games with AI — and play them outside Roblox* (TechCrunch)
+At its annual Roblox Developer Conference (RDC), the company announced several new features, including new game-creation tools, expanded NPC capabilities, and the ability to make games available acros...
+https://techcrunch.com/2026/09/11/roblox-is-making-it-easier-to-build-games-with-ai-and-play-them-outside-roblox/
+
+9. *Central Eurasia names its 2026 Road to Battlefield winners: Cerberus, WeGlobal AI, and LOOQ* (TechCrunch)
+Cerberus, WeGlobal AI, and LOOQ took the top three spots at the regional final of Road to TechCrunch Startup Battlefield 2026 and will represent Central Eurasia in the Startup Battlefield 200 at TechC...
+https://techcrunch.com/2026/09/11/central-eurasia-names-its-2026-road-to-battlefield-winners-cerberus-weglobal-ai-and-looq/
+
+10. *Nscale adds former OpenAI exec Fidji Simo to its board ahead of potential IPO* (TechCrunch)
+The No. 2 exec at OpenAI also led Instacart through its IPO in 2023.
+https://techcrunch.com/2026/09/11/nscale-adds-former-openai-exec-fidji-simo-to-its-board-ahead-of-potential-ipo/
+
+11. *Matt Mullenweg tells (trolls?) Automattic staff, saying he’s back in control after CEO ouster* (TechCrunch)
+In a Slack message seen by TechCrunch, Matt Mullenweg told Automattic employees he’s back in control of the company, days after its board put him on leave. Automattic has not yet confirmed the apparen...
+https://techcrunch.com/2026/09/11/matt-mullenweg-tells-automattic-staff-in-slack-hes-back-in-control-after-ceo-ouster/
+
+12. *Scammers target hundreds of thousands of crypto owners after Trezor confirms data breach of email provider* (TechCrunch)
+This is the second data breach affecting a company that hardware crypto wallet maker Trezor relies on.
+https://techcrunch.com/2026/09/11/scammers-target-hundreds-of-thousands-of-crypto-owners-after-trezor-confirms-data-breach-of-email-provider/
