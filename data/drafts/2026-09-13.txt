@@ -1,0 +1,23 @@
+🗞️ AI Daily — 2026-09-13
+
+📰 أخبار الذكاء الاصطناعي
+
+1. *Automattic confirms Mullenweg has returned as CEO after attempted ouster by board* (TechCrunch)
+Automattic says Mullenweg is back as "chairman and CEO of Automattic, with full support of the board."
+https://techcrunch.com/2026/09/12/automattic-confirms-mullenweg-has-returned-as-ceo-after-attempted-ouster-by-board/
+
+2. *OpenAI’s Sam Altman says it would be ‘ill-advised’ to go public in 2026* (TechCrunch)
+While OpenAI has filed confidentially for an IPO, the company will not be going public this year, according to CEO Sam Altman.
+https://techcrunch.com/2026/09/12/openais-sam-altman-says-it-would-be-ill-advised-to-go-public-in-2026/
+
+3. *Anthropic CEO outlines plan to slow AI development* (TechCrunch)
+Anthropic's Dario Amodei and OpenAI's Sam Altman seem to agree that it's time to "pace the frontier." What would that actually look like?
+https://techcrunch.com/2026/09/12/anthropic-ceo-outlines-plan-to-pace-the-frontier/
+
+4. *Tesla says it will finally unveil the second generation Roadster on October 1* (TechCrunch)
+Tesla’s halo sports car was first announced in November 2017.
+https://techcrunch.com/2026/09/12/tesla-says-it-will-finally-unveil-the-second-generation-roadster-on-october-1/
+
+5. *Revolut confirms customer data breach through fake government requests* (TechCrunch)
+Revolut said it notified affected customers and alerted the relevant government agency, law enforcement, and financial regulators.
+https://techcrunch.com/2026/09/12/revolut-confirms-customer-data-breach-through-fake-government-requests/
