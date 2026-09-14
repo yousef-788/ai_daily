@@ -1,0 +1,37 @@
+🗞️ AI Daily — 2026-09-14
+
+📰 أخبار الذكاء الاصطناعي
+
+1. *Insight Partners’ Deven Parekh on why the firm is diversifying while everyone else bets the farm on OpenAI and Anthropic* (TechCrunch)
+Insight Partners' Devin Parekh opens up about losing Legora to General Catalyst, why he's fine holding stakes in rival AI labs, and why — even as everyone else piles into OpenAI and Anthropic — his $9...
+https://techcrunch.com/2026/09/13/insight-partners-devin-parekh-on-why-the-firm-is-diversifying-while-everyone-else-bets-the-farm-on-openai-and-anthropic/
+
+2. *Larry Ellison cancels $7.5 billion sale of Oracle stock* (TechCrunch)
+Oracle had previously disclosed that Ellison planned to sell 50 million shares worth around $7.5 billion.
+https://techcrunch.com/2026/09/13/larry-ellison-cancels-7-5-billion-sale-of-oracle-stock/
+
+3. *The 9 buzziest startups from Y Combinator’s latest Demo Day, according to VCs* (TechCrunch)
+From floating reactors to brain chips: VCs picked their favorite YC startups from the summer batch.
+https://techcrunch.com/2026/09/13/the-9-buzziest-startups-from-y-combinators-latest-demo-day-according-to-vcs/
+
+4. *What’s behind the AI industry’s latest warnings of doom?* (TechCrunch)
+On Equity, we discussed the AI industry's latest debate about whether it poses an existential threat to humanity.
+https://techcrunch.com/2026/09/13/whats-behind-the-ai-industrys-latest-warnings-of-doom/
+
+5. *Obama urges Democrats to have a ‘clear plan’ for AI safeguards* (TechCrunch)
+Obama recently said that Democrats need to make artificial intelligence one of their “central agendas” and “have a very clear plan” to address concerns around the technology’s economic impact and safe...
+https://techcrunch.com/2026/09/13/obama-urges-democrats-to-have-a-clear-plan-for-ai-safeguards/
+
+6. *TechCrunch Mobility: Lyft has entered the robotaxi chat* (TechCrunch)
+Welcome back to TechCrunch Mobility, your hub for the future of transportation, and now, more than ever, the role AI is playing in it.
+https://techcrunch.com/2026/09/13/techcrunch-mobility-lyft-has-entered-the-robotaxi-chat/
+
+7. *Fusion power startups find new partners in the defense world* (TechCrunch)
+Fusion startups are inking defense-related deals, reigniting the relationship between fusion and national security that might have gone dormant, but never completely disappeared.
+https://techcrunch.com/2026/09/13/fusion-power-startups-find-new-partners-in-the-defense-world/
+
+🛠️ أدوات وتحديثات جديدة
+
+1. *Top AI labs want to pump the brakes* (The Rundown AI)
+PLUS: Send a one-page proposal after sales calls
+https://therundownai.beehiiv.com/p/top-ai-labs-want-to-pump-the-brakes
