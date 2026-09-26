@@ -1,0 +1,83 @@
+🗞️ AI Daily — 2026-09-26
+
+📰 أخبار الذكاء الاصطناعي
+
+1. *At Meta Connect, the company’s smart glasses were everywhere* (TechCrunch)
+The company behind Facebook and Instagram wants to keep consumers connected to the digital world via its ever-growing line of smart glasses.
+https://techcrunch.com/2026/09/25/at-meta-connect-the-companys-smart-glasses-were-everywhere/
+
+2. *Crusoe abandons $1.25B plan to use Boom turbines at AI data centers* (TechCrunch)
+Boom Supersonic CEO Blake Scholl said the company's new stationary power plants were no longer in Crusoe's near-term plans.
+https://techcrunch.com/2026/09/25/crusoe-abandons-1-25b-plan-to-use-boom-turbines-at-ai-data-centers/
+
+3. *Automattic has a new board after failed attempt to put CEO on leave* (TechCrunch)
+After days of upheaval at Automattic, following a failed attempt to remove CEO Matt Mullenweg, the company has a new board.
+https://techcrunch.com/2026/09/25/automattic-has-a-new-board-after-failed-attempt-to-put-ceo-on-leave/
+
+4. *Unsecured OpenAI agents posted 53 user images on the internet without the lab’s knowledge* (TechCrunch)
+AI agents operating in OpenAI's research environment posted user images on public image-hosting sites without the lab's knowledge.
+https://techcrunch.com/2026/09/25/unsecured-openai-agents-posted-53-user-images-on-the-internet-without-the-labs-knowledge/
+
+5. *Meta opens early access program for new Muse features* (TechCrunch)
+Anyone interested in joining has to ask Muse to put them on the list.
+https://techcrunch.com/2026/09/25/meta-opens-early-access-program-for-new-muse-features/
+
+6. *The hottest new hangout for middle schoolers is NPR’s comment section?* (TechCrunch)
+When NPR staffers flagged strange comments under their podcasts on Spotify as bots, it took a Gen Z colleague to (immediately) figure out the mystery.
+https://techcrunch.com/2026/09/25/the-hottest-new-hangout-for-middle-schoolers-is-nprs-comment-section/
+
+7. *Anthropic to pay Akamai $11.6 billion over seven years in cloud deal* (TechCrunch)
+Anthropic has committed $11.6 billion over seven years to Akamai's cloud infrastructure, a bet on CPUs that could grow to about $20 billion, and in an unusual arrangement, Akamai is giving Anthropic a...
+https://techcrunch.com/2026/09/25/anthropic-to-pay-akamai-11-6-billion-over-seven-years-in-cloud-deal/
+
+8. *Mark Wahlberg is coming to TechCrunch Disrupt 2026, and he wants to talk about your work, not his* (TechCrunch)
+Mark Wahlberg joins Bruce K. Lee at Disrupt to discuss investing, entrepreneurship, healthcare, wellness, and building businesses.
+https://techcrunch.com/2026/09/25/mark-wahlberg-is-coming-to-techcrunch-disrupt-2026/
+
+9. *Ahead of US IPO, British AI neocloud Nscale secures $3.36B in convertible financing* (TechCrunch)
+The funding, which comes from Third Point, Nvidia, and others, will fuel the company's massive AI data center buildout.
+https://techcrunch.com/2026/09/25/ahead-of-u-s-ipo-british-ai-neocloud-nscale-secures-3-36b-in-convertible-finacing/
+
+10. *The Aeropod automates soil aeration without robotics — see it at TechCrunch Disrupt* (TechCrunch)
+Muju Earth Technologies has developed a deceptively simply pod that can save farmers money while improving crop yields.
+https://techcrunch.com/2026/09/25/the-aeropod-automates-soil-aeration-without-robotics-see-it-at-techcrunch-disrupt/
+
+11. *Some Supabase customers are publicly exposing reams of people’s data to the web* (TechCrunch)
+The findings highlight how AI-generated and vibe-coded apps can spill and expose users' data when not configured or secured properly.
+https://techcrunch.com/2026/09/25/some-supabase-customers-are-publicly-exposing-reams-of-peoples-data-to-the-web/
+
+12. *Astra and Opus just passed Turing’s other test* (TechCrunch)
+Frontier AI models are finishing Alan Turing's World War II codebreaking work.
+https://techcrunch.com/2026/09/25/astra-and-opus-just-passed-turings-other-test/
+
+13. *Meta is putting its muscle behind Muse as the AI app takes off* (TechCrunch)
+Muse is topping the app store charts and adding users at a rapid clip, while Meta ramps up the personal AI agent's promotion across its own apps and beyond.
+https://techcrunch.com/2026/09/25/meta-is-putting-its-muscle-behind-muse-as-the-ai-app-takes-off/
+
+14. *Meta’s AI Tamagotchi bet is…working?* (TechCrunch)
+When AI leaders at OpenAI and Anthropic started talking about “pacing the frontier,” maybe someone should have asked: what pace? Now it’s turned into model drop week for both companies as Anthropic ro...
+https://techcrunch.com/video/will-metas-ai-tamagotchi-bet-isworking/
+
+15. *Kiteworks urges customers to shut down their servers amid ‘imminent’ threat of cyberattack* (TechCrunch)
+The tech giant, which allows companies to send large datasets over the internet, said it received a "credible threat" from law enforcement about an imminent attack.
+https://techcrunch.com/2026/09/25/kiteworks-urges-customers-to-shut-down-their-servers-amid-imminent-threat-of-cyberattack/
+
+16. *For months, OpenAI’s agent swarms have been attacking online databases to find obscure facts* (TechCrunch)
+The latest unauthorized agent swarms were discovered by researchers.
+https://techcrunch.com/2026/09/25/for-months-openais-agent-swarms-have-been-attacking-online-databases-to-find-obscure-facts/
+
+17. *Anthropic’s founders seek voting control ahead of IPO* (TechCrunch)
+Anthropic is asking its shareholders to approve a structure that would give its seven co-founders a combined 50.1% of the vote on most corporate matters.
+https://techcrunch.com/2026/09/25/anthropics-founders-seek-voting-control-ahead-of-ipo/
+
+18. *Tesla finally moves to electrify trucking after a decade of work and delays* (TechCrunch)
+Tesla's Semi truck, with a 500-mile range, is about to hit the road in big numbers, with the company saying it plans to make 50,000 units a year.
+https://techcrunch.com/2026/09/25/tesla-finally-moves-to-electrify-trucking-after-a-decade-of-work-and-delays/
+
+19. *TechCrunch Disrupt 2026: Ricursive Intelligence’s Anna Goldie and Azalia Mirhoseini on when AI starts designing its own hardware* (TechCrunch)
+At TechCrunch Disrupt 2026, Ricursive Intelligence co-founders Anna Goldie and Azalia Mirhoseini will take the Disrupt Stage to discuss closing the loop between AI and chip development. Save up to $20...
+https://techcrunch.com/2026/09/25/techcrunch-disrupt-2026-ricursive-intelligences-anna-goldie-and-azalia-mirhoseini-on-when-ai-starts-designing-its-own-hardware/
+
+20. *Affected by layoffs? Don’t miss this $75 deal for your TechCrunch Disrupt 2026 Expo+ Pass* (TechCrunch)
+Your next opportunity could be one conversation away. Get your Expo+ Pass for just $75. Limited to the first 100 qualifying people.
+https://techcrunch.com/2026/09/25/disrupt-2026-layoff-expo-plus-passes-available-for-75-dollars/
