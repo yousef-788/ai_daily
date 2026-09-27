@@ -1,0 +1,31 @@
+🗞️ AI Daily — 2026-09-27
+
+📰 أخبار الذكاء الاصطناعي
+
+1. *PNOE’s new face mask wants to make lab-grade breath testing a self-serve affair* (TechCrunch)
+PNOĒ, the Malden, Mass.-based startup whose breath-analyzing mask used to bear an unfortunate resemblance to Bane's, is launching a sleeker self-serve version on October 1 that lets gym-goers measure...
+https://techcrunch.com/2026/09/26/pnoes-new-face-mask-wants-to-make-lab-grade-breath-testing-a-self-serve-affair/
+
+2. *Google tests buying from Walmart-owned Flipkart through Gemini and AI Mode in India* (TechCrunch)
+The limited test covers select products and users, with a broader rollout planned for later in October.
+https://techcrunch.com/2026/09/26/google-tests-buying-from-walmart-owned-flipkart-through-gemini-and-ai-mode-in-india/
+
+3. *Insurers claim AI is already increasing healthcare costs* (TechCrunch)
+Blue Cross Blue Shield says hospital use of AI tools led to an additional $942M in healthcare spending over a two-year period.
+https://techcrunch.com/2026/09/26/insurers-claim-ai-is-already-increasing-healthcare-costs/
+
+4. *TikTok agrees to pay at least $100M in Alabama settlement* (TechCrunch)
+TikTok will pay Alabama at least $100 million in a settlement tied to allegations that the short-form video platform misled users about safety and was designed to addict children.
+https://techcrunch.com/2026/09/26/tiktok-agrees-to-pay-at-least-100m-in-alabama-settlement/
+
+5. *Meta and YouTube say they will run ads for ‘Musk’ documentary after all* (TechCrunch)
+Two companies now say they will accept advertising for director Alex Gibney’s upcoming documentary about Elon Musk, following earlier reporting that a number of social media platforms had rejected the...
+https://techcrunch.com/2026/09/26/meta-says-it-will-run-ads-for-musk-documentary-after-all/
+
+6. *Levoit’s new air purifier is for the pet odors that have taken over your apartment* (TechCrunch)
+This $189.99 air purifier is specifically designed to tackle pet odors, removing up to 70% in one hour.
+https://techcrunch.com/2026/09/26/levoits-new-air-purifier-is-for-the-pet-odors-that-have-taken-over-your-apartment/
+
+7. *I created an interactive digital avatar of myself — and you can talk to it* (TechCrunch)
+After obtaining an interactive avatar and training it to discuss venture fraud, I have mixed feelings about making AI clones of ourselves.
+https://techcrunch.com/2026/09/26/i-created-an-interactive-digital-avatar-of-myself-and-you-can-talk-to-it/
