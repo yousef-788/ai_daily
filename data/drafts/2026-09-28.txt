@@ -1,0 +1,37 @@
+🗞️ AI Daily — 2026-09-28
+
+📰 أخبار الذكاء الاصطناعي
+
+1. *Ocean surveillance startup Quartermaster raises another $140M* (TechCrunch)
+The tech enables real-time awareness for what Quartermaster calls the “largest blind spot on Earth.”
+https://techcrunch.com/2026/09/28/ocean-surveillance-startup-quartermaster-raises-another-140m/
+
+2. *Truecaller takes its scam intelligence to the open web as it looks beyond caller ID* (TechCrunch)
+Truecaller finds a new way to reach users as pressure grows on its traditional caller ID business in India, its biggest market.
+https://techcrunch.com/2026/09/27/truecaller-takes-its-scam-intelligence-to-the-open-web-as-it-looks-beyond-caller-id/
+
+3. *Anthropic’s CEO is about to have dinner with President Trump* (TechCrunch)
+This will be the first one-on-one meeting between Dario Amodei and Donald Trump
+https://techcrunch.com/2026/09/27/anthropics-ceo-is-about-to-have-dinner-with-president-trump/
+
+4. *Can Muse overcome Meta’s trust issues?* (TechCrunch)
+On Equity, we discussed how Meta's AI announcement managed to steal the spotlight from OpenAI and Anthropic.
+https://techcrunch.com/2026/09/27/can-muse-overcome-metas-trust-issues/
+
+5. *Anthropic’s Dario Amodei gets the SNL treatment* (TechCrunch)
+"AI is the devil and I its maker."
+https://techcrunch.com/2026/09/27/anthropics-dario-amodei-gets-the-snl-treatment/
+
+6. *TechCrunch Mobility: AV companies pick their lanes* (TechCrunch)
+Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it.
+https://techcrunch.com/2026/09/27/techcrunch-mobility-av-companies-pick-their-lanes/
+
+7. *Sennheiser Momentum 5 review: Great sound, incredible battery life, and few compromises* (TechCrunch)
+I spent the last few weeks with the Sennheiser Momentum 5 to determine if this pair actually stands out, testing everything from sound quality and noise cancellation to comfort and battery life.
+https://techcrunch.com/2026/09/27/sennheiser-momentum-5-review-great-sound-incredible-battery-life-and-few-compromises/
+
+🛠️ أدوات وتحديثات جديدة
+
+1. *OpenAI's agents went rogue on Washington* (The Rundown AI)
+PLUS: How to get started with Jev, TypeSafe's new AI
+https://therundownai.beehiiv.com/p/openai-s-agents-went-rogue-on-washington
