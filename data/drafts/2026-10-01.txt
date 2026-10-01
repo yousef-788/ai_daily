@@ -1,0 +1,89 @@
+🗞️ AI Daily — 2026-10-01
+
+📰 أخبار الذكاء الاصطناعي
+
+1. *Satlyt, founded by a former Google and SpaceX product manager, raises $8M to run AI on satellites* (TechCrunch)
+Satlyt wants to be the Android of orbital computing, offering open software that works on many companies' satellites, versus SpaceX's closed, all-in-one iPhone-style approach.
+https://techcrunch.com/2026/10/01/satlyt-founded-by-a-former-google-and-spacex-product-manager-raises-8m-to-run-ai-on-satellites/
+
+2. *Google releases Gemini 4 Argon, called its most powerful model yet* (TechCrunch)
+Google has released its latest Gemini model, marketing it as a workhorse for coding and cybersecurity work.
+https://techcrunch.com/2026/09/30/google-releases-gemini-4-argon-called-its-most-powerful-model-yet/
+
+3. *The Pentagon taps Elon Musk and Palmer Luckey to help decide what the military should do next* (TechCrunch)
+Defense Secretary Pete Hegseth just launched a 120-day study on the future of warfare, led by Elon Musk, Palmer Luckey, and Newt Gingrich, and while it makes sense given their ties to the administrati...
+https://techcrunch.com/2026/09/30/the-pentagon-taps-elon-musk-and-palmer-luckey-to-help-decide-what-the-military-should-do-next/
+
+4. *Valor, Atreides, and Sequoia back AI startup Flow Engineering at $750M valuation* (TechCrunch)
+Flow Engineering, which is bringing AI agents to hardware design, also landed Roelof Botha as an angel investor and board member.
+https://techcrunch.com/2026/09/30/valor-atreides-and-sequoia-back-ai-startup-flow-engineering-at-750m-valuation/
+
+5. *Factory CEO just accused his VC board adviser of spying for Cognition* (TechCrunch)
+VC Chris Degnan and former board adviser to Factory AI has taken a job as chief revenue officer for competitor Cognition -- and everyone is arguing on X about it.
+https://techcrunch.com/2026/09/30/factory-ceo-just-accused-his-vc-board-advisor-of-spying-for-cognition/
+
+6. *Is Neko Health’s body scan worth it? Spotify billionaire’s startup has come to America* (TechCrunch)
+Spotify founder Daniel Ek’s Neko Health raised $700 million to build a business around scanning your body, but it’s not the only company centering its roadmap around a new kind of preventative healthc...
+https://techcrunch.com/video/is-neko-healths-body-scan-worth-it-spotify-billionaires-startup-has-come-to-america/
+
+7. *Hackers stole millions of US military personnel records during months-long data breach* (TechCrunch)
+The Department of Defense notified millions of current and former U.S. military personnel that their personal information had been stolen in a months-long breach.
+https://techcrunch.com/2026/09/30/hackers-stole-millions-of-us-military-personnel-records-during-months-long-data-breach/
+
+8. *DoorDash’s drone strategy started on the ground* (TechCrunch)
+DoorDash unveiled the six-propeller aircraft that will be used in its new drone delivery business at its annual Dash Forward 2026 event.
+https://techcrunch.com/2026/09/30/doordashs-drone-strategy-started-on-the-ground/
+
+9. *BMW built the same car for gas and electric. The EV is $4,400 cheaper.* (TechCrunch)
+The new BMW 3 Series shows just how quickly EVs have caught up to fossil fuel vehicles on pricing.
+https://techcrunch.com/2026/09/30/bmw-built-the-same-car-for-gas-and-electric-the-ev-is-4400-cheaper/
+
+10. *OpenAI’s Jev clone could help the frontier lab stop its swarming agents* (TechCrunch)
+OpenAI's "Decisions API" is a Jev clone that confirms the importance of fast, cheap intelligence.
+https://techcrunch.com/2026/09/30/openais-jev-clone-could-help-the-frontier-lab-stop-its-swarming-agents/
+
+11. *AI voice startup ElevenLabs doubles valuation to $22B* (TechCrunch)
+The $300 million employee tender was co-led by Wellington and T. Rowe Price.
+https://techcrunch.com/2026/09/30/ai-voice-startup-elevenlabs-doubles-valuation-to-22b/
+
+12. *Reddit is killing RSS feeds and ending public API access because of AI bots* (TechCrunch)
+Reddit is ending support for RSS feeds, as the company continues tightening access to its trove of user-generated content.
+https://techcrunch.com/2026/09/30/reddit-is-killing-rss-feeds-ending-public-api-access-because-of-ai-bots/
+
+13. *The ugly economics of consumer AI* (TechCrunch)
+There’s a reason frontier labs have gotten gun-shy about consumer AI — and it’s not because the tech isn’t good enough.
+https://techcrunch.com/2026/09/30/the-ugly-economics-of-consumer-ai/
+
+14. *Meta disputes claim that Muse read a user’s private messages without permission* (TechCrunch)
+Meta says its Muse AI agent cannot access a user’s Messages without explicit permission, disputing a journalist’s account that the agent read his private messages while the required Mac setting was tu...
+https://techcrunch.com/2026/09/30/meta-disputes-claim-that-muse-read-a-users-private-messages-without-permission/
+
+15. *DoorDash launches an AI agent you can text to order food* (TechCrunch)
+By launching an AI agent for food ordering, DoorDash is looking to gain an edge over rivals Uber Eats and Grubhub.
+https://techcrunch.com/2026/09/30/doordash-launches-an-ai-agent-you-can-text-to-order-food/
+
+16. *Destro AI’s secret sauce is getting robots and humans on the same page* (TechCrunch)
+"One of the biggest reasons we are winning against robotics companies is because we are not a robotics company."
+https://techcrunch.com/2026/09/30/destro-ais-secret-sauce-is-getting-robots-and-humans-on-the-same-page/
+
+17. *Instinct’s new product recommendations are giving some users the ick* (TechCrunch)
+Instinct is rolling out human-curated product and travel recommendations, but some users aren’t happy about getting suggestions they never asked for.
+https://techcrunch.com/2026/09/30/instincts-new-product-recommendations-are-giving-some-users-the-ick/
+
+18. *FedEx orders 2,000 electric trucks from Harbinger in $300M deal* (TechCrunch)
+The order -- Harbinger's biggest ever -- comes as the startup is reportedly considering an IPO.
+https://techcrunch.com/2026/09/30/fedex-orders-2000-electric-trucks-from-harbinger-in-300m-deal/
+
+19. *Pledge signed by President Trump and top AI leaders misspells the United States* (TechCrunch)
+On Tuesday, President Donald Trump and top AI leaders announced a signed pledge called a “Joint Commitment on Frontier Responsibilities” — a voluntary promise to implement more controls and safety mea...
+https://techcrunch.com/2026/09/30/pledge-signed-by-president-trump-and-top-ai-leaders-misspells-the-united-states/
+
+20. *Google launches Fitbit Air in India, though its high price might deter the masses* (TechCrunch)
+Fitbit Air costs around $146 in India, roughly $47 more than its U.S. pricing.
+https://techcrunch.com/2026/09/30/google-launches-fitbit-air-in-india-though-its-high-price-might-deter-the-masses/
+
+🛠️ أدوات وتحديثات جديدة
+
+1. *Argon aims to return Google to the frontier* (The Rundown AI)
+PLUS: How (and why) to set up Meta’s Muse Desktop
+https://therundownai.beehiiv.com/p/argon-aims-to-return-google-to-the-frontier
