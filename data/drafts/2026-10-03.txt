@@ -1,0 +1,79 @@
+🗞️ AI Daily — 2026-10-03
+
+📰 أخبار الذكاء الاصطناعي
+
+1. *Meta wants your next gadget to be Muse-infused* (TechCrunch)
+Meta wants Muse in your TV and your toaster, so it's giving the code away for free.
+https://techcrunch.com/2026/10/02/meta-wants-you-to-build-your-own-muse-gadget/
+
+2. *Sanders introduces bill to ban the federal government from using Flock* (TechCrunch)
+The proposed legislation would extend to all automotica license plate readers.
+https://techcrunch.com/2026/10/02/sanders-introduces-bill-to-ban-the-federal-government-from-using-flock/
+
+3. *Sean Parker is rebuilding Stability AI around music* (TechCrunch)
+Sean Parker, who once taught the music industry what asking for forgiveness looks like, is now back with the labels' blessing and money.
+https://techcrunch.com/2026/10/02/sean-parker-is-rebuilding-stability-ai-around-music/
+
+4. *Affected by layoffs? Don’t miss this $75 deal for your TechCrunch Disrupt 2026 Expo+ Pass* (TechCrunch)
+Your next opportunity could be one conversation away. Get your Expo+ Pass for just $75. Limited to the first 100 qualifying people.
+https://techcrunch.com/2026/10/02/disrupt-2026-layoff-expo-plus-passes-available-for-75-dollars/
+
+5. *Apple says it’s tightening macOS ‘Full Disk Access’ controls due to new risks from AI agents* (TechCrunch)
+Apple says it will add new controls around macOS’s Full Disk Access permission, warning that increasingly capable AI agents make broad access to users’ files, messages, mail, and browsing history risk...
+https://techcrunch.com/2026/10/02/apple-says-its-tightening-macos-full-disk-access-controls-due-to-new-risks-from-ai-agents/
+
+6. *It’s not AI anymore, it’s ‘super intelligence’ (according to the White House)* (TechCrunch)
+This week, the White House got nearly every major tech CEO in one room — Zuckerberg, Bezos, Musk, and Anthropic’s Dario Amodei among them — to sign an AI safety pledge that President Donald Trump call...
+https://techcrunch.com/video/its-not-ai-anymore-its-super-intelligence-according-to-the-white-house/
+
+7. *TechCrunch Disrupt 2026: Blackstone’s Jas Khaira on building the next generation of AI giants* (TechCrunch)
+Blackstone's Jas Khaira will take the Builders Stage at TechCrunch Disrupt 2026 on building next-gen AI. Register for your pass and get 50% off a second.
+https://techcrunch.com/2026/10/02/techcrunch-disrupt-2026-blackstones-jas-khaira-on-building-the-next-generation-of-ai-giants/
+
+8. *Circuit Breaker Labs hopes to make AI safer for your kids (and you)* (TechCrunch)
+With all the talk about how AI might one day kill us all, it's easy to forget that AI has already harmed some people psychologically. Circuit Breaker Labs has created "crash-test dummies" to solve tha...
+https://techcrunch.com/2026/10/02/circuit-breaker-labs-hopes-to-make-ai-safer-for-your-kids-and-you/
+
+9. *Paramount and Warner Bros. Discovery to become Skydance* (TechCrunch)
+The roughly $110 billion deal is expected to close October 6.
+https://techcrunch.com/2026/10/02/paramount-and-warner-bros-discovery-to-become-skydance/
+
+10. *Pope Leo XIV is not a fan of AI-generated art* (TechCrunch)
+"There is an ontological difference, even before an aesthetic one, between art and what a machine can generate through statistical calculation based on millions of images created by others," the pope...
+https://techcrunch.com/2026/10/02/pope-leo-xiv-is-not-a-fan-of-ai-generated-art/
+
+11. *Laytr’s new app lets you save anything you find online, not just articles to read* (TechCrunch)
+Laytr lets you save articles, recipes, screenshots, videos, PDFs, and more for later, while keeping your archive private and synced across your Apple devices.
+https://techcrunch.com/2026/10/02/laytrs-new-app-lets-you-save-anything-you-find-online-not-just-articles-to-read/
+
+12. *Slovenia’s .si domain sees a surge in registrations after Trump’s ‘super intelligence’ order* (TechCrunch)
+The .si domain name is seeing unprecedented demand after President Trump's super intelligence executive order.
+https://techcrunch.com/2026/10/02/slovenias-si-domain-sees-a-surge-in-registrations-after-trumps-super-intelligence-order/
+
+13. *TechCrunch Disrupt 2026: Clay’s Kareem Amin on the rise of the GTM engineer* (TechCrunch)
+Clay Co-founder and CEO Kareem Amin joins the AI Stage to discuss the rise of GTM engineer at TechCrunch Disrupt 2026. Register for your ticket and get a second pass at 50% off.
+https://techcrunch.com/2026/10/02/techcrunch-disrupt-2026-clays-kareem-amin-on-the-rise-of-the-gtm-engineer/
+
+14. *Last 24 hours: Exhibit at TechCrunch Disrupt 2026 and reach 10,000+ tech leaders* (TechCrunch)
+Today is the last day to book your exhibit table at TechCrunch Disrupt 2026. From October 13–15, 10,000+ founders, investors, operators, and tech leaders will arrive at San Francisco’s Moscone West lo...
+https://techcrunch.com/2026/10/02/last-24-hours-exhibit-at-techcrunch-disrupt-2026-and-reach-10000-tech-leaders/
+
+15. *Less than 24 hours to apply for a  Side Event at Founder Summit 2026* (TechCrunch)
+The clock is almost out. You have less than 24 hours left to apply to host a Side Event during TechCrunch Founder Summit 2026. Applications close tonight at midnight PT. Connect with the Boston startu...
+https://techcrunch.com/2026/10/02/less-than-24-hours-to-apply-for-a-side-event-at-founder-summit-2026/
+
+16. *Tesla sustains its EV sales momentum despite US troubles* (TechCrunch)
+The company delivered more than 486,000 EVs in the third quarter, down from last year's record but moving in a positive direction.
+https://techcrunch.com/2026/10/02/tesla-sustains-its-ev-sales-momentum-despite-us-troubles/
+
+17. *Medical records giant Epic pauses product development to fix security bugs that risk patients’ data* (TechCrunch)
+The health tech software giant, which makes the widely used MyChart system for accessing medical data, will focus on fixing security bugs for the next few weeks.
+https://techcrunch.com/2026/10/02/medical-records-giant-epic-pauses-product-development-to-fix-security-bugs-that-risk-patients-data/
+
+18. *Rivian’s R2 just helped it set a new sales record* (TechCrunch)
+Deliveries jumped roughly 45% compared to the same quarter last year, with Rivian delivering more than 19,000 EVs.
+https://techcrunch.com/2026/10/02/rivians-r2-just-helped-it-set-a-new-sales-record/
+
+19. *Rivian issues R2 recall for poorly tightened battery packs* (TechCrunch)
+The company says around 14 vehicles may be affected, and that it has resolved the issue on the assembly line.
+https://techcrunch.com/2026/10/02/rivian-issues-r2-recall-for-poorly-tightened-battery-packs/
