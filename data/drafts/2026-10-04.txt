@@ -1,0 +1,31 @@
+🗞️ AI Daily — 2026-10-04
+
+📰 أخبار الذكاء الاصطناعي
+
+1. *Federal judge calls Flock ‘indiscriminate mass surveillance’* (TechCrunch)
+A federal judge ruled that a sheriff’s deputy violated a woman’s Fourth Amendment rights when using Flock to search for her license plate without a warrant.
+https://techcrunch.com/2026/10/03/federal-judge-calls-flock-indiscriminate-mass-surveillance/
+
+2. *Amazon responds to data center backlash, says it no longer uses NDAs* (TechCrunch)
+The CEO of Amazon Web Services tried to push back against widespread suspicion of data centers.
+https://techcrunch.com/2026/10/03/amazon-responds-to-data-center-backlash-says-it-no-longer-uses-ndas/
+
+3. *OpenAI safety employee resigns, claiming the company’s ‘culture is broken’* (TechCrunch)
+By his own admission, David Robinson is “something of a cliché”: an employee at a leading AI company who issues a dire warning while resigning from their job.
+https://techcrunch.com/2026/10/03/openai-safety-employee-resigns-claiming-the-companys-culture-is-broken/
+
+4. *Jack Dorsey’s Bitchat disappears from app stores in India after government order* (TechCrunch)
+Bitchat has become largely unavailable in India as a result of the restrictions.
+https://techcrunch.com/2026/10/03/jack-dorseys-bitchat-disappears-from-app-stores-in-india-after-government-order/
+
+5. *Vessev built an electric ferry that almost flies* (TechCrunch)
+Vessev hopes its electric hydrofoil ferry will change the way people and cities think about boats.
+https://techcrunch.com/2026/10/03/vessev-built-an-electric-ferry-that-almost-flies/
+
+6. *All the AI agents that can live in your text messages* (TechCrunch)
+We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work.
+https://techcrunch.com/2026/10/03/all-the-ai-agents-that-can-live-in-your-text-messages/
+
+7. *Spotify billionaire’s body scan startup has come to America* (TechCrunch)
+Farooq Abbasi, an investor in Neko Health, talked to Equity about the hot health tech company and what's next for it.
+https://techcrunch.com/2026/10/03/spotify-billionaires-body-scan-startup-has-come-to-america/
