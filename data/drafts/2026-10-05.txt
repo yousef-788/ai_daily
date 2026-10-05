@@ -1,0 +1,29 @@
+🗞️ AI Daily — 2026-10-05
+
+📰 أخبار الذكاء الاصطناعي
+
+1. *Can Safeworld convince people that GenAI robots won’t hurt them?* (TechCrunch)
+Safeworld is building digital humans to make sure robots don't hurt the real ones.
+https://techcrunch.com/2026/10/05/can-safeworld-convince-people-that-gen-ai-robots-wont-hurt-them/
+
+2. *Google froze its open source bug bounty program due to a ‘significant rise’ in AI submissions* (TechCrunch)
+AI slop seems to be overwhelming bug bounty programs.
+https://techcrunch.com/2026/10/04/google-froze-its-open-source-bug-bounty-program-due-to-a-significant-rise-in-ai-submissions/
+
+3. *Can ‘super intelligence’ and a non-binding safety pact solve AI’s image problem?* (TechCrunch)
+On Equity, we discussed the Trump administration's attempts to rebrand AI.
+https://techcrunch.com/2026/10/04/can-super-intelligence-and-a-non-binding-safety-pact-solve-ais-image-problem/
+
+4. *TechCrunch Mobility: Reining in robotaxis* (TechCrunch)
+Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it.
+https://techcrunch.com/2026/10/04/techcrunch-mobility-reining-in-robotaxis/
+
+5. *Trump unveils his new Super Intelligence Force* (TechCrunch)
+This new task force is Trump's latest response to the debate over AI safety.
+https://techcrunch.com/2026/10/04/trump-unveils-his-new-super-intelligence-force/
+
+🛠️ أدوات وتحديثات جديدة
+
+1. *An OpenAI safety insider calls the culture 'broken'* (The Rundown AI)
+PLUS: How to decide between different models
+https://therundownai.beehiiv.com/p/an-openai-safety-insider-calls-the-culture-broken
