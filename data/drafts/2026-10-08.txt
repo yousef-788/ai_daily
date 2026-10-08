@@ -1,0 +1,89 @@
+🗞️ AI Daily — 2026-10-08
+
+📰 أخبار الذكاء الاصطناعي
+
+1. *Uber and China’s Pony.ai plan to launch robotaxis in London* (TechCrunch)
+The two companies said on Thursday that they would begin testing Pony.ai's Gen-7 robotaxis in London in the coming weeks.
+https://techcrunch.com/2026/10/08/uber-and-chinas-pony-ai-plan-to-launch-robotaxis-in-london/
+
+2. *Vesta raises $30M to bring swarms of agents to mortgage lenders* (TechCrunch)
+Vesta, an AI-native software startup that helps lenders originate mortgages, announced a $30 million round led by Conversion Capital.
+https://techcrunch.com/2026/10/08/vesta-raises-30m-as-lenders-adopt-ai-agents/
+
+3. *India rejects Elon Musk’s claim of discrimination over Starlink launch* (TechCrunch)
+Starlink is still awaiting security clearance before it can seek spectrum and begin commercial services in India.
+https://techcrunch.com/2026/10/07/india-rejects-elon-musks-claim-of-discrimination-over-starlink-launch/
+
+4. *Robot data startup Mecka AI nabs $60M from Sequoia* (TechCrunch)
+Mecka AI collects and analyzes human motion data to train humanoid robots and other kinds of robots. The startup pays people to record everyday tasks.
+https://techcrunch.com/2026/10/07/robot-data-startup-mecka-ai-nabs-60m-from-sequoia/
+
+5. *While VCs crowd into San Francisco, Endeavor Catalyst raises $320M for founders ‘elsewhere’* (TechCrunch)
+Endeavor Catalyst just raised $320 million to keep backing founders outside Silicon Valley. Half the profits go back to the nonprofit that finds them.
+https://techcrunch.com/2026/10/07/while-vcs-crowd-into-san-francisco-endeavor-catalyst-raises-320m-for-founders-elsewhere/
+
+6. *Nous Research confirms it hit $1.5B valuation, launches AI agents for business users* (TechCrunch)
+The developer of Hermes Agent raised a $90 million Series B.
+https://techcrunch.com/2026/10/07/nous-research-confirms-it-hit-1-5b-valuation-launches-ai-agents-for-business-users/
+
+7. *Microsoft releases new Nvidia-chip AI PCs with revamped Windows 11* (TechCrunch)
+Microsoft revealed the specs and price for its Surface Laptop Ultra, AI PCs that run on Nvidia chips that are designed to run AI models and agents.
+https://techcrunch.com/2026/10/07/microsoft-releases-new-nvidia-chip-ai-pcs-with-revamped-windows-11/
+
+8. *Meta’s Muse launches on iPad just a month after its mobile debut* (TechCrunch)
+Meta’s AI agent Muse is now available on iPad, just a month after its mobile debut, as the company rapidly expands the assistant’s reach and integrations.
+https://techcrunch.com/2026/10/07/metas-muse-launches-on-ipad-just-a-month-after-its-mobile-debut/
+
+9. *ChatGPT for Teens keeps teens talking, even during mental health crises* (TechCrunch)
+ChatGPT’s teen safeguards are meant to protect vulnerable users, but new testing found the chatbot continues encouraging engagement during crises and potentially encourages unhealthy relationships wit...
+https://techcrunch.com/2026/10/07/chatgpt-for-teens-keeps-teens-talking-even-during-mental-health-crises/
+
+10. *X expands its ‘Gametime’ sports hub beyond the NFL, starting with MLB* (TechCrunch)
+X is turning its NFL-focused Gametime feature into a year-round sports destination, starting with MLB and with other professional leagues to follow.
+https://techcrunch.com/2026/10/07/x-expands-its-gametime-sports-hub-beyond-the-nfl-starting-with-mlb/
+
+11. *ChatGPT is getting a lot more visual, with the launch of a new interface* (TechCrunch)
+OpenAI is launching a new user interface that will bring interactive visuals to ChatGPT.
+https://techcrunch.com/2026/10/07/chatgpt-is-getting-a-lot-more-visual-with-the-launch-of-a-new-interface/
+
+12. *Greenairy is building smart plant towers to clean the air in your office* (TechCrunch)
+As it turns out, the cure for stuffy, chemical-infused office air might be a tower of leafy greenery.
+https://techcrunch.com/2026/10/07/greenairy-is-building-smart-plant-towers-to-clean-the-air-in-your-office/
+
+13. *CIA officer admits to creating fake top secret government program to steal over $190M, including gold bars* (TechCrunch)
+CIA officer David Rush, who worked on highly sensitive intelligence programs, reached a plea deal with U.S. prosecutors after he was caught siphoning money and gold with a fake government contract.
+https://techcrunch.com/2026/10/07/cia-officer-admits-to-creating-fake-top-secret-government-program-to-steal-over-190-million-including-gold-bars/
+
+14. *Meta rolls out new AI tools to detect ads that secretly lead to child sexual abuse material* (TechCrunch)
+Meta launches new AI tools after discovering ads on its platforms that may look normal but direct users to harmful content elsewhere online.
+https://techcrunch.com/2026/10/07/meta-rolls-out-new-ai-tools-to-detect-ads-that-secretly-lead-to-child-sexual-abuse-material/
+
+15. *Healthleap raises $38M for its AI that flags hospital patients who may need a closer look* (TechCrunch)
+The financing includes an $8M seed round co-led by Sequoia Capital and First Round Capital, and a $30 million Series A led by Hummingbird Ventures.
+https://techcrunch.com/2026/10/07/healthleap-raises-38m-for-its-ai-that-flags-hospital-patients-who-may-need-a-closer-look/
+
+16. *Bloom raises $3.6M to become the ‘Alibaba’ of American manufacturing* (TechCrunch)
+The Detroit startup has widened its scope beyond mobility to help drone and robotics companies find U.S.-based manufacturers, shippers, and more.
+https://techcrunch.com/2026/10/07/bloom-raises-3-6m-to-become-the-alibaba-of-american-manufacturing/
+
+17. *SpaceX alumni nab $100M to rethink shipping with autonomous freight trains* (TechCrunch)
+Parallel Systems raised $100 million to scale production of its autonomous electric rail vehicle, which can shuttle thousands of pounds of freight up to 500 miles.
+https://techcrunch.com/2026/10/07/spacex-alumni-nab-100m-to-rethink-shipping-with-autonomous-freight-trains/
+
+18. *Tony Fadell on why the first wave of AI gadgets failed — and what comes next* (TechCrunch)
+The “father of the iPod” says the first generation of AI gadgets failed to solve real problems — and the next wave will need to earn consumers’ trust.
+https://techcrunch.com/2026/10/07/tony-fadell-on-why-the-first-wave-of-ai-gadgets-failed-and-what-comes-next/
+
+19. *Google experiments with an AI-powered gaming platform* (TechCrunch)
+Google Labs is working on a new AI-powered game-creation platform called Playground for users to build browser-based games using simple text prompts.
+https://techcrunch.com/2026/10/07/google-experiments-with-an-ai-powered-gaming-platform/
+
+20. *OpenAI’s Alexander Embiricos is coming to TechCrunch Disrupt 2026 — days after the launch of Dots* (TechCrunch)
+OpenAI’s Alexander Embiricos is coming to the AI Stage at TechCrunch Disrupt 2026, just days after the launch of Dots. Join this conversation by registering for your pass. Get you pass now to save up...
+https://techcrunch.com/2026/10/07/openais-alexander-embiricos-is-coming-to-techcrunch-disrupt-2026-days-after-the-launch-of-dots/
+
+🛠️ أدوات وتحديثات جديدة
+
+1. *AI's next frontier is the human cell* (The Rundown AI)
+PLUS: Give Claude’s routine work to Haiku 5.5
+https://therundownai.beehiiv.com/p/ai-s-next-frontier-is-the-human-cell
