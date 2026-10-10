@@ -1,0 +1,75 @@
+🗞️ AI Daily — 2026-10-10
+
+📰 أخبار الذكاء الاصطناعي
+
+1. *Elon Musk intensifies attack on Ambani over Starlink India launch delay* (TechCrunch)
+Elon Musk has accused Indian billionaire Mukesh Ambani of blocking competition.
+https://techcrunch.com/2026/10/09/elon-musk-intensifies-attack-on-ambani-over-starlink-india-launch-delay/
+
+2. *Anthropic can’t reliably control its AI agents. It’s cutting off its internal evals from the live internet instead* (TechCrunch)
+Anthropic said it "turned off live internet access" for "all our internal evaluations" until further notice.
+https://techcrunch.com/2026/10/09/anthropic-cant-reliably-control-its-ai-agents-its-cutting-off-its-internal-evals-from-the-live-internet-instead/
+
+3. *Long live the mechanical keyboard* (TechCrunch)
+Keychron made a name for itself after launching on Kickstarter in 2017. Today, it offers the value K2 model as well as a variety of other versions, including one with an all-wood body.
+https://techcrunch.com/2026/10/09/long-live-the-mechanical-keyboard/
+
+4. *The maker of non-text AI model Jev valued at $7.5B just weeks after launch* (TechCrunch)
+What has users and large corporations so excited about Jev is TypeSafe’s claim that it works significantly faster and uses far fewer tokens than LLMs.
+https://techcrunch.com/2026/10/09/the-maker-of-non-text-ai-model-jev-valued-at-7-5b-just-weeks-after-launch/
+
+5. *An Anthropic AI model sent a false homicide tip to Philadelphia police* (TechCrunch)
+Anthropic did not discover this behavior until over two months after its AI submitted the false tip.
+https://techcrunch.com/2026/10/09/an-anthropic-ai-model-sent-a-false-homicide-tip-to-philadelphia-police/
+
+6. *Batteries are now cheaper than natural gas turbines used at many data centers* (TechCrunch)
+Batteries are now cheaper than natural gas turbines as the data center boom pushes prices up.
+https://techcrunch.com/2026/10/09/batteries-are-now-cheaper-than-natural-gas-turbines-used-at-many-data-centers/
+
+7. *TechCrunch Disrupt 2026: Gamma’s Grant Lee, Engine’s Elia Wallen, and GV’s Crystal Huang on landing your first 1,000 customers* (TechCrunch)
+Leaders from Gamma, Engine, and Google Ventures join TechCrunch Disrupt 2026 to talk how to get your first customers. Register now to save up to $100. Grab a second pass at 50% off.
+https://techcrunch.com/2026/10/09/techcrunch-disrupt-2026-gammas-grant-lee-engines-elia-wallen-and-gvs-crystal-huang-on-landing-your-first-1000-customers/
+
+8. *LumenUs helps automate tedious paperwork in times of grief* (TechCrunch)
+"The day your loved one passes away, you also get this honorary badge of a project manager for a project you had no idea about," said founder Sara Tashakorinia.
+https://techcrunch.com/2026/10/09/lumenus-helps-automate-tedious-paperwork-in-times-of-grief/
+
+9. *Amazon and others are done keeping data center deals secret. Is it enough to build trust?* (TechCrunch)
+Amazon says it will stop using NDAs when negotiating data center deals with local governments, following a similar move from Microsoft earlier this year. Secrecy has fueled community backlash against...
+https://techcrunch.com/video/amazon-and-others-are-done-keeping-data-center-deals-secret-is-it-enough-to-build-trust/
+
+10. *Danu Robotics’ fight to build a better recycling robot* (TechCrunch)
+For six years, Danu founder Amy Ma has been working on a better way to sort recyclable waste.
+https://techcrunch.com/2026/10/09/danu-robotics-fight-to-build-a-better-recycling-robot/
+
+11. *We can’t help treating AI like it’s human. But should we?* (TechCrunch)
+"When we are drawn into even the most primitive exchanges with a relational artifact, we believe it cares for us," Dr. Sherry Turkle writes. "And we are wired to care for it in return."
+https://techcrunch.com/2026/10/09/we-cant-help-treating-ai-like-its-human-but-should-we/
+
+12. *Tesla renames ‘Full Self-Driving’ to ‘Tesla Assisted Driving’ in Europe* (TechCrunch)
+The name change is enough for Germany's transport minister to start advocating for Europe-wide adoption of the driver assistance software.
+https://techcrunch.com/2026/10/09/tesla-renames-full-self-driving-to-tesla-assisted-driving-in-europe/
+
+13. *Remember Orkut? Its founder wants to bring it back* (TechCrunch)
+Orkut's founder is now taking aim at algorithms and AI-generated content.
+https://techcrunch.com/2026/10/09/remember-orkut-its-founder-wants-to-bring-it-back/
+
+14. *a16z’s Olivia Moore on the state of consumer AI* (TechCrunch)
+Moore sees a huge opportunity in consumer AI, particularly if the industry can tap into revenue streams beyond just subscriptions and API charges.
+https://techcrunch.com/2026/10/09/a16zs-olivia-moore-on-the-state-of-consumer-ai/
+
+15. *Automattic interim CFO resigns just weeks after boardroom shakeup* (TechCrunch)
+Automattic's interim chief financial officer Jeremy Klaperman has left the company less than a month after taking the role, TechCrunch has learned. Sources say his departure followed a demotion back t...
+https://techcrunch.com/2026/10/09/automattic-loses-its-interim-cfo-just-weeks-after-boardroom-shakeup/
+
+16. *Beyond TechCrunch Disrupt 2026: The Side Events, Parties & Networking You Can’t Miss* (TechCrunch)
+TechCrunch Disrupt 2026 is just the beginning. From exclusive networking events and startup showcases to happy hours, dinners, and after-hours meetups, discover what’s happening across San Francisco d...
+https://techcrunch.com/2026/10/09/beyond-techcrunch-disrupt-2026-the-side-events-parties-networking-you-cant-miss/
+
+17. *TechCrunch Disrupt 2026 starts in 4 days — lock in your pass savings of up to $100 before prices rise* (TechCrunch)
+Four days until TechCrunch Disrupt 2026 starts, when 10,000 founders, investors, and tech leaders gather in San Francisco's Moscone West on October 13-15. Save up to $100 on your price. Plus, save 50%...
+https://techcrunch.com/2026/10/09/techcrunch-disrupt-2026-starts-in-4-days-lock-in-your-pass-savings-of-up-to-100-before-prices-rise/
+
+18. *Surveillance company Flock cuts staff as privacy backlash grows* (TechCrunch)
+Flock would not say if CEO Garrett Langley would take a pay cut following the reduction in workforce.
+https://techcrunch.com/2026/10/09/surveillance-company-flock-cuts-staff-as-privacy-backlash-grows/
