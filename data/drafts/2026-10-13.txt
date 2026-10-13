@@ -1,0 +1,69 @@
+🗞️ AI Daily — 2026-10-13
+
+📰 أخبار الذكاء الاصطناعي
+
+1. *Apple refreshes its Homepod mini with a new chip and $149 price tag* (TechCrunch)
+The new $149 HomePod mini with Siri AI and a 'SoundGlow' visual feature will be available starting October 30.
+https://techcrunch.com/2026/10/13/apple-refreshes-its-homepod-mini-with-a-new-chip-and-149-price-tag/
+
+2. *Apple’s new smart home line-up includes a smart lock, thermostat and video doorbells* (TechCrunch)
+The new devices work with HomeView, the company's new smart home hub which can be used to control accessories and interact with apps.
+https://techcrunch.com/2026/10/13/apples-new-smart-home-line-up-includes-a-smart-lock-thermostat-and-video-doorbells/
+
+3. *The final Disrupt Stage lineup: Three days of conversations you won’t hear anywhere outside of TechCrunch Disrupt 2026* (TechCrunch)
+The full TechCrunch Disrupt Stage lineup revealed, featuring Max Hodak, Mark Wahlberg, Benchmark partners, and more. Register now to save up to $100 on your pass and get a second at 50% off.
+https://techcrunch.com/2026/10/13/the-final-disrupt-stage-lineup-three-days-of-conversations-you-wont-hear-anywhere-outside-of-techcrunch-disrupt-2026/
+
+4. *India delays digital payments fee rollout amid retailer pushback* (TechCrunch)
+The NPCI, which operates the UPI network, said it was postponing the planned October 15 rollout of the 0.4% fee due to the festive shopping season.
+https://techcrunch.com/2026/10/13/india-delays-digital-payments-fee-rollout-amid-retailer-pushback/
+
+5. *Apple launches a new Apple TV 4K with Siri AI and remote-free voice commands* (TechCrunch)
+The new Apple TV 4K costs $299, comes with Siri AI, and will be available on November 13.
+https://techcrunch.com/2026/10/13/apple-launches-a-new-apple-tv-4k-with-siri-ai-and-remote-free-commands/
+
+6. *Apple makes another push into the smart home market with HomeView* (TechCrunch)
+Apple is taking a big swing at the smart home market with its latest product that competes with Amazon Echo Show and Google Nest Hub.
+https://techcrunch.com/2026/10/13/apple-makes-another-push-into-the-smart-home-market-with-homeview/
+
+7. *Amex introduces a framework to prevent AI agents from making unauthorized purchases* (TechCrunch)
+American Express is introducing a new framework designed to ensure AI agents only make purchases their users have authorized, potentially preventing costly mistakes and disputes as AI-powered shopping...
+https://techcrunch.com/2026/10/13/amex-introduces-a-framework-to-prevent-ai-agents-from-making-unauthorized-purchases/
+
+8. *Giraffe Bio aims its bespoke biomolecules at the looming copper shortage* (TechCrunch)
+As AI data centers and EVs drive up demand for copper, Giraffe Bio has unearthed a $6.4 million seed round to help miners extract more of the mineral.
+https://techcrunch.com/2026/10/13/giraffe-bio-aims-its-bespoke-biomolecules-at-the-looming-copper-shortage/
+
+9. *Just 5 years in, interactive chatbot platform Character.AI files for bankruptcy* (TechCrunch)
+The startup will sell some of its assets to Disney for $20 million.
+https://techcrunch.com/2026/10/13/just-5-years-in-interactive-chatbot-platform-character-ai-files-for-bankruptcy/
+
+10. *Meta releases its first frontier model, Muse Wonder* (TechCrunch)
+Where Muse Spark aimed to be a lightweight model that could perform at low latency, the Wonder models are larger and said to be more capable, with higher benchmark scores and better results on complex...
+https://techcrunch.com/2026/10/12/meta-releases-its-first-frontier-model-muse-wonder/
+
+11. *WindBorne wins a hefty US Air Force contract for its balloon data* (TechCrunch)
+A Silicon Valley startup that uses weather balloons and AI to predict the weather won a U.S. military contract worth almost $50 million.
+https://techcrunch.com/2026/10/12/windborne-wins-a-hefty-us-air-force-contract-for-its-balloon-data/
+
+12. *Honeyjar offers AI tools to improve PR and comms at every company* (TechCrunch)
+Journalists, entrepreneurs, and even some public relations professionals will tell you that the PR process is broken. But could AI actually make things better?
+https://techcrunch.com/2026/10/12/honeyjar-offers-ai-tools-to-improve-pr-and-comms-at-every-company/
+
+13. *Microsoft president says UK is best placed to drive AI regulation* (TechCrunch)
+Microsoft president Brad Smith calls for urgent AI regulation, saying milk and washing machines have more oversight than AI companies.
+https://techcrunch.com/2026/10/12/microsoft-president-says-uk-is-best-placed-to-drive-ai-regulation/
+
+14. *This AI startup says it can generate permit-ready blueprints in minutes* (TechCrunch)
+Blueprints AI, a bootstrapped startup based in Santa Monica, developed software that produces code-compliant construction blueprints from a photo, PDF, or sketch.
+https://techcrunch.com/2026/10/12/this-ai-startup-says-it-can-generate-permit-ready-blueprints-in-minutes/
+
+15. *Fitbit Edge is Google’s middle ground between Fitbit Air and Pixel Watch* (TechCrunch)
+Google’s newest wearable costs $179.99 and has a sleek feel like the Fitbit Air but with an OLED display.
+https://techcrunch.com/2026/10/12/fitbit-edge-is-googles-middle-ground-between-fitbit-air-and-pixel-watch/
+
+🛠️ أدوات وتحديثات جديدة
+
+1. *Meta's Watermelon ripens into a frontier model* (The Rundown AI)
+PLUS: Put Meta’s new model to work
+https://therundownai.beehiiv.com/p/meta-watermelon-ripens-into-a-frontier-model
