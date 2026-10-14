@@ -1,0 +1,89 @@
+🗞️ AI Daily — 2026-10-14
+
+📰 أخبار الذكاء الاصطناعي
+
+1. *Scimplify raises $25M to challenge China’s grip on critical materials with AI* (TechCrunch)
+Scimplify's annualized revenue run rate has tripled to $200 million as it eyes U.S. expansion.
+https://techcrunch.com/2026/10/14/scimplify-raises-25m-to-challenge-chinas-grip-on-critical-materials-with-ai/
+
+2. *Justice Department says North Koreans have infiltrated dozens of U.S. companies* (TechCrunch)
+U.S. authorities warn that sanctioned hackers are increasingly targeting Americans to act as facilitators between breached U.S. companies and Pyongyang.
+https://techcrunch.com/2026/10/13/justice-department-says-north-koreans-have-infiltrated-dozens-of-u-s-companies/
+
+3. *Science Corporation implants its vision-restoring chip in its first Stargardt disease patient* (TechCrunch)
+Max Hodak, the former president and co-founder of Neuralink, detailed onstage at TechCrunch Disrupt how his company's work with PRIMA is part of its path toward a novel brain-computer interface (BCI).
+https://techcrunch.com/2026/10/13/science-corporation-implants-its-vision-restoring-chip-in-its-first-stargardt-disease-patient/
+
+4. *Cerebras CEO says we’re nearing a future where everyone has a personal AI assistant at home* (TechCrunch)
+Cerebras CEO Andrew Feldman predicts a future where personal AI assistants become as commonplace as household appliances, running partly on local devices and partly in the cloud.
+https://techcrunch.com/2026/10/13/cerebras-ceo-says-were-nearing-a-future-where-everyone-has-a-personal-ai-assistant-at-home/
+
+5. *Industrial Next wants factory robots to switch tasks in minutes, not weeks* (TechCrunch)
+Industrial Next helps manufacturers automate complex, delicate tasks that have traditionally required human labor.
+https://techcrunch.com/2026/10/13/industrial-next-wants-factory-robots-to-switch-tasks-in-minutes-not-weeks/
+
+6. *Cerebras CEO pushes back on AI doomsday warnings* (TechCrunch)
+Cerebras CEO Andrew Feldman has a message for AI leaders spreading doomsday warnings: Maybe stop talking? At TechCrunch Disrupt, he argued that the industry's focus on AI's risks is drowning out its p...
+https://techcrunch.com/2026/10/13/cerebras-ceo-pushes-back-on-ai-doomsday-warnings/
+
+7. *Helix Carbon says it can make iron cheaper by recycling blast furnace pollution* (TechCrunch)
+The steel industry is a big polluter, but Helix Carbon can upcycle pollution from blast furnaces to drive down emissions and improve margins.
+https://techcrunch.com/2026/10/13/helix-carbon-makes-iron-cheaper-by-upcycling-blast-furnace-pollution-see-how-at-techcrunch-disrupt/
+
+8. *FBI arrests OpenAI employee accused of planting hidden recording device in conference room* (TechCrunch)
+It's not clear exactly for what purpose the recording device was used, but FBI director Kash Patel said the scheme was to "capture sensitive communications about the company’s super intelligence techn...
+https://techcrunch.com/2026/10/13/fbi-arrests-openai-employee-accused-of-planting-hidden-recording-device-in-conference-room/
+
+9. *Judge orders OpenAI to turn over hiring records in Apple trade secrets case* (TechCrunch)
+A federal judge ruled that Apple can access OpenAI's interview materials involving former Apple employees, as well as private messages and testimony from key figures in the case.
+https://techcrunch.com/2026/10/13/judge-orders-openai-to-turn-over-hiring-records-in-apple-trade-secrets-case/
+
+10. *Cambridge Heavy Industries has been quietly building a desktop fusion device* (TechCrunch)
+Fusion power startup Cambridge Heavy Industries is building a small, laser-powered fusion device to fuel the coming wave of fusion power plants.
+https://techcrunch.com/2026/10/13/cambridge-heavy-industries-has-been-quietly-building-a-desktop-fusion-device/
+
+11. *Licube wants to be the fuel provider to the fusion power industry — see how at TechCrunch Disrupt* (TechCrunch)
+Fusion power plants will need a lot of lithium, and Licube is preparing to be a key supplier.
+https://techcrunch.com/2026/10/13/licube-wants-to-be-the-fuel-provider-to-the-fusion-power-industry-see-how-at-techcrunch-disrupt/
+
+12. *Niobia takes the guesswork out of some of tech’s most expensive mistakes* (TechCrunch)
+The San Francisco startup aims to help battery and chip manufacturers identify defects on production lines, reducing downtime and costly mistakes.
+https://techcrunch.com/2026/10/13/niobia-takes-the-guesswork-out-of-some-of-techs-most-expensive-mistakes/
+
+13. *Rivian’s startup Mind Robotics hires former Ford EV chief Doug Field* (TechCrunch)
+Field also worked on Apple's secretive car project and oversaw development of the Tesla Model 3.
+https://techcrunch.com/2026/10/13/rivians-startup-mind-robotics-hires-former-ford-ev-chief-doug-field/
+
+14. *Flox Intelligence is building AI to keep wildlife away from trains, airports, and roads* (TechCrunch)
+Flox's edge devices can identify animals and use species-specific sounds to drive them away from critical infrastructure.
+https://techcrunch.com/2026/10/13/flox-intelligence-is-building-ai-to-keep-wildlife-away-from-trains-airports-and-roads/
+
+15. *Facebook is giving users more control over their algorithm* (TechCrunch)
+Meta announced the launch of its new AI-powered feature, “Your Algorithm,” a feature it first launched on Instagram.
+https://techcrunch.com/2026/10/13/facebook-is-giving-users-more-control-over-their-algorithm/
+
+16. *Forget rockets — Longshot wants to fire cargo into space from a gun. See it at TechCrunch Disrupt 2026* (TechCrunch)
+Longshot is trying to build a gun big enough to make space data centers a reality.
+https://techcrunch.com/2026/10/13/forget-rockets-longshot-wants-to-fire-cargo-into-space-from-a-gun-see-it-at-techcrunch-disrupt-2026/
+
+17. *Laplace Intelligence red-teams robots and self-driving cars before they hit the real world* (TechCrunch)
+University of Michigan spinout Laplace Intelligence uses AI agents and interactive simulation to stress-test robots and self-driving vehicles before deployment. The profitable startup is competing in...
+https://techcrunch.com/2026/10/13/laplace-intelligence-red-teams-robots-and-self-driving-cars-before-they-hit-the-real-world/
+
+18. *Pluto Security raises $42M as AI gives enterprise security teams a new headache* (TechCrunch)
+The problem with giving everyone in a company access to AI tools is that people will use them in unexpected ways. And that fact is steadily seeding fears that companies now have new, gaping security h...
+https://techcrunch.com/2026/10/13/pluto-security-raises-42m-as-ai-gives-enterprise-security-teams-a-new-headache/
+
+19. *MIT startup says it can turn diesel trucks into cheaper hydrogen haulers — see it at Disrupt* (TechCrunch)
+Diesel is expensive and polluting, and LNK Energies says it has come up with a way to replace it with hydrogen, all while undercutting diesel on cost.
+https://techcrunch.com/2026/10/13/mit-startup-says-it-can-turn-diesel-trucks-into-cheaper-hydrogen-haulers-see-it-at-disrupt/
+
+20. *Google Play now lets anyone build private, vibe-coded apps that run on Android* (TechCrunch)
+Google is making it easier to build and use personal Android apps created with AI, without having to make them available to everyone on the Play Store.
+https://techcrunch.com/2026/10/13/google-play-now-supports-private-vibe-coded-apps-built-just-for-you/
+
+🛠️ أدوات وتحديثات جديدة
+
+1. *OpenAI finds a bug in its boardroom* (The Rundown AI)
+PLUS: How to give Grok Bot its own email inbox
+https://therundownai.beehiiv.com/p/openai-finds-a-bug-in-its-boardroom
