@@ -1,0 +1,89 @@
+🗞️ AI Daily — 2026-10-15
+
+📰 أخبار الذكاء الاصطناعي
+
+1. *Figma announces new features to define how agents work on its platform* (TechCrunch)
+Figma is also releasing its code layers feature in open beta.
+https://techcrunch.com/2026/10/14/figma-announces-new-features-to-define-how-agents-work-on-its-platform/
+
+2. *Ricursive Intelligence is betting on AI-designed chips to help solve the compute crisis* (TechCrunch)
+The founders detailed how their startup is developing AI that can design chips, learn from each iteration, and improve subsequent designs, all with the goal of automating and accelerating the chip des...
+https://techcrunch.com/2026/10/14/ricursive-intelligence-is-betting-on-ai-designed-chips-to-help-solve-the-compute-crisis/
+
+3. *Flock CEO defends surveillance technology amid national backlash: ‘We shouldn’t pause progress’* (TechCrunch)
+At TechCrunch Disrupt, Flock CEO Garrett Langley defended his company's surveillance technology despite growing privacy concerns, arguing that its crime-fighting benefits outweigh the risks of abuse.
+https://techcrunch.com/2026/10/14/flock-ceo-defends-surveillance-technology-amid-national-backlash-we-shouldnt-pause-progress/
+
+4. *Meet the five companies competing in the Startup Battlefield finals at Disrupt 2026* (TechCrunch)
+It’s time to unveil the five companies that will be competing in the Startup Battlefield finals.
+https://techcrunch.com/2026/10/14/meet-the-five-companies-competing-in-the-startup-battlefield-finals-at-disrupt-2026/
+
+5. *Gudea leverages AI to help organizations prevent social media crises before they erupt* (TechCrunch)
+Every day, conversations unfold across social media and websites around the world. A seemingly insignificant post—whether it involves AI-generated misinformation, hate speech, or a damaging rumor—can...
+https://techcrunch.com/2026/10/14/gudea-leverages-ai-to-help-organizations-prevent-social-media-crises-before-they-erupt/
+
+6. *Intero Biosystems wants drugmakers to test on mini human intestines, not animals* (TechCrunch)
+Intero Biosystems is selling lab-grown human intestines to drugmakers as regulators push for alternatives to animal testing, while the startup looks to scale production and expand its organoid technol...
+https://techcrunch.com/2026/10/14/intero-biosystems-wants-drugmakers-to-test-on-mini-human-intestines-not-animals/
+
+7. *CedarDB wants one database to handle both transactions and analytics, as AI agents raise the stakes* (TechCrunch)
+Databases have traditionally been designed either for analytical data or for operational data. But database engine CedarDB supports both, and its approach has gained relevance with the rise of agentic...
+https://techcrunch.com/2026/10/14/cedardb-wants-one-database-to-handle-both-transactions-and-analytics-as-ai-agents-raise-the-stakes/
+
+8. *Ambani’s Jio seeks to raise $3.2B in what could be India’s biggest IPO* (TechCrunch)
+Jio plans to use most of its IPO proceeds to repay debt as it expands beyond telecom.
+https://techcrunch.com/2026/10/14/ambanis-jio-seeks-to-raise-3-2b-in-what-could-be-indias-biggest-ipo/
+
+9. *Flock CEO says its microphones detect ‘just gunshots’ — its website says different* (TechCrunch)
+Langley’s comments come amid mounting scrutiny of Flock from privacy advocates, including the ACLU, and members of the public who are concerned about the misuse of its technology.
+https://techcrunch.com/2026/10/14/flock-ceo-says-its-microphones-detect-just-gunshots-its-website-says-different/
+
+10. *Colossal Biosciences announces new AI platform to help accelerate de-extinction efforts* (TechCrunch)
+Colossal announced a new AI platform to help accelerate its de-extinction efforts and Peter Diamandis has launched a new fund to back startups who use it.
+https://techcrunch.com/2026/10/14/colossal-biosciences-announces-new-ai-platform-to-help-accelerate-de-extinction-efforts/
+
+11. *Flock CEO: We haven’t ‘fired’ any police departments as customers* (TechCrunch)
+Flock CEO Garrett Langley said that the surveillance company has not canceled contracts of any police department or law enforcement agency, despite reports of abuse.
+https://techcrunch.com/2026/10/14/flock-ceo-we-havent-fired-any-police-departments-as-customers/
+
+12. *Electric vehicle sales in the US are showing signs of life* (TechCrunch)
+The electric vehicle market in the U.S. has been growing for the last three consecutive quarters.
+https://techcrunch.com/2026/10/14/electric-vehicle-sales-in-the-u-s-are-showing-signs-of-life/
+
+13. *TimeTeller puts our internal clocks at the center of personalized medicine* (TechCrunch)
+German startup TimeTeller has developed a saliva test kit to help anyone understand their circadian rhythm; it aims to reduce side effects from cancer treatments.
+https://techcrunch.com/2026/10/14/timeteller-puts-our-internal-clocks-at-the-center-of-personalized-medicine/
+
+14. *Ambrosia Energy will build a 10 GWh factory in Texas to make batteries for off-grid data centers* (TechCrunch)
+Startup Ambrosia Energy will build a massive factory to crank out batteries to augment solar panels, creating a round-the-clock clean power plant.
+https://techcrunch.com/2026/10/14/ambrosia-energy-will-build-a-10-gwh-factory-in-texas-to-make-batteries-for-off-grid-data-centers/
+
+15. *Hiyd is a health tracker that attaches to the watch you already wear* (TechCrunch)
+Former Apple engineers figured out how to get a biometric sensor to attach to your watch without any magnets or adhesives.
+https://techcrunch.com/2026/10/14/hiyd-is-a-health-tracker-that-attaches-to-the-watch-you-already-wear/
+
+16. *YouTube Music launches new labels as AI-generated music floods streaming platforms* (TechCrunch)
+The label will appear on the player page and include songs entirely generated by AI or partially, such as AI involved in composition and vocals.
+https://techcrunch.com/2026/10/14/youtube-music-launches-new-labels-as-ai-generated-music-floods-streaming-platforms/
+
+17. *Apate sends AI agents undercover to get scammed so they can gather fraud intelligence* (TechCrunch)
+Most companies use AI agents to ship products faster or speed up workflows. Apate.ai sends them undercover to get scammed.
+https://techcrunch.com/2026/10/14/apate-sends-ai-agents-undercover-to-get-scammed-so-they-can-gather-fraud-intelligence/
+
+18. *Mosqitter is turning its mosquito traps into an AI-powered surveillance network* (TechCrunch)
+Mosqitter is turning its mosquito-trapping hardware into an AI-powered surveillance network designed to identify species, monitor populations, and provide earlier warnings of mosquito-borne disease ri...
+https://techcrunch.com/2026/10/14/mosqitter-is-turning-its-mosquito-traps-into-an-ai-powered-surveillance-network/
+
+19. *Prismm helps banks keep inherited money in-house* (TechCrunch)
+With Prismm, account holders can give designated family members access to their accounts and documents ahead of time.
+https://techcrunch.com/2026/10/14/prismm-helps-banks-keep-inherited-money-in-house/
+
+20. *Deezer will soon let you filter out AI-generated music* (TechCrunch)
+Deezer said that the new toggle will be rolled out by the end of the year.
+https://techcrunch.com/2026/10/14/deezer-will-soon-let-you-filter-out-ai-generated-music/
+
+🛠️ أدوات وتحديثات جديدة
+
+1. *Rogue AI agents sit for their first interview* (The Rundown AI)
+PLUS: Build a live sales dashboard in Claude
+https://therundownai.beehiiv.com/p/rogue-ai-agents-sit-for-their-first-interview
