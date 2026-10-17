@@ -1,0 +1,55 @@
+🗞️ AI Daily — 2026-10-17
+
+📰 أخبار الذكاء الاصطناعي
+
+1. *Mark Wahlberg wants to take on the longevity-startup crowd with an affordable gym concept* (TechCrunch)
+Mark Wahlberg, who once sank money into a gym chain that got kicked off the NYSE, is now building his own, and he promises you’ll get a cold plunge, a blood panel and a protein muffin without needing...
+https://techcrunch.com/2026/10/16/mark-wahlberg-wants-to-take-on-the-longevity-startup-crowd-with-an-affordable-gym-concept/
+
+2. *Replit is no longer working with Anthropic, CEO says* (TechCrunch)
+Masad said the decision was made for a number of different reasons, including cost. Replit announced a partnership with OpenAI in August, but there was never any indication that it was no longer with...
+https://techcrunch.com/2026/10/16/replit-is-no-longer-working-with-anthropic-ceo-says/
+
+3. *Porsche’s electric Macan Turbo is an automotive existential crisis* (TechCrunch)
+The 2026 Porsche Macan Turbo EV is a two-row crossover with 630 horsepower and a 100-kilowatt-hour battery.
+https://techcrunch.com/2026/10/16/porsches-electric-macan-turbo-is-an-automotive-existential-crisis/
+
+4. *India becomes the latest country to report rogue AI agent activity* (TechCrunch)
+The agents got in through credentials and connection settings left exposed in app configurations, public code repositories, and overly permissive cloud roles.
+https://techcrunch.com/2026/10/16/india-becomes-the-latest-country-to-report-rogue-ai-agent-activity/
+
+5. *An Nvidia insider-turned-VC on why robotics hasn’t hit its ChatGPT moment, yet* (TechCrunch)
+Amulya Vishwanath, who spent seven years leading product marketing for NVIDIA’s robotics platforms, says robotics is currently in its “Lego era,” with the basic building blocks like actuators, robotic...
+https://techcrunch.com/video/a-nvidia-insider-turned-vc-on-why-robotics-hasnt-hit-its-chatgpt-moment-yet/
+
+6. *Waymo’s robotaxis are headed to Canada* (TechCrunch)
+The company will start off by testing its self-driving vehicles on Toronto's streets.
+https://techcrunch.com/2026/10/16/waymos-robotaxis-are-headed-to-canada/
+
+7. *Elorian’s first AI model wants to reason with images, not just about them* (TechCrunch)
+According to Elorian's evaluations, Glimpse outperforms even GPT-6 Astra on scientific chart reasoning and short-form video captioning, with competitive results on other visual reasoning tasks.
+https://techcrunch.com/2026/10/16/elorians-first-ai-model-wants-to-reason-with-images-not-just-about-them/
+
+8. *Tressfecta wants to make hair braiding a less arduous task for hairstylists* (TechCrunch)
+Tressfecta builds products for textured hair. Its first project is a tool called Plait Pilot that helps braiders with the initial process of separating hair from packs before braiding begins.
+https://techcrunch.com/2026/10/16/tressfecta-wants-to-make-hair-braiding-a-less-arduous-task-for-hairstylists/
+
+9. *In ‘You Can See Everything,’ Elizabeth Holmes meets her equal in comedian Nathan Fielder* (TechCrunch)
+Nathan Fielder's documentary about disgraced Theranos CEO Elizabeth Holmes has created a constellation of colliding personas that interrogate the very nature of authenticity.
+https://techcrunch.com/2026/10/16/in-you-can-see-everything-elizabeth-holmes-meets-her-equal-in-comedian-nathan-fielder/
+
+10. *Jev is Vercel’s fastest-adopted AI model ever* (TechCrunch)
+The data comes from Vercel's AI gateway, a unified API service similar to OpenRouter.
+https://techcrunch.com/2026/10/16/jev-is-vercels-fastest-adopted-ai-model-ever/
+
+11. *Mark Wahlberg on using AI in film ‘the right way’ and being open to an AI clone carrying on his legacy* (TechCrunch)
+Actor and angel investor Mark Wahlberg says he's OK with using AI in filmmaking, provided it's used "to enhance what you're doing."
+https://techcrunch.com/2026/10/16/mark-wahlberg-on-using-ai-in-film-the-right-way-and-being-open-to-an-ai-clone-carrying-on-his-legacy/
+
+12. *Veritas expands its anti-counterfeit chip to jewelry, trophies, and fragrance bottles* (TechCrunch)
+Counterfeiters are getting better at replicating brands' marks and passing off dupes, known as "superfakes," as genuine items. A startup called Veritas wants to tackle the problem with its own chip th...
+https://techcrunch.com/2026/10/16/veritas-is-building-a-chip-to-verify-luxury-goods/
+
+13. *Replit’s CEO says the future of work is the ‘self-driving company’* (TechCrunch)
+Replit CEO Amjad Masad envisions a future of “self-driving companies,” where AI agents handle day-to-day tasks and people focus on higher-level decisions.
+https://techcrunch.com/2026/10/16/replits-ceo-says-the-future-of-work-is-the-self-driving-company/
