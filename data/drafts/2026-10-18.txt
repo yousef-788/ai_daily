@@ -1,0 +1,23 @@
+🗞️ AI Daily — 2026-10-18
+
+📰 أخبار الذكاء الاصطناعي
+
+1. *Meta removes language that raised scraping and AI training concerns* (TechCrunch)
+A Meta spokesperson insisted that the updated terms did not reflect a change in the way Meta crawls the web.
+https://techcrunch.com/2026/10/17/meta-removes-language-that-raised-scraping-and-ai-training-concerns/
+
+2. *TikTok permanently bans ‘Musk’ documentary advertising account* (TechCrunch)
+A four-hour documentary about Elon Musk continues to meet resistance from social media platforms.
+https://techcrunch.com/2026/10/17/tiktok-permanently-bans-musk-documentary-advertising-account/
+
+3. *Anthropic says its workforce has become less junior and is spending more time in meetings* (TechCrunch)
+The composition of Anthropic’s workforce and the type of work getting done have changed significantly in the past year.
+https://techcrunch.com/2026/10/17/anthropic-says-its-workforce-has-become-less-junior-and-is-spending-more-time-in-meetings/
+
+4. *Replit makes OpenAI its default over Anthropic, CEO says* (TechCrunch)
+Over the weekend, Masad clarified that OpenAI would replace Anthropic as its default model provider. Claude will still be available to customers on the platform.
+https://techcrunch.com/2026/10/17/replit-is-no-longer-working-with-anthropic-ceo-says/
+
+5. *Ember’s new temperature-controlled mug makes my nightly tea ritual even better* (TechCrunch)
+The biggest change about Ember's new mug is that you no longer have to open the app to adjust your drink’s temperature.
+https://techcrunch.com/2026/10/17/embers-new-temperature-controlled-mug-makes-my-nightly-tea-ritual-even-better/
