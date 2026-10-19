@@ -1,0 +1,33 @@
+🗞️ AI Daily — 2026-10-19
+
+📰 أخبار الذكاء الاصطناعي
+
+1. *Khosla Ventures doubles down on Even Healthcare to challenge India’s hospital economics* (TechCrunch)
+Even Healthcare reaches a $300 million valuation in a Khosla Ventures-led round as it plans to expand its hospital network in India.
+https://techcrunch.com/2026/10/19/khosla-ventures-doubles-down-on-even-healthcare-to-challenge-indias-hospital-economics/
+
+2. *No agenda, no rush, no leaving San Francisco: Benchmark’s partners on investing in a frenzied market* (TechCrunch)
+Benchmark may have grown its funds and swapped out some partners, but onstage the five who are left sounded like friends who just happen to be running one of the Valley’s most storied firms
+https://techcrunch.com/2026/10/18/no-agenda-no-rush-no-leaving-san-francisco-benchmarks-partners-on-investing-in-a-frenzied-market/
+
+3. *Anthropic says it’s committing 5% of its shares to a ‘public benefit fund’* (TechCrunch)
+Anthropic said that it will commit 5% of its shares to the fund.
+https://techcrunch.com/2026/10/18/anthropic-says-its-committing-5-of-its-shares-to-a-public-benefit-fund/
+
+4. *Everyone’s watching the Elizabeth Holmes documentary ‘You Can See Everything’* (TechCrunch)
+"You Can See Everything" is having the second biggest opening weekend ever for a documentary film.
+https://techcrunch.com/2026/10/18/everyones-watching-the-elizabeth-holmes-documentary-you-can-see-everything/
+
+5. *Disney agrees to hire the majority of Character.AI’s workforce* (TechCrunch)
+The filing also says that the “vast majority” of Character.AI employees who were offered jobs at Disney accepted them. However, this is a stalking horse bid, so another company could come forward with...
+https://techcrunch.com/2026/10/18/disney-agrees-to-hire-the-majority-of-character-ais-workforce/
+
+6. *TechCrunch Mobility: Rivian’s next act* (TechCrunch)
+Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it.
+https://techcrunch.com/2026/10/18/techcrunch-mobility-rivians-next-act/
+
+🛠️ أدوات وتحديثات جديدة
+
+1. *Anthropic designs a pay package for the public* (The Rundown AI)
+PLUS: Turn a content spreadsheet into a working app
+https://therundownai.beehiiv.com/p/anthropic-designs-a-pay-package-for-the-public
