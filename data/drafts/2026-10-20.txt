@@ -1,0 +1,89 @@
+🗞️ AI Daily — 2026-10-20
+
+📰 أخبار الذكاء الاصطناعي
+
+1. *Yelp can now call on your behalf to check wait times at a restaurant* (TechCrunch)
+Yelp is embedding numerous new AI features into its app that can do everything from call to check on restaurant wait times to create personalized recommendations that remember your preferences.
+https://techcrunch.com/2026/10/20/yelp-can-now-call-on-your-behalf-to-check-wait-times-at-a-restaurant/
+
+2. *Otter.ai raises $320 million from General Catalyst’s growth fund for its meeting tool* (TechCrunch)
+Meeting note-taking tool Otter.ai announced on Tuesday that it has raised $320 million from General Catalyst’s Customer Value Fund (CVF), which provides capital to startups without diluting equity and...
+https://techcrunch.com/2026/10/20/otter-ai-raises-320-million-from-general-catalysts-growth-fund-for-its-meeting-tool/
+
+3. *Blackwall quadruples valuation to $2.2B as websites wrangle an increasingly crowded internet* (TechCrunch)
+Blackwall has raised $100M at a $2.2B valuation to continue building security and filtering tools that help websites grapple with growing bot and AI traffic.
+https://techcrunch.com/2026/10/20/blackwall-quadruples-valuation-to-2-2b-as-websites-wrangle-an-increasingly-crowded-internet/
+
+4. *Walmart’s Flipkart is quietly building a food delivery challenger in India* (TechCrunch)
+Flipkart has expanded access to its food-delivery service to thousands of employees ahead of its public launch.
+https://techcrunch.com/2026/10/19/walmarts-flipkart-is-quietly-building-a-food-delivery-challenger-in-india/
+
+5. *Mamdani says feds have abdicated on AI, urges New Yorkers to push back* (TechCrunch)
+Mayor Zohran Mamdani said Monday night that New Yorkers must resist the narrative that an AI takeover is inevitable and demand regulations that protect the public and put power back in their hands.
+https://techcrunch.com/2026/10/19/mamdani-says-feds-have-abdicated-on-ai-urges-new-yorkers-to-push-back/
+
+6. *Nscale and Anthropic are reportedly in talks for yet another $45B compute deal* (TechCrunch)
+If the deal goes through, it would be the latest in a long string of giant compute deals Anthropic has struck over the past year.
+https://techcrunch.com/2026/10/19/nscale-and-anthropic-are-reportedly-in-talks-for-yet-another-45-billion-compute-deal/
+
+7. *Embedded AI evaluators won’t be an easy solution, Hugging Face’s policy chief says* (TechCrunch)
+The idea of embedded evaluators — in which supposedly "neutral" third-party observers are placed inside AI organizations — has been popularized over the last several months, as AI labs grapple with a...
+https://techcrunch.com/2026/10/19/embedded-ai-evaluators-wont-be-an-easy-solution-hugging-faces-policy-chief-says/
+
+8. *Microsoft says AI agents are like insider threats as ‘frontier models can’t be trusted’* (TechCrunch)
+Microsoft wants enterprises to closely watch the agents that employees use with systems not controlled by AI labs like OpenAI and Anthropic.
+https://techcrunch.com/2026/10/19/microsoft-says-ai-agents-are-like-insider-threats-as-frontier-models-cant-be-trusted/
+
+9. *Amazon is taking its biggest shot at Nvidia yet with new TorchNeuron dev tool* (TechCrunch)
+Amazon wants to break Nvidia’s hold on PyTorch, the free toolkit used to build most AI apps, so that more developers run their apps on alternative chips like its own.
+https://techcrunch.com/2026/10/19/amazon-is-taking-its-biggest-shot-at-nvidia-yet-with-new-torchneuron-dev-tool/
+
+10. *Hackers hit AI coding tool OpenCode, running up charges on users’ AI accounts* (TechCrunch)
+OpenCode is an open source AI coding agent that's become a popular alternative to Claude Code and Cursor. But hackers got into part of its online platform and stole some users’ API keys, and the AI to...
+https://techcrunch.com/2026/10/19/hackers-hit-ai-coding-tool-opencode-running-up-charges-on-users-ai-accounts/
+
+11. *Tolan snags $30M for its AI companion that helps users navigate life* (TechCrunch)
+AI companion app Tolan has raised another $30 million after attracting more than 250,000 active users.
+https://techcrunch.com/2026/10/19/tolan-snags-30m-for-its-ai-companion-that-helps-users-navigate-life/
+
+12. *Replika’s founder built the AI assistant she pitched at Disrupt 12 years ago* (TechCrunch)
+Eugenia Kuyda's newest startup Wabi is positioned to take advantage of an idea she had more than a decade ago. Wabi offers a personal AI assistant with a twist, free and downloadable to anyone today.
+https://techcrunch.com/2026/10/19/replikas-founder-built-the-ai-assistant-she-pitched-at-disrupt-12-years-ago/
+
+13. *Tenstorrent hits $6.2B valuation to scale open-weight AI chips* (TechCrunch)
+After drawing acquisition interest earlier this year, the Nvidia challenger raised $1.5 billion to remain independent.
+https://techcrunch.com/2026/10/19/tenstorrent-hits-6-2b-valuation-to-scale-open-weight-ai-chips/
+
+14. *AI assistant startup Town nabs unicorn valuation 4 months after launch* (TechCrunch)
+AI assistant startup Town nabbed a unicorn valuation on Monday, announcing a $108 million Series B round co-led by Forerunner Ventures and Menlo Ventures.
+https://techcrunch.com/2026/10/19/ai-assistant-startup-town-nabs-unicorn-valuation-four-months-after-launch/
+
+15. *Rivian’s CEO says autonomy will enable ‘dramatically different’ vehicle designs* (TechCrunch)
+Founder and CEO RJ Scaringe said he thinks autonomy will allow his company to build radically different kinds of vehicles than the outdoorsy SUVs and trucks it currently makes.
+https://techcrunch.com/2026/10/19/rivians-ceo-says-autonomy-will-enable-dramatically-different-vehicle-designs/
+
+16. *Amazon to fund 12 small nuclear reactors at former Indiana coal plant* (TechCrunch)
+Amazon and X-energy have inked another deal to deploy nuclear power to the grid. This one will generate nearly 1 gigawatt of electricity.
+https://techcrunch.com/2026/10/19/amazon-to-fund-12-small-nuclear-reactors-at-former-indiana-coal-plant/
+
+17. *People are using AI to make their smart TVs dumb again* (TechCrunch)
+Fed up with ads, tracking, and sluggish interfaces, some smart TV owners are turning to AI agents to strip away bloatware and take back control of their TVs.
+https://techcrunch.com/2026/10/19/people-are-using-ai-to-make-their-smart-tvs-dumb-again/
+
+18. *Nvidia launches new open models to run agents in the enterprise and on PCs* (TechCrunch)
+Nvidia is leaning hard into the trend of enterprise companies wanting to run their own open models in their own data centers and also trying to make on-device, private AI agents a thing.
+https://techcrunch.com/2026/10/19/nvidia-launches-new-open-models-to-run-agents-in-the-enterprise-and-on-pcs/
+
+19. *Apple updates guidelines to ban nudify apps masquerading as regular apps to pass review* (TechCrunch)
+The company updated its guidelines with strong language around AI and user-generated content, and how app developers should include enough preventative measures to moderate objectionable or offensive...
+https://techcrunch.com/2026/10/19/apple-updates-guidelines-to-ban-nudify-apps-masquerading-as-regular-apps-to-pass-review/
+
+20. *Musk pledges to give ‘every kid in America’ one of his SpaceX shares* (TechCrunch)
+Musk's post came just a few hours after Anthropic promised to put 5% of its shares into a new "public benefit fund," which it intends to use to make "large donations to traditional nonprofits or direc...
+https://techcrunch.com/2026/10/19/musk-pledges-to-give-every-kid-in-america-one-of-his-spacex-shares/
+
+🛠️ أدوات وتحديثات جديدة
+
+1. *Anthropic co-founder says the singularity is underway* (The Rundown AI)
+PLUS: Try ChatGPT’s new voices with GPT-Live-1.1
+https://therundownai.beehiiv.com/p/anthropic-co-founder-says-the-singularity-is-underway
