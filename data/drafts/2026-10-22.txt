@@ -1,0 +1,89 @@
+🗞️ AI Daily — 2026-10-22
+
+📰 أخبار الذكاء الاصطناعي
+
+1. *Tesla says it will start selling Cybercabs by end of year* (TechCrunch)
+Tesla said Wednesday it will start selling its Cybercab to customers by the end of the year, even as federal regulators investigate whether the vehicle meets vehicle safety standards. The gold-hued, a...
+https://techcrunch.com/2026/10/21/tesla-says-it-will-start-selling-cybercabs-by-end-of-year/
+
+2. *Blackstone’s Jas Khaira says fears over AI-buildout debt are overblown* (TechCrunch)
+Blackstone’s AI head on why the PE giant isn't panicked by market jitters.
+https://techcrunch.com/2026/10/21/blackstones-jas-khaira-says-fears-over-ai-buildout-debt-are-overblown/
+
+3. *Meta wants to pay for its broad AI buildout with a newly created class of stock* (TechCrunch)
+The social media giant is planning a new stock strategy to help power its broad investments in AI models and services.
+https://techcrunch.com/2026/10/21/meta-wants-to-pay-for-its-broad-ai-buildout-with-a-newly-created-class-of-stock/
+
+4. *Airbnb limits chores for guests, sparking backlash from hosts* (TechCrunch)
+Hosts are threatening to leave the platform after Airbnb says that they can no longer require guests to strip beds or do other time-consuming cleaning chores.
+https://techcrunch.com/2026/10/21/airbnb-limits-chores-for-guests-sparking-backlash-from-hosts/
+
+5. *TechCrunch Founder Summit 2026: Everything you need to know* (TechCrunch)
+TechCrunch Founder Summit is a full-day gathering in Boston on November 4 where founders across all stages connect with top VCs and experienced entrepreneurs to gain tactical insights on building and...
+https://techcrunch.com/2026/10/21/techcrunch-founder-summit-2026-everything-you-need-to-know/
+
+6. *Meta says Muse has over 10M users, with shopping a top activity* (TechCrunch)
+Meta Muse users are adopting the app for shopping and personal productivity, the company said during its Q3 earnings call. The AI app now has over 10M users.
+https://techcrunch.com/2026/10/21/meta-says-muse-has-over-10m-users-with-shopping-a-top-activity/
+
+7. *Year-old AI lab Flapping Airplanes raises $1B at a $6B valuation* (TechCrunch)
+Just 9 months after raising a $180 million seed round, Flapping Airplanes has landed a $1 billion Series A for its mission to build AI models "without ingesting half the internet."
+https://techcrunch.com/2026/10/21/year-old-ai-lab-flapping-airplanes-raises-1b-at-a-6b-valuation/
+
+8. *Tesla starts Optimus robot production in California as profit falls 43%* (TechCrunch)
+Tesla's revenue was flat and its expenses skyrocketed as it pressed the accelerator on its Optimus robots, AI, and autonomous driving.
+https://techcrunch.com/2026/10/21/tesla-stars-optimus-robot-production-in-california-as-profit-falls-43/
+
+9. *Recursive launches Flint, a laptop coding model it says was largely built by AI* (TechCrunch)
+Startup Recursive has released Flint, a free, laptop-sized coding model built largely by its own AI research system, as an early test of AI that improves itself.
+https://techcrunch.com/2026/10/21/recursive-launches-flint-a-laptop-coding-model-it-says-was-largely-built-by-ai/
+
+10. *Automattic begins layoffs following board upheaval and executive departures* (TechCrunch)
+Sources say more cuts could follow as the company looks to improve its finances.
+https://techcrunch.com/2026/10/21/automattic-begins-layoffs-following-board-upheaval-and-executive-departures/
+
+11. *GM is betting compute and AI will help it compete with Chinese automakers* (TechCrunch)
+To compete with Tesla, Rivian, and a host of Chinese automakers, GM’s fourth-gen EV platform will roll out a new central computer and electrical architecture that will debut in 2028 in the Cadillac Es...
+https://techcrunch.com/2026/10/21/gm-is-betting-compute-and-ai-will-help-it-compete-with-chinese-automakers/
+
+12. *Meta ordered to pay $25B in case related to Cambridge Analytica scandal* (TechCrunch)
+The payout is related to a recent trial involving the social media giant that revolved around its data privacy practices.
+https://techcrunch.com/2026/10/21/meta-ordered-to-pay-25-billion-in-case-related-to-cambridge-analytica-scandal/
+
+13. *While Amazon blocks AI agents, Walmart rolls out the welcome mat* (TechCrunch)
+As Amazon blocks AI agents from shopping on its site, Walmart is taking the opposite approach, introducing new technology that lets AI agents make purchases on customers' behalf, with controls over sp...
+https://techcrunch.com/2026/10/21/while-amazon-blocks-ai-agents-walmart-rolls-out-the-welcome-mat/
+
+14. *The internet is having a very bad cybersecurity day* (TechCrunch)
+From AI-discovered PHP vulnerabilities to flaws in Node.js and popular AI tool LiteLLM, cybersecurity teams have plenty to worry about this week.
+https://techcrunch.com/2026/10/21/the-internet-is-having-a-very-bad-cybersecurity-day/
+
+15. *Legal AI startup Legora raises $550M Series E at $8.8B valuation* (TechCrunch)
+Legal AI startup Legora announced Wednesday that it raised a $550 million Series E round, valuing it at $8.8 billion.
+https://techcrunch.com/2026/10/21/legal-ai-startup-legora-raises-550m-series-e-at-8-8b-valuation/
+
+16. *GM is giving OnStar an AI makeover* (TechCrunch)
+It's one of the biggest overhauls ever to the 30-year-old connected car product.
+https://techcrunch.com/2026/10/21/gm-is-giving-onstar-an-ai-makeover/
+
+17. *PHP Armageddon: OpenAI, Google’s Wiz find ancient holes, panicking the internet* (TechCrunch)
+This is the kind of security issue that was found and prevented by AI, but is also a high risk because of AI.
+https://techcrunch.com/2026/10/21/php-armageddon-openai-googles-wiz-find-ancient-holes-panicking-the-internet/
+
+18. *Blacksmith hits unicorn valuation after Sequoia leads Series C* (TechCrunch)
+Blacksmith, a platform that lets companies build and test AI code more effectively, just announced a $66 million Series C round led by Sequoia that values the company at $1 billion.
+https://techcrunch.com/2026/10/21/blacksmith-hits-unicorn-valuation-after-sequoia-leads-series-c/
+
+19. *Waymo starts offering rides at the Las Vegas airport* (TechCrunch)
+Waymo only just started offering rides to the public in Las Vegas in September but is already serving a 24-square-mile area in the city.
+https://techcrunch.com/2026/10/21/waymo-starts-offering-rides-at-the-las-vegas-airport/
+
+20. *Foursquare co-founder says equity holders saw no returns from the company’s acquisition* (TechCrunch)
+Foursquare raised $411 million in funding according to PitchBook data, but its equity holders saw no returns from its final acquisition.
+https://techcrunch.com/2026/10/21/foursquare-co-founder-says-equity-holders-saw-no-returns-from-the-companys-acquisition/
+
+🛠️ أدوات وتحديثات جديدة
+
+1. *AI finds a security hole in 70% of the web* (The Rundown AI)
+PLUS: Let Town prepare your next meeting brief
+https://therundownai.beehiiv.com/p/ai-finds-a-security-hole-in-70-of-the-web
