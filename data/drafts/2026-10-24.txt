@@ -1,0 +1,47 @@
+🗞️ AI Daily — 2026-10-24
+
+📰 أخبار الذكاء الاصطناعي
+
+1. *Startups don’t need to go viral to win customers* (TechCrunch)
+At TechCrunch Disrupt last week, two founders and a VC discussed how to not just gain an early following but keep one.
+https://techcrunch.com/2026/10/23/startups-dont-need-to-go-viral-to-win-customers/
+
+2. *OpenAI says it will no longer train its AI models on the live internet, citing “significant risks”* (TechCrunch)
+OpenAI will cut frontier models off from the internet weeks after one of its engineers said that solution wouldn't work.
+https://techcrunch.com/2026/10/23/openai-says-it-will-no-longer-train-its-ai-models-on-the-live-internet-citing-significant-risks/
+
+3. *Hottest toy for Christmas? Nvidia CEO plays with adorable Microduck robots, 20,000 sell* (TechCrunch)
+The robots, stomping their little feet and making tiny R2-D2 noises, sat, fell down dead for a "nap," and summersaulted on voice command.
+https://techcrunch.com/2026/10/23/hottest-toy-for-christmas-nvidia-ceo-plays-with-adorable-microduck-robots-20000-sell/
+
+4. *VCs, Superhuman Mail founder share red flags about product-market fit* (TechCrunch)
+Top investors from Iconiq and Sapphire Ventures, along with Rahul Vohra, the founder of Superhuman Mail, share the do's and don'ts for building hit products.
+https://techcrunch.com/2026/10/23/vcs-superhuman-mail-founder-share-red-flags-about-product-market-fit/
+
+5. *TechCrunch Founder Summit 2026 roundtables: Go deeper on the challenges founders are solving right now* (TechCrunch)
+TechCrunch Founder Summit 2026 is coming to SoWa Power Station in Boston on November 4, bringing founders, investors, and operators together for a full day of candid conversations, practical sessions,...
+https://techcrunch.com/2026/10/23/techcrunch-founder-summit-2026-roundtables-go-deeper-on-the-challenges-founders-are-solving-right-now/
+
+6. *Carta and NewView partner, hoping to entice more startups to let employees sell shares early* (TechCrunch)
+A new program wants to encourage more startups to allow workers to cash out early by making it easier to transact tender offers.
+https://techcrunch.com/2026/10/23/carta-and-newview-partner-hoping-to-entice-more-startups-to-let-employees-sell-shares-early/
+
+7. *From Toast to Bessemer: Who founders will hear from at TechCrunch Founder Summit 2026* (TechCrunch)
+Hosted by TechCrunch in partnership with Fidelity Private Shares, the full-day event goes beyond fundraising and AI to explore the realities of finding customers, building teams, sharpening a pitch, d...
+https://techcrunch.com/2026/10/23/from-toast-to-bessemer-who-founders-will-hear-from-at-techcrunch-founder-summit-2026/
+
+8. *Agent cloud startup Daytona hits $1B valuation backed by FirstMark and a who’s who of angels* (TechCrunch)
+Daytona is building a cloud for agents that's like giving every agent its own computer. It has attracted founders of Stripe, Perplextity, Datadog, Mercor, and others as angels, it says.
+https://techcrunch.com/2026/10/23/agent-cloud-startup-daytona-hits-1b-valuation-backed-by-firstmark-and-a-whos-who-of-angels/
+
+9. *Commonwealth Fusion Systems gets $85M to build better fusion-ready semiconductors* (TechCrunch)
+Top-funded fusion startup Commonwealth Fusion Systems received an $85 million award from the federal government to advance conductors for fusion power plants.
+https://techcrunch.com/2026/10/23/commonwealth-fusion-systems-gets-85m-to-build-better-fusion-ready-semiconductors/
+
+10. *What some of Anthropic’s backers are worth before its IPO* (TechCrunch)
+Early-stage and follow-on investors in the AI lab are already sitting on major paper returns.
+https://techcrunch.com/2026/10/23/what-some-of-anthropics-backers-are-reportedly-worth-before-its-ipo/
+
+11. *Lab testing giant Quest Diagnostics confirms patients’ personal and health data was compromised during breach* (TechCrunch)
+Quest is the latest in a series of healthcare technology companies that have been hacked in recent months.
+https://techcrunch.com/2026/10/23/lab-testing-giant-quest-diagnostics-confirms-patients-personal-and-health-data-was-compromised-during-breach/
