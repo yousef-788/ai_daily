@@ -1,0 +1,49 @@
+🗞️ AI Daily — 2026-10-25
+
+📰 أخبار الذكاء الاصطناعي
+
+1. *Starlink seems to be working normally again in Ukraine* (TechCrunch)
+Elon Musk reportedly ordered SpaceX to throttle Ukraine's Starlink access.
+https://techcrunch.com/2026/10/24/starlink-seems-to-be-working-normally-again-in-ukraine/
+
+2. *Will AI expose the rickety infrastructure of the internet?* (TechCrunch)
+The moment you realize the internet is "held together by glue and dreams."
+https://techcrunch.com/2026/10/24/will-ai-expose-the-rickety-infrastructure-of-the-internet/
+
+3. *The AI graveyard: a running list of projects and startups that didn’t make it* (TechCrunch)
+From Apple's repeatedly delayed Siri AI to OpenAI's messy "super app" launch, here's a look at the AI projects that shut down or missed expectations.
+https://techcrunch.com/2026/10/24/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/
+
+4. *Instacart reportedly discussed selling itself with DoorDash and Uber* (TechCrunch)
+Instacart might sell itself to a larger competitor.
+https://techcrunch.com/2026/10/24/instacart-reportedly-discussed-selling-itself-with-doordash-and-uber/
+
+5. *Block’s new voice model sounds eerily human* (TechCrunch)
+Block said that the voice model can run locally on a MacBook M4 Max
+https://techcrunch.com/2026/10/24/blocks-new-voice-model-sounds-eerily-human/
+
+6. *PHP-ocalypse: How two critical web bugs almost broke the internet* (TechCrunch)
+Two critical bugs in the PHP web programming language, used by the majority of the internet, threatened to upend the internet — and it's unlikely to be the last major software scare.
+https://techcrunch.com/2026/10/24/php-ocalypse-how-two-critical-web-bugs-almost-broke-the-internet/
+
+7. *These clever apps show off the iPhone Duo’s potential* (TechCrunch)
+From retro cassette players and virtual notebooks to flight trackers and even a digital toaster, developers are finding creative ways to take advantage of Apple's first foldable iPhone.
+https://techcrunch.com/2026/10/24/these-clever-apps-show-off-the-iphone-duos-potential/
+
+8. *Forced to pick, Grok’s AI model chooses Republicans. OpenAI’s picks Democrats.* (TechCrunch)
+A new study found Grok's AI overwhelmingly recommends Republican candidates while OpenAI's GPT favors Democrats, with the two AI models disagreeing in more than 90% of nearly 500 election races.
+https://techcrunch.com/2026/10/24/forced-to-pick-groks-ai-model-chooses-republicans-openais-picks-democrats/
+
+9. *The Boox Palma 2 Pro finally got me to stop reading on my phone* (TechCrunch)
+The $400 Boox Palma 2 Pro is a smartphone-sized e-reader designed for people who want to read books, articles, and documents on a small E Ink display.
+https://techcrunch.com/2026/10/24/the-boox-palma-2-pro-finally-got-me-to-stop-reading-on-my-phone/
+
+10. *Here are the top AI agents that can live in your text messages* (TechCrunch)
+We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work.
+https://techcrunch.com/2026/10/24/all-the-ai-agents-that-can-live-in-your-text-messages/
+
+🛠️ أدوات وتحديثات جديدة
+
+1. *SAP's Philipp Herzig on AI built for business data* (The Rundown AI)
+What the "SaaS is dead" debate misses, according to SAP's CTO
+https://therundownai.beehiiv.com/p/sap-s-philipp-herzig-on-ai-built-for-business-data
