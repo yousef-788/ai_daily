@@ -1,0 +1,89 @@
+🗞️ AI Daily — 2026-10-30
+
+📰 أخبار الذكاء الاصطناعي
+
+1. *Waymo taps Toyota to supply robotaxis for Japan and the U.K.* (TechCrunch)
+Waymo will begin testing self-driving versions of Toyota's electric bZ4X vehicles in Japan next year as part of a broader partnership with the automaker.
+https://techcrunch.com/2026/10/30/waymos-next-robotaxi-will-be-a-toyota-bz4x-destined-for-japan-and-the-uk/
+
+2. *You don’t need to believe in a god to get a religious exemption from using AI at work* (TechCrunch)
+David Durman, a University of Kentucky administrator, recently earned a religious exemption from using AI in the workplace.
+https://techcrunch.com/2026/10/29/you-dont-need-to-believe-in-a-god-to-get-a-religious-exemption-from-using-ai-at-work/
+
+3. *Andy Jassy says Prime Video is on track to earn ‘tens of billions of dollars’* (TechCrunch)
+The success of blockbuster hits like "Project Hail Mary" and "Verity" is only part of the story, Amazon's CEO says.
+https://techcrunch.com/2026/10/29/andy-jassy-says-prime-video-is-on-track-to-earn-tens-of-billions-of-dollars/
+
+4. *AWS will be a $1T business, Jassy says — but first, it will spend big* (TechCrunch)
+Amazon wants to be the king of AI cloud computing and become the first $1 trillion revenue business. But to do that it will have to continue on its capex spending spree, its CEO said Thursday.
+https://techcrunch.com/2026/10/29/aws-will-be-a-1t-business-jassy-says-but-first-it-will-spend-big/
+
+5. *Binance pauses withdrawals as hackers suspected of stealing billions in crypto* (TechCrunch)
+Some estimates say hackers stole billions in crypto from Binance, the world's largest cryptocurrency exchange, during a cyberattack on Thursday.
+https://techcrunch.com/2026/10/29/binance-pauses-withdrawals-as-hackers-suspected-of-stealing-billions-in-crypto/
+
+6. *Elon Musk is ‘truly a genius,’ says Vladimir Putin* (TechCrunch)
+Putin said that he and Musk are in "close contact" about Rassvet, Russia's Starlink-like satellite connectivity project.
+https://techcrunch.com/2026/10/29/elon-musk-is-truly-a-genius-says-vladimir-putin/
+
+7. *Amazon reported booming cloud revenue but otherwise missed expectations* (TechCrunch)
+The biggest ouch of the report was its negative free cash flow of $2.4 billion.
+https://techcrunch.com/2026/10/29/amazon-reported-booming-cloud-revenue-but-otherwise-missed-expectations/
+
+8. *GM reaches $220M settlement over selling drivers’ private data* (TechCrunch)
+As part of the settlement, GM must get drivers’ express consent before it collects or shares their driving and location data.
+https://techcrunch.com/2026/10/29/gm-reaches-220m-settlement-over-selling-drivers-private-data/
+
+9. *Fan-fiction site Archive of Our Own (AO3) could be offline for up to 4 weeks after security incident* (TechCrunch)
+The site has such a passionate user base that, within two hours of the announcement, its status page's posts had garnered millions of views (and much panicked commentary) across social media.
+https://techcrunch.com/2026/10/29/fan-fiction-site-archive-of-our-own-could-be-offline-for-up-to-4-weeks/
+
+10. *As search traffic dries up, Reddit announces it’s shifting to a logged-in experience* (TechCrunch)
+As AI transforms how people find information online, Reddit is rethinking its open-web roots to protect its audience and business.
+https://techcrunch.com/2026/10/29/as-search-traffic-dries-up-reddit-announces-its-shifting-to-a-logged-in-experience/
+
+11. *Rivian expands joint venture with VW to include AI assistant* (TechCrunch)
+Rivian doesn't disclose if the value of its $5.8 billion joint venture will expand as a result.
+https://techcrunch.com/2026/10/29/rivian-expands-joint-venture-with-vw-to-include-ai-assistant/
+
+12. *The R2 SUV is already Rivian’s best-selling vehicle* (TechCrunch)
+Rivian is seeing strong enough sales of the new EV that it improved its guidance to Wall Street for the second time this year.
+https://techcrunch.com/2026/10/29/the-r2-suv-is-already-rivians-best-selling-vehicle/
+
+13. *OpenAI-backed Thrive Holdings acquires ADT* (TechCrunch)
+OpenAI-backed Thrive Holdings is buying ADT in a $15.3 billion deal, with plans to bring AI to the home security business.
+https://techcrunch.com/2026/10/29/openai-backed-thrive-holdings-acquires-adt/
+
+14. *Where was my invite to the — wait, what? Airbnb had a gala?* (TechCrunch)
+Airbnb’s nonprofit held its inaugural gala on Wednesday in Los Angeles, and the internet had one reaction — the *what* gala?
+https://techcrunch.com/2026/10/29/where-was-my-invite-to-the-wait-what-airbnb-had-a-gala/
+
+15. *Meta quietly launches an AI fashion app called Style Sketch* (TechCrunch)
+The app connects to Instagram to build a virtual closet from photos you’ve already shared, or lets you add items manually by snapping a photo, recording a quick video, or uploading images from your ca...
+https://techcrunch.com/2026/10/29/meta-quietly-launches-an-ai-fashion-app-called-style-sketch/
+
+16. *Granola crunches up a dictation feature to compete with Wispr* (TechCrunch)
+Uno reverse! After Wispr added meeting notes to its dictation app, Granola is adding dictation to its meeting notetaker. The voice AI wars are getting interesting.
+https://techcrunch.com/2026/10/29/granola-crunches-up-a-dictation-feature-to-compete-with-wispr/
+
+17. *Mistral releases weights for its trillion-parameter AI model, targeting cybersecurity* (TechCrunch)
+Mistral says its new model can afford organizations a kind of control over its cyber defenses that closed models can't.
+https://techcrunch.com/2026/10/29/mistral-releases-weights-for-its-trillion-parameter-ai-model-targeting-cybersecurity/
+
+18. *US investigated Chinese spy plot aimed at Nvidia CEO* (TechCrunch)
+A top executive of a Singapore AI cloud company that was accused of illegally selling Nvidia chips to China could also have been a Chinese spy, sources have told the New York Times.
+https://techcrunch.com/2026/10/29/u-s-investigated-chinese-spy-plot-aimed-at-nvidia-ceo/
+
+19. *Ex-Palantir execs launch Dream with $17M from a16z to build AI world models for construction* (TechCrunch)
+Dream is grounded in real physics and construction standards. Just as LLMs learn from text, Dream's world model is trained on more than 100 million square feet of building data gathered from permit ar...
+https://techcrunch.com/2026/10/29/ex-palantir-execs-launch-dream-with-17m-from-a16z-to-build-ai-world-models-for-construction/
+
+20. *SuperMe raises $20M for its network of AI expert profiles* (TechCrunch)
+SuperMe is a network of AI profiles built from the knowledge of real-life experts. When you ask a question, the platform determines which experts are best suited to answer and creates a group chat wit...
+https://techcrunch.com/2026/10/29/superme-raises-20m-for-its-network-of-ai-expert-profiles/
+
+🛠️ أدوات وتحديثات جديدة
+
+1. *Inside the spy plot around Nvidia’s CEO* (The Rundown AI)
+PLUS: Make ElevenLabs voiceovers sound more natural
+https://therundownai.beehiiv.com/p/inside-the-spy-plot-around-nvidia-ceo
