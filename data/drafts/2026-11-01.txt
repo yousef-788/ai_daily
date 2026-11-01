@@ -1,0 +1,31 @@
+🗞️ AI Daily — 2026-11-01
+
+📰 أخبار الذكاء الاصطناعي
+
+1. *Data centers are now a midterm issue, even in Brooklyn* (TechCrunch)
+At a Brooklyn midterm party five days before Election Day, every conversation, from a council member’s fireside chat to a debate about the Democratic Party, kept circling back to AI and data centers.
+https://techcrunch.com/2026/10/31/data-centers-are-now-a-midterm-issue-even-in-brooklyn/
+
+2. *Apple CEO says the company doesn’t ‘want to ship AI for AI’s sake’* (TechCrunch)
+Apple's new CEO defended the company's current position in the AI landscape.
+https://techcrunch.com/2026/10/31/apple-ceo-says-the-company-doesnt-want-to-ship-ai-for-ais-sake/
+
+3. *4 days left: How TechCrunch Founder Summit helps you make more useful connections to scale* (TechCrunch)
+On November 4 at Boston’s SoWa Power Station, get ready for a full day packed with meaningful networking opportunities, actionable insights, and connections that could change the trajectory of your id...
+https://techcrunch.com/2026/10/31/4-days-left-how-techcrunch-founder-summit-helps-you-make-more-useful-connections-to-scale/
+
+4. *Judge allows NAACP lawsuit over xAI data center pollution to move forward* (TechCrunch)
+An NAACP lawsuit accuses the SpaceX-owned AI company of violating the Clean Air Act.
+https://techcrunch.com/2026/10/31/judge-allows-naacp-lawsuit-over-xai-data-center-pollution-to-move-forward/
+
+5. *OpenAI reportedly lowers funding target for new round* (TechCrunch)
+OpenAI’s latest funding round doesn't seem to be living up to expectations.
+https://techcrunch.com/2026/10/31/openai-reportedly-lowers-funding-target-for-new-round/
+
+6. *From restaurant guides to payments, here’s how TikTok is building a super app* (TechCrunch)
+TikTok may be working to become the app that people use for most of their digital activities.
+https://techcrunch.com/2026/10/31/tiktoks-road-to-becoming-a-super-app/
+
+7. *I took two iPhones on vacation. The Duo won me over.* (TechCrunch)
+The iPhone Duo has its frustrations, but it’s also fun and engaging enough that I didn’t want to switch back to my Pro Max.
+https://techcrunch.com/2026/10/31/i-took-two-iphones-on-vacation-the-duo-won-me-over/
