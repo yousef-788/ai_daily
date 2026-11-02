@@ -1,0 +1,61 @@
+🗞️ AI Daily — 2026-11-02
+
+📰 أخبار الذكاء الاصطناعي
+
+1. *Ninja’s first-ever microwave just replaced two of my kitchen appliances at once* (TechCrunch)
+The Ninja Crispi Microwave stands out for its FusionCrisp technology, which combines the speed of a microwave with the crispy results you'd expect from an air fryer.
+https://techcrunch.com/2026/11/02/ninjas-first-ever-microwave-just-replaced-two-of-my-kitchen-appliances-at-once/
+
+2. *Northwood Space raises $375M Series C at a $2B valuation from a16z and DFJ growth* (TechCrunch)
+Space infrastructure company Northwood Space on Monday said it had raised $375 million in a Series C round co-led by Andreessen Horowitz and DFJ Growth, valuing the company at $2 billion.
+https://techcrunch.com/2026/11/02/northwood-space-raises-375m-series-c-at-a-2b-valuation-from-a16z-and-dfj-growth/
+
+3. *A fresh wave of cyberattacks has hit Europe’s supermarket refrigerators, destroying food across countries* (TechCrunch)
+This is the second wave of cyberattacks to hit supermarket refrigerators in a month, spoiling food and disrupting supplies.
+https://techcrunch.com/2026/11/02/a-fresh-wave-of-cyberattacks-has-hit-europes-supermarket-refrigerators-destroying-food-across-countries/
+
+4. *2 days till TechCrunch Founder Summit: Boston founders don’t need a Silicon Valley address to build something big* (TechCrunch)
+TechCrunch Founder Summit happens on November 4 in Boston for a founder-focused agenda and impactful connections. Save up to $100 or get discounts with group passes.
+https://techcrunch.com/2026/11/02/2-days-till-techcrunch-founder-summit-boston-founders-dont-need-a-silicon-valley-address-to-build-something-big/
+
+5. *OpenAI is finally merging ChatGPT’s chat and Work tabs* (TechCrunch)
+OpenAI said that ChatGPT and Codex will draw usage from the same allocation pool after this change.
+https://techcrunch.com/2026/11/02/openai-is-finally-merging-chatgpts-chat-and-work-tabs/
+
+6. *Ford launches a ‘privacy promise’ and explains how and why it uses customer data* (TechCrunch)
+Ford said it's making an "explicit commitment" to its customers that "their vehicle data is safe" with the company.
+https://techcrunch.com/2026/11/02/ford-launches-a-privacy-promise-and-explains-how-and-why-it-uses-a-customers-data/
+
+7. *Borrowed reading: stories from our extended colleagues* (TechCrunch)
+Five stories worth your time from our extended colleagues at CIO, Computerworld, Macworld, and PCWorld.
+https://techcrunch.com/2026/11/01/borrowed-reading-stories-from-our-extended-colleagues/
+
+8. *OpenAI might rebrand its data centers as ‘AI compute campuses’* (TechCrunch)
+Data centers are deeply unpopular. But what if we called them something else?
+https://techcrunch.com/2026/11/01/openai-might-rebrand-its-data-centers-as-ai-compute-campuses/
+
+9. *AI can make tech CEOs’ lives easier. What about everyone else?* (TechCrunch)
+On Equity, we discuss why tech CEO statements can seem so tone deaf.
+https://techcrunch.com/2026/11/01/ai-can-make-tech-ceos-lives-easier-what-about-everyone-else/
+
+10. *TechCrunch Mobility: A new, bigger AV boom is here* (TechCrunch)
+Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it.
+https://techcrunch.com/2026/11/01/techcrunch-mobility-a-new-bigger-av-boom-is-here/
+
+11. *Binance resumes withdrawals following $6.3 billion breach* (TechCrunch)
+The cryptocurrency exchange said it's now covered 95% of the stolen assets.
+https://techcrunch.com/2026/11/01/binance-resumes-withdrawals-following-6-3-billion-breach/
+
+12. *Pixel 11 Pro Fold: Sturdy rectangle in a wide wide world* (TechCrunch)
+Google made a sturdy phone, but there is increasing competition in the foldable world.
+https://techcrunch.com/2026/11/01/pixel-11-pro-fold-sturdy-rectengale-in-a-wide-wide-world/
+
+13. *Here’s what ‘renoa’ — the first new fiber in 25 years — feels like* (TechCrunch)
+Startup Everbloom's new material, renoa, is the first new fiber in 25 years, and it feels very familiar.
+https://techcrunch.com/2026/11/01/heres-what-renoa-the-first-new-fiber-in-25-years-feels-like/
+
+🛠️ أدوات وتحديثات جديدة
+
+1. *AI backlash heads to the polls* (The Rundown AI)
+PLUS: How to make AI artwork you can actually edit
+https://therundownai.beehiiv.com/p/ai-backlash-heads-to-the-polls
