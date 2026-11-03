@@ -1,0 +1,89 @@
+🗞️ AI Daily — 2026-11-03
+
+📰 أخبار الذكاء الاصطناعي
+
+1. *Yvonne Bajela is bringing $17M in fresh capital to Europe’s startup scene* (TechCrunch)
+Evertrue Capital announces $17M debut fund to back early stage AI and fintech.
+https://techcrunch.com/2026/11/03/yvonne-bajela-is-bringing-17m-in-fresh-capital-to-europes-startup-scene/
+
+2. *Apple Watch’s AI features for rewinding and recapping conversations begin beta testing* (TechCrunch)
+Now in beta: Apple's new Audio Intelligence features can help you remember what someone said or take notes on conversations.
+https://techcrunch.com/2026/11/02/apple-watchs-ai-features-for-rewinding-and-recapping-conversations-begin-beta-testing/
+
+3. *Google takes Dreambeans to India in bid to bring AI-generated personal stories to the masses* (TechCrunch)
+Google's Dreambeans, its latest AI experiment, now supports 13 Indian languages.
+https://techcrunch.com/2026/11/02/google-takes-dreambeans-to-india-in-bid-to-bring-ai-generated-personal-stories-to-the-masses/
+
+4. *Apple may try to increase revenue by doing…something with third-party AI apps* (TechCrunch)
+Apple hinted at ways that it could spur revenue through third-party "opportunities" during its Monday night earnings call.
+https://techcrunch.com/2026/11/02/apple-may-try-to-increase-revenue-by-doing-something-with-third-party-ai-apps/
+
+5. *Ukraine’s new pocket-sized gadget turns Russian drones’ cameras against them* (TechCrunch)
+A Kyiv startup’s pocket-sized, 10-ounce receiver lets Ukrainian troops watch the video feeds of Russian drones, though Russian moves toward digital video and AI-guided drones that emit no signals coul...
+https://techcrunch.com/2026/11/02/ukraines-new-pocket-sized-gadget-turns-russian-drones-cameras-against-them/
+
+6. *Y Combinator’s Garry Tan uses AI agents so much, he spends up to $200K a year on tokens* (TechCrunch)
+Y Combinator Garry Tan has jokingly admitted that he's suffered from "cyber psychosis” and barely sleeps sometimes because he’s so excited to be working with his AI agents. On a new episode of Walter...
+https://techcrunch.com/2026/11/02/y-combinators-garry-tan-uses-ai-agents-so-much-he-spends-up-to-200k-a-year-on-tokens/
+
+7. *Hinge tests a cheaper plan as users become more fed up paying for dating apps* (TechCrunch)
+At a time when people are increasingly tired of dating apps, Hinge is testing a cheaper subscription plan.
+https://techcrunch.com/2026/11/02/hinge-tests-a-cheaper-plan-as-users-become-more-fed-up-paying-for-dating-apps/
+
+8. *Apple says it’s ‘hard to predict’ when iPhone Duo constraints will improve* (TechCrunch)
+Apple says iPhone Duo production is ramping up, but it still can't say when supply will catch up with demand as shipping delays stretch into next year.
+https://techcrunch.com/2026/11/02/apple-says-its-hard-to-predict-when-iphone-duo-constraints-will-improve/
+
+9. *Trajectory raises $45M to make AI model training accessible to nontechnical experts* (TechCrunch)
+The one-year-old startup is now valued at $300 million.
+https://techcrunch.com/2026/11/02/trajectory-raises-45m-to-make-ai-model-training-accessible-to-nontechnical-experts/
+
+10. *Apple’s inventory surges 154% as memory chip costs climb* (TechCrunch)
+Apple says unprecedented memory chip costs will continue to rise, raising questions about future device prices as its inventory climbs to $14.5 billion.
+https://techcrunch.com/2026/11/02/apples-inventory-surges-154-as-memory-chip-costs-climb/
+
+11. *Anthropic warns that it’s very close to RSI capability, aka self-building AI* (TechCrunch)
+RSI is the point at which AI grows so good at training itself that it spawns a dramatic acceleration of AI capabilities. To the AI doomers, RSI represents the cataclysm from which there is no return.
+https://techcrunch.com/2026/11/02/anthropic-warns-that-its-very-close-to-rsi-capability-aka-self-building-ai/
+
+12. *Germany says lawmakers’ iPhones may have been hacked with spyware* (TechCrunch)
+German lawmakers and a filmmaker are among the people who received notifications from Apple warning that their phones may have been hacked.
+https://techcrunch.com/2026/11/02/germany-says-lawmakers-iphones-may-have-been-hacked-with-spyware/
+
+13. *Web host Squarespace lays off 19% of its employees* (TechCrunch)
+The website builder said that the job losses are part of a broader restructuring of its organization.
+https://techcrunch.com/2026/11/02/web-host-squarespace-lays-off-19-of-its-employees/
+
+14. *New York Times and other outlets sue web browser Brave over alleged content scraping* (TechCrunch)
+The New York Times is suing privacy-focused web browser company Brave for allegedly scraping the outlet’s copyrighted content and unlawfully distributing it to its own customers, like Anthropic and Pe...
+https://techcrunch.com/2026/11/02/new-york-times-and-other-outlets-sue-web-browser-brave-over-alleged-content-scraping/
+
+15. *Snap settles lawsuit accusing platform of fueling teen depression and eating disorders* (TechCrunch)
+The plaintiffs said they started using YouTube as young as age 3 and other social media platforms at around age 9 and developed compulsive usage habits that they attributed to features such as autopla...
+https://techcrunch.com/2026/11/02/snap-settles-lawsuit-accusing-platform-of-fueling-teen-depression-and-eating-disorders/
+
+16. *In one of the largest deals in tech history, Marvell buys Lumentum for $115B* (TechCrunch)
+Marvell's planned purchase of Lumentum is one of the biggest acquisitions in tech history. And they both have the same strategic investor: Nvidia.
+https://techcrunch.com/2026/11/02/in-one-of-the-largest-deals-in-tech-history-marvell-buys-lumentum-for-115b/
+
+17. *Readwise takes on Amazon’s Kindle and Goodreads with its new app for book lovers* (TechCrunch)
+Readwise Books combines an e-book store, reading tracker, detailed reading stats, and AI features in a bid to challenge Amazon's ecosystem.
+https://techcrunch.com/2026/11/02/readwise-takes-on-amazons-kindle-and-goodreads-with-its-new-app-for-book-lovers/
+
+18. *SpaceX reportedly wants to buy Boost Mobile to compete with AT&T, T-Mobile, and Verizon* (TechCrunch)
+SpaceX has been looking for new ways to use its Starlink network, and a tie-up with cellular operator Boost Mobile could give it the terrestrial access it needs.
+https://techcrunch.com/2026/11/02/spacex-reportedly-wants-to-buy-boost-mobile-to-compete-with-att-t-mobile-and-verizon/
+
+19. *42AI comes out of stealth with $62.5M and a world model that can ‘predict human behavior’* (TechCrunch)
+Here's a question straight out of sci-fi: What if AI could predict what you were going to do before you decided to, even in a completely new situation?
+https://techcrunch.com/2026/11/02/42ai-comes-out-of-stealth-with-62-5m-and-a-world-model-that-can-predict-human-behavior/
+
+20. *Elon Musk throttles Grok Bot limits due to ‘unsustainably high’ costs* (TechCrunch)
+Musk recently referred to Grok Bot as having "the fastest growth of a product that I've ever seen in my life."
+https://techcrunch.com/2026/11/02/elon-musk-throttles-grok-bot-limits-due-to-unsustainably-high-costs/
+
+🛠️ أدوات وتحديثات جديدة
+
+1. *MIT shows AI improving AI, no training required* (The Rundown AI)
+PLUS: Turn one interview into two clips with Riverside
+https://therundownai.beehiiv.com/p/mit-shows-ai-improving-ai-no-training-required
