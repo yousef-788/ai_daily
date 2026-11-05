@@ -1,0 +1,89 @@
+🗞️ AI Daily — 2026-11-05
+
+📰 أخبار الذكاء الاصطناعي
+
+1. *RadianX promises solar-powered devices that never need charging* (TechCrunch)
+Today’s portable devices are too hungry to run on traditional solar panels, but RadianX says its perovskite cells promise to make charging obsolete in some cases.
+https://techcrunch.com/2026/11/05/radianx-promises-solar-powered-devices-that-never-need-charging/
+
+2. *Box taps Nvidia’s Nemotron for new agent-first content retrieval system* (TechCrunch)
+The system can answer queries four times faster, with 20% fewer errors and 90% fewer tokens used.
+https://techcrunch.com/2026/11/05/box-taps-nvidias-nemotron-for-new-agent-first-content-retrieval-system/
+
+3. *A YC startup is putting $1M behind five unsolved materials science problems for AI* (TechCrunch)
+Discovered Materials, a months-old YC startup that uses AI to find chip materials, is offering $200,000 for each solution to five open materials science problems.
+https://techcrunch.com/2026/11/05/a-yc-startup-is-putting-1m-behind-five-unsolved-materials-science-problems-for-ai/
+
+4. *Agility is the first pure humanoid robot company on the stock market. Are you buying?* (TechCrunch)
+Agility arrives on the Nasdaq today as the first publicly-traded pure-play humanoid robotics company.
+https://techcrunch.com/2026/11/05/agility-is-the-first-pure-humanoid-robot-company-on-the-stock-market-are-you-buying/
+
+5. *Amazon ditches GrubHub, taps Uber Eats for Prime* (TechCrunch)
+Amazon has made Uber Eats its official restaurant delivery partner for Prime members in the United States.
+https://techcrunch.com/2026/11/05/amazon-ditches-grubhub-taps-uber-eats-for-prime/
+
+6. *Apple is reportedly cutting budgets for its internal AI usage* (TechCrunch)
+The company is said to be significantly dropping the amount it's spending on AI for its engineering teams.
+https://techcrunch.com/2026/11/04/apple-is-reportedly-cutting-budgets-for-its-internal-ai-usage/
+
+7. *After the midterms, a bigger clash over data centers could be coming* (TechCrunch)
+Data center opposition crossed party lines in Tuesday’s midterms.
+https://techcrunch.com/2026/11/04/after-the-midterms-a-bigger-clash-over-data-centers-could-be-coming/
+
+8. *AI PACs spent millions trying to shape Congress — here’s how they fared* (TechCrunch)
+AI industry PACs spent millions influencing the 2026 midterms, with mixed results. Political groups are already looking toward the next election cycle.
+https://techcrunch.com/2026/11/04/ai-pacs-spent-millions-trying-to-shape-congress-heres-how-they-fared/
+
+9. *Nothing CEO says company’s mysterious AI-first device is dropping next month* (TechCrunch)
+While it's not yet clear what kind of product the smartphone startup is cooking up, Nothing's CEO said the product is designed to leverage AI for productivity gains.
+https://techcrunch.com/2026/11/04/nothing-ceo-says-companys-mysterious-ai-first-device-is-dropping-next-month/
+
+10. *Almost no one uses AI agents to book their Uber, company says* (TechCrunch)
+During its busiest week last quarter, Uber said only four people booked a ride using an AI agent.
+https://techcrunch.com/2026/11/04/almost-no-one-uses-ai-agents-to-book-their-uber-company-says/
+
+11. *Snapchat surpasses 30M paid subscribers* (TechCrunch)
+The milestone comes a year after Snapchat announced a controversial limit on free storage for its Memories feature and informed users it would start requiring users to pay $1.99 per month for addition...
+https://techcrunch.com/2026/11/04/snapchat-surpasses-30m-paid-subscribers/
+
+12. *OpenAI is already trying to shape the 2028 election* (TechCrunch)
+OpenAI’s Chris Lehane wants AI to define the 2028 election, proposing a new social contract that could benefit Americans while also advancing the AI giant’s own business interests.
+https://techcrunch.com/2026/11/04/openai-is-already-trying-to-shape-the-2028-election/
+
+13. *Meta acquires AI coding startup Conductor* (TechCrunch)
+The startup allows software engineers to deploy teams of agents to work on various aspects of a project simultaneously.
+https://techcrunch.com/2026/11/04/meta-acquires-ai-coding-startup-conductor/
+
+14. *Hackers stole DreamHost customer files and inboxes during months-long attack* (TechCrunch)
+The web host said hackers exploited a vulnerability to access customer emails and files during a "deliberate attack."
+https://techcrunch.com/2026/11/04/hackers-stole-dreamhost-customer-files-and-inboxes-during-months-long-attack/
+
+15. *Open source AI is booming. Hugging Face explains who profits.* (TechCrunch)
+Open source models are becoming more mainstream as enterprises, governments and startups alike rely on the promise of lower costs, more control, and more flexibility. But as increasingly capable model...
+https://techcrunch.com/video/open-source-ai-is-booming-hugging-face-explains-who-profits/
+
+16. *DuckDuckGo pitches itself to schools amid backlash over Google’s AI policy* (TechCrunch)
+DuckDuckGo is courting schools frustrated by Google's AI restrictions, pointing educators to its search engine and options to disable AI features.
+https://techcrunch.com/2026/11/04/duckduckgo-pitches-itself-to-schools-amid-backlash-over-googles-ai-policy/
+
+17. *Waymo confirms it’s shaking up its Uber relationship in January 2028* (TechCrunch)
+The change will set up direct competition in those markets, as Uber has many other autonomous vehicle partners on its network.
+https://techcrunch.com/2026/11/04/waymo-confirms-its-shaking-up-its-uber-relationship-in-january-2028/
+
+18. *‘You Can See Everything’ is getting an outer space release and it hasn’t even come out in Europe yet* (TechCrunch)
+It is easier to watch the Elizabeth Holmes documentary "You Can See Everything" in low Earth orbit than in London.
+https://techcrunch.com/2026/11/04/you-can-see-everything-is-getting-an-outer-space-release-and-it-hasnt-even-come-out-in-europe-yet/
+
+19. *Sequoia hits rewind, undoing 20 years of expansion* (TechCrunch)
+Sequoia is consolidating into a smaller, Bay Area–centered firm, shutting down the programs and offices it built during a 20-year expansion while announcing roughly $10 billion in new funds.
+https://techcrunch.com/2026/11/04/sequoia-hits-rewind-undoing-20-years-of-expansion/
+
+20. *I tried Apple’s Siri Recaps. They’re surprisingly useful — and a little unsettling* (TechCrunch)
+Apple's AI-powered Siri Recaps won me over in just one day, despite my privacy reservations. But there's still room for improvement.
+https://techcrunch.com/2026/11/04/i-tried-apples-siri-recaps-theyre-surprisingly-useful-and-a-little-unsettling/
+
+🛠️ أدوات وتحديثات جديدة
+
+1. *AI agents can now make your phone calls* (The Rundown AI)
+PLUS: Which free AI tool should you actually use?
+https://therundownai.beehiiv.com/p/ai-agents-can-now-make-your-phone-calls
