@@ -1,0 +1,51 @@
+🗞️ AI Daily — 2026-11-07
+
+📰 أخبار الذكاء الاصطناعي
+
+1. *Sequoia shutting down its Scouts program marks the end of an era* (TechCrunch)
+Sequoia pioneered the scouts model and many VC firms followed suit, but a consensus now seems to be forming that the model has reached limits in its current form.
+https://techcrunch.com/2026/11/06/sequoia-shutting-down-its-scouts-program-marks-the-end-of-an-era/
+
+2. *From the front row to the hot seat — what the midterms mean for Big Tech* (TechCrunch)
+After spending two years getting cozy with the White House, Big Tech is suddenly trying to make friends with Democrats, and the open question is whether that image makeover can hold up against what st...
+https://techcrunch.com/2026/11/06/from-the-front-row-to-the-hot-seat-what-the-midterms-mean-for-big-tech/
+
+3. *Crusoe sells troubled Wyoming data center project to Google* (TechCrunch)
+The deal highlights the challenges of developing massive AI data centers.
+https://techcrunch.com/2026/11/06/crusoe-sells-troubled-wyoming-data-center-project-to-google/
+
+4. *OpenAI reportedly raises an additional $11 billion at a $1.25 trillion valuation* (TechCrunch)
+OpenAI has reportedly raised an additional $11 billion as part of a funding round that hasn't closed yet but is expected to in the coming weeks.
+https://techcrunch.com/2026/11/06/openai-reportedly-raises-an-additional-11-billion-at-a-1-25-trillion-valuation/
+
+5. *The Duo apps are coming, says Apple* (TechCrunch)
+There are now 100,000 Duo-optimized apps, says Apple, and thousands more arrive daily.
+https://techcrunch.com/2026/11/06/the-duo-apps-are-coming-says-apple/
+
+6. *Hundreds of Artex AI hacking tools found publicly exposed to the web* (TechCrunch)
+Security researchers found hundreds of servers hosting the penetration testing tool Artex exposed to the internet, allowing anyone access to the hacking tool.
+https://techcrunch.com/2026/11/06/hundreds-of-artex-ai-hacking-tools-found-publicly-exposed-to-the-web/
+
+7. *Meta introduces Spaces, a new way to collaborate with your Muse agent* (TechCrunch)
+Meta's Muse agents continue to get new features and integrations. Spaces promises to be a new way to interact with the AI helpers.
+https://techcrunch.com/2026/11/06/meta-introduces-spaces-a-new-way-to-collaborate-with-your-muse-agent/
+
+8. *After the midterms, is the AI industry in for a rough two years?* (TechCrunch)
+Democrats’ historic victories in this week’s U.S. midterm elections could also transform the tech industry. The public voted on 41 data center-related ballot measures on Tuesday — in all but one, the...
+https://techcrunch.com/video/after-the-midterms-is-the-ai-industry-in-for-a-rough-two-years/
+
+9. *Pentagon offers battery startup 6K $250M loan to build US factory* (TechCrunch)
+The Pentagon has conditionally approved a $250 million loan to help 6K scale up its microwave-plasma battery material manufacturing process.
+https://techcrunch.com/2026/11/06/pentagon-offers-battery-startup-6k-250m-loan-to-build-u-s-factory/
+
+10. *Fox completes its $22B acquisition of Roku* (TechCrunch)
+A few months after DOJ investigators were probing the deal, Fox just completed its $22B acquisition of the streaming giant Roku.
+https://techcrunch.com/2026/11/06/fox-completes-its-22b-acquisition-of-roku/
+
+11. *Ramp data shows AI spending stalling just as Anthropic nears its IPO* (TechCrunch)
+AI usage keeps climbing, but spending has stalled. Price cuts and smarter cost controls among the biggest spenders could challenge investor assumptions about AI hypergrowth.
+https://techcrunch.com/2026/11/06/ramp-data-shows-ai-spending-stalling-just-as-anthropic-nears-its-ipo/
+
+12. *After blocking Muse, Amazon now lets users text Alexa to help them shop* (TechCrunch)
+Amazon said that the feature will roll out to millions of users in coming weeks.
+https://techcrunch.com/2026/11/06/after-blocking-muse-amazon-now-lets-users-text-alexa-to-help-them-shop/
