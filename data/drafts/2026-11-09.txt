@@ -1,0 +1,69 @@
+🗞️ AI Daily — 2026-11-09
+
+📰 أخبار الذكاء الاصطناعي
+
+1. *Waymo robotaxis kept illegally passing school buses after software fix, feds say* (TechCrunch)
+The update to Waymo's self-driving system was rolled out nearly a year ago.
+https://techcrunch.com/2026/11/09/waymo-robotaxis-kept-illegally-passing-school-buses-after-software-fix-feds-say/
+
+2. *Meet Drops, the new music app bringing back the fun of sharing songs with friends* (TechCrunch)
+The new music discovery app lets users scroll through 10-to-30-second snippets of songs, comment, and share with friends.
+https://techcrunch.com/2026/11/09/meet-drops-the-new-music-app-bringing-back-the-fun-of-sharing-songs-with-friends/
+
+3. *Automattic debuts a platform to deploy vibe coding apps amid a changing internet* (TechCrunch)
+Automattic aims to compete with likes of Lovable with Spacefast
+https://techcrunch.com/2026/11/09/automattic-debuts-a-platform-to-deploy-vibe-coding-apps-amid-a-changing-internet/
+
+4. *Musk says Tesla will refund some Cybertruck deposits, defends decision to end production* (TechCrunch)
+Elon Musk defended the company's decision to stop making the Cybertruck, which will go out of production in around 8 months.
+https://techcrunch.com/2026/11/09/musk-says-tesla-will-refund-some-cybertruck-deposits-defends-decision-to-end-production/
+
+5. *Tesla expands robotaxi service to San Antonio* (TechCrunch)
+This will be the fourth Texas city in which Tesla will launch robotaxis.
+https://techcrunch.com/2026/11/09/tesla-expands-robotaxi-service-to-san-antonio/
+
+6. *Is Jensen Huang’s job on the line? Yale’s Jeffrey Sonnenfeld estimates it’s “about a 50-50”* (TechCrunch)
+Nvidia’s board is investigating Jensen Huang over his relationship with a suspected Chinese spy, and Yale’s Jeffrey Sonnenfeld thinks it’s roughly a coin flip whether Huang stays on as CEO.
+https://techcrunch.com/2026/11/08/is-jensen-huangs-job-on-the-line-yales-jeffrey-sonnenfeld-estimates-its-about-a-50-50/
+
+7. *Apps to distract you from the endless cycle of doomscrolling* (TechCrunch)
+It's hard to break the cycle of doomscrolling, but there are plenty of apps that can help you spend more time on content that’s engaging and productive.
+https://techcrunch.com/2026/11/08/apps-to-distract-you-from-the-endless-cycle-of-doomscrolling/
+
+8. *Nvidia will investigate CEO Jensen Huang’s relationship with possible Chinese spy* (TechCrunch)
+In a memo to the company, Huang admitted that he had an affair.
+https://techcrunch.com/2026/11/08/nvidia-says-its-investigating-ceo-jensen-huangs-relationship-with-possible-chinese-spy/
+
+9. *If Snap’s Specs are still ridiculously expensive, they’re also a lot more comfortable than they used to be* (TechCrunch)
+Snap's Specs, which have been in development for many years now, are going to market this fall. Will they be a hit with users?
+https://techcrunch.com/2026/11/08/if-snaps-specs-are-still-ridiculously-expensive-theyre-also-a-lot-more-comfortable-than-they-used-to-be/
+
+10. *Coordinated disturbances haunt grids worldwide. Here’s how researchers solved the mystery.* (TechCrunch)
+Mystery solved: Coordinated power drops have been haunting power grid worldwide, but a team of researchers in Germany found the culprit.
+https://techcrunch.com/2026/11/08/coordinated-disturbances-haunt-grids-worldwide-heres-how-researchers-solved-the-mystery/
+
+11. *Sequoia partners reportedly blindsided when Roelof Botha joined SpaceX board* (TechCrunch)
+A new report claims Sequoia's recent changes undo the legacy of the firm's former steward.
+https://techcrunch.com/2026/11/08/sequoia-partners-reportedly-blindsided-when-roelof-botha-joined-spacex-board/
+
+12. *SNL has a new impression of Elon Musk, ‘the worst thing South Africa has ever done’* (TechCrunch)
+SNL seems to have its knives out for tech executives.
+https://techcrunch.com/2026/11/08/snl-has-a-new-impression-of-elon-musk-the-worst-thing-south-africa-has-ever-done/
+
+13. *He arrested a hacker, then spent 18 months clearing his own name. Now he’s a cybersecurity VC.* (TechCrunch)
+Stephen Ward, a former Secret Service agent and Home Depot CISO, is preparing a second fund of roughly $250 million for Brightmind Partners.
+https://techcrunch.com/2026/11/08/the-ex-secret-service-agent-who-flipped-a-hacker-is-now-raising-a-second-250m-cybersecurity-fund/
+
+14. *TechCrunch Mobility: The Cybertruck experiment is over* (TechCrunch)
+Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it.
+https://techcrunch.com/2026/11/08/techcrunch-mobility-the-cybertruck-experiment-is-over/
+
+15. *Ninja’s AutoBarista is impressively versatile, but one feature was a dealbreaker for me* (TechCrunch)
+The AutoBarista's "Grind iQ" technology allows the machine to analyze your coffee beans to inform how it pulls a shot of espresso.
+https://techcrunch.com/2026/11/08/ninjas-autobarista-is-impressively-versatile-but-one-feature-was-a-dealbreaker-for-me/
+
+🛠️ أدوات وتحديثات جديدة
+
+1. *Jensen Huang admits affair amid spy claims* (The Rundown AI)
+PLUS: Turn your X bookmarks into a personal research desk
+https://therundownai.beehiiv.com/p/jensen-huang-admits-affair-amid-spy-claims
