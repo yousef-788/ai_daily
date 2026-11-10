@@ -1,0 +1,89 @@
+🗞️ AI Daily — 2026-11-10
+
+📰 أخبار الذكاء الاصطناعي
+
+1. *Adobe brings AI agents and new creative tools to Photoshop, Premiere, and Firefly* (TechCrunch)
+Adobe is taking on Figma with a new prototype builder tool in Firefly.
+https://techcrunch.com/2026/11/10/adobe-adds-more-ai-to-its-products-and-launches-an-mcp/
+
+2. *Anthropic sets IPO price range of $70 to $78 per share to reach an implied valuation of $1.404 trillion* (TechCrunch)
+The company could end up being worth a hefty $1.404 trillion if its shares list at the top of the price range, on a fully diluted basis.
+https://techcrunch.com/2026/11/10/anthropic-sets-ipo-price-range-of-70-to-78-per-share-to-reach-an-implied-valuation-of-1-404-trillion/
+
+3. *Aura’s newest e-ink photo frame is even better and more affordable than its last* (TechCrunch)
+Aura is unveiling a new product: a 10-inch digital e-ink frame that can blend in seamlessly with printed photos.
+https://techcrunch.com/2026/11/10/auras-newest-e-ink-photo-frame-is-even-better-and-more-affordable-than-its-last/
+
+4. *After challenging Google’s Android with Cyanogen, its co-founder takes aim at Windows for AI era* (TechCrunch)
+Kora is set to launch as a free-to-use alternative to Windows, targeting users who rely heavily on AI models and agents.
+https://techcrunch.com/2026/11/10/after-challenging-googles-android-with-cyanogen-its-co-founder-takes-aim-at-windows-for-ai-era/
+
+5. *Spotify’s AI DJ gets new voices, personalities, and an option for less chatter* (TechCrunch)
+Spotify Premium users can now customize their AI DJ with new voices with different personalities, or turn off the commentary between songs.
+https://techcrunch.com/2026/11/10/spotifys-ai-dj-gets-new-voices-personalities-and-an-option-for-less-chatter/
+
+6. *Ring, known for its doorbell cameras, launches a home security drone and an enterprise security robot* (TechCrunch)
+Amazon-owned Ring is pushing into robotics with the launch of a home security drone and a rolling robot designed to patrol and protect businesses.
+https://techcrunch.com/2026/11/10/ring-known-for-its-doorbell-cameras-launches-a-home-security-drone-and-an-enterprise-security-robot/
+
+7. *Cyberattacks threaten to make open-source AI a little less open, Hugging Face exec warns* (TechCrunch)
+Hugging Face executive Irene Solaiman warns that growing cyberattacks on open AI platforms could force tighter security restrictions, threatening the accessibility that makes open-source communities v...
+https://techcrunch.com/2026/11/10/cyberattacks-threaten-to-make-open-source-ai-a-little-less-open-hugging-face-exec-warns/
+
+8. *Otter AI can now follow conversations across 30+ languages* (TechCrunch)
+Otter AI just added support for 27 languages and revealed an upcoming feature that can follow along if speakers switch between languages.
+https://techcrunch.com/2026/11/09/otter-ai-can-now-follow-conversations-across-30-languages/
+
+9. *California’s proposed ‘billionaire tax’ fails to pass* (TechCrunch)
+California voters rejected Proposition 40, the one-time 5% tax on billionaires, the AP reported Monday. Tech leaders outspent backers roughly 10 to 1 to defeat it, and the founders and economists Tech...
+https://techcrunch.com/2026/11/09/californias-proposed-billionaire-tax-fails-to-pass/
+
+10. *Jensen Huang’s alleged honeypot scandal has inspired some top-notch memes* (TechCrunch)
+The internet is having a field day with Nvidia's Jensen Huang's alleged honeypot scandal.
+https://techcrunch.com/2026/11/09/jensen-huangs-alleged-honeypot-scandal-has-inspired-some-top-notch-memes/
+
+11. *Anthropic reportedly plans to move forward with IPO plans* (TechCrunch)
+The AI company is expected to set its valuation range this week, the Wall Street Journal reported.
+https://techcrunch.com/2026/11/09/anthropic-reportedly-plans-to-move-forward-with-ipo-plans/
+
+12. *Jensen Huang reportedly engaged a PR firm with a history of handling  high-profile sex scandals a year ago* (TechCrunch)
+The PR firm was enlisted shortly after an October 2025 New York Times report described Alice Huang's business dealings with Jensen Huang, Wired reported.
+https://techcrunch.com/2026/11/09/jensen-huang-reportedly-engaged-a-pr-firm-with-a-history-of-handling-high-profile-sex-scandals-a-year-ago/
+
+13. *Hotel giant Wyndham exposed customer data after app security lapse* (TechCrunch)
+Exclusive: Wyndham left a hardcoded credential in its customer app, allowing anyone to access customer data. The hotel giant wouldn't say if it has the ability to check for any past unauthorized acces...
+https://techcrunch.com/2026/11/09/hotel-giant-wyndham-exposed-customer-data-after-app-security-lapse/
+
+14. *A short seller flagged Nvidia CEO’s ties to a suspected Chinese spy six months before the scandal* (TechCrunch)
+Six months before Nvidia's spy scandal erupted, Culper Research was already questioning Jensen Huang's unusually close relationship with a Chinese executive.
+https://techcrunch.com/2026/11/09/a-short-seller-flagged-nvidia-ceos-ties-to-a-suspected-chinese-spy-six-months-before-the-scandal/
+
+15. *The race is on to sue Nvidia* (TechCrunch)
+Nvidia’s stock slid more than 4% after its board opened an investigation into Jensen Huang’s relationship with a suspected Chinese spy, and one securities law expert says the company’s earlier insiste...
+https://techcrunch.com/2026/11/09/the-race-is-on-to-sue-nvidia/
+
+16. *Fervo now has $12B in orders for its geothermal power tech* (TechCrunch)
+Geothermal company Fervo is targeting natural gas as it brings down geothermal drilling costs at its 8.4 GW resource in Utah.
+https://techcrunch.com/2026/11/09/fervo-now-has-12b-in-orders-for-its-geothermal-power-tech/
+
+17. *Jensen Huang pulls out of ElevenLabs Summit amid Nvidia controversy* (TechCrunch)
+The Nvidia CEO also pulled out of an Anthropic event earlier.
+https://techcrunch.com/2026/11/09/jensen-huang-pulls-out-of-elevenlabs-summit-amid-nvidia-controversy/
+
+18. *YouTube streaming data returns to Billboard charts, ending major disagreement* (TechCrunch)
+YouTube will resume sharing streaming data with Billboard in 2027 after changes to the chart formula give more weight to free, ad-supported music streams.
+https://techcrunch.com/2026/11/09/youtube-streaming-data-returns-to-billboard-charts-ending-major-disagreement/
+
+19. *Anthropic releases new Mythos and Fable models amid RSI concerns* (TechCrunch)
+Anthropic says the new models "show improvements in areas like coding, reasoning, and vision," as well as in communicating more clearly with users.
+https://techcrunch.com/2026/11/09/anthropic-releases-new-mythos-and-fable-models-amid-rsi-concerns/
+
+20. *AI hardware startup Nominal triples valuation to $3B in 8 months* (TechCrunch)
+Nominal, a startup that offers an AI platform for hardware engineering and claims Anduril as a major customer, has raised another big round of financing that triples its valuation.
+https://techcrunch.com/2026/11/09/ai-hardware-startup-nominal-triples-valuation-to-3b-in-8-months/
+
+🛠️ أدوات وتحديثات جديدة
+
+1. *Anthropic says ‘pacing, not pausing’ with Fable 5.2* (The Rundown AI)
+PLUS: Clean up a messy Excel report with Claude
+https://therundownai.beehiiv.com/p/anthropic-says-pacing-not-pausing-with-fable-5-2
