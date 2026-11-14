@@ -1,0 +1,43 @@
+🗞️ AI Daily — 2026-11-14
+
+📰 أخبار الذكاء الاصطناعي
+
+1. *Amazon’s new Kindle Colorsoft is a premium e-reader with a premium price* (TechCrunch)
+The latest model is lighter and thinner than its predecessor and features an edge-to-edge display. But if you already own the first-generation Colorsoft, there’s little reason to upgrade.
+https://techcrunch.com/2026/11/13/amazons-new-kindle-colorsoft-is-a-premium-e-reader-with-a-premium-price/
+
+2. *Jensen Huang’s departure blasts big hole in AI startup funding, VCs and founders say* (TechCrunch)
+Nvidia poured tens of billions into AI startups under Huang. Without him at the helm, founders and VCs are bracing for smaller checks and lower valuations.
+https://techcrunch.com/2026/11/13/jensen-huangs-departure-blasts-big-hole-in-ai-startup-funding-vcs-and-founders-say/
+
+3. *US government grounds all flights across the United States ‘due to extraordinary circumstances’* (TechCrunch)
+A spokesperson for the FAA told TechCrunch that it issued the ground stop "following communication issues impacting multiple Air Route Traffic Control Centers," which manage the airspace across the Un...
+https://techcrunch.com/2026/11/13/u-s-government-grounds-all-flights-across-the-united-states-due-to-extraordinary-cirumstances/
+
+4. *This young startup wants to power floating data centers with the ocean’s heat, and investors are already on board* (TechCrunch)
+Drogue is harvesting heat from the ocean to power data centers on floating vessels. The first prototype should be bobbing around the ocean, crunching bits, in less than two years.
+https://techcrunch.com/2026/11/13/this-young-startup-wants-to-power-floating-data-centers-with-the-oceans-heat-and-investors-are-already-on-board/
+
+5. *AI agent startup LangChain hits $3B valuation* (TechCrunch)
+LangChain now claims 7,000 customers of its model and platform agnostic agent management tool LangSmith.
+https://techcrunch.com/2026/11/13/ai-agent-startup-langchain-hits-3b-valuation/
+
+6. *Export-banned Nvidia chips are behind China’s most powerful AI models — uh-oh, Jensen!* (TechCrunch)
+New research shows the most advanced AI models from China were trained on banned Nvidia chips.
+https://techcrunch.com/2026/11/13/export-banned-nvidia-chips-are-behind-chinas-most-powerful-ai-models-uh-oh-jensen/
+
+7. *ChatGPT’s new Wallet lets AI agents shop and check out for you* (TechCrunch)
+ChatGPT Wallet lets AI agents shop and check out on users' behalf, starting with a limited rollout to U.S. Pro subscribers.
+https://techcrunch.com/2026/11/13/chatgpts-new-wallet-lets-ai-agents-shop-and-check-out-for-you/
+
+8. *The unfolding Jensen Huang scandal: a timeline* (TechCrunch)
+Jensen Huang has resigned from Nvidia following an affair, which could have ramifications for national security as the U.S. and China race to develop the most advanced AI infrastructure.
+https://techcrunch.com/2026/11/13/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/
+
+9. *Uber confirms hackers stole thousands of drivers’ license information in data breach* (TechCrunch)
+The ridesharing giant said drivers' license information stored by AI cloud company Fireworks AI was stolen during a security incident.
+https://techcrunch.com/2026/11/13/uber-confirms-hackers-stole-thousands-of-drivers-license-information-in-data-breach/
+
+10. *ElevenLabs’ new app combines meeting note-taking and dictation for teams* (TechCrunch)
+ElevenAI is a new meeting notetaker and dictation app aimed at teams and enterprises.
+https://techcrunch.com/2026/11/13/elevenlabs-new-app-combines-meeting-note-taking-and-dictation-for-teams/
