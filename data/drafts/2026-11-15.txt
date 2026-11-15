@@ -1,0 +1,31 @@
+🗞️ AI Daily — 2026-11-15
+
+📰 أخبار الذكاء الاصطناعي
+
+1. *Where was Nvidia’s security team?* (TechCrunch)
+Nvidia’s security chief quietly left in August, and now that CEO Jensen Huang has stepped down over his relationships, including one with an executive at a company suspected of funneling chips to Chin...
+https://techcrunch.com/2026/11/14/where-was-nvidias-security-team/
+
+2. *Elon Musk, other tech execs sign petition calling on Nvidia to reinstate Jensen Huang* (TechCrunch)
+The petition had attracted more than 115,000 signatures as of Saturday afternoon.
+https://techcrunch.com/2026/11/14/elon-musk-other-tech-execs-sign-petition-calling-on-nvidia-to-reinstate-jensen-huang/
+
+3. *Tesla opens Cybercab pre-orders ‘for personal use,’ with geo restrictions and a $299 monthly fee* (TechCrunch)
+Even Elon Musk said the monthly fee is "too high."
+https://techcrunch.com/2026/11/14/tesla-opens-cybercab-pre-orders-for-personal-use-with-geo-restrictions-and-a-299-monthly-fee/
+
+4. *Got an iPhone Duo? These 9 settings make it easier to use* (TechCrunch)
+From Touch ID shortcuts to smarter volume buttons and camera tricks, these tweaks make Apple's foldable iPhone easier to use every day.
+https://techcrunch.com/2026/11/14/got-an-iphone-duo-these-9-settings-make-it-easier-to-use/
+
+5. *Transportation secretary blames ‘routine’ equipment upgrade for grounding flights nationwide* (TechCrunch)
+FAA administrator Bryan Bedford also said there's "zero evidence of anything AI-related."
+https://techcrunch.com/2026/11/14/transportation-secretary-blames-routine-equipment-upgrade-for-grounding-flights-nationwide/
+
+6. *The AI graveyard: a running list of projects and startups that didn’t make it* (TechCrunch)
+From Apple's repeatedly delayed Siri AI to OpenAI's messy "super app" launch, here's a look at the AI projects that shut down or missed expectations.
+https://techcrunch.com/2026/11/14/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/
+
+7. *Asian governments react to Nvidia CEO Jensen Huang’s exit* (TechCrunch)
+Some governments moved to confirm chip supply commitments, while others are monitoring the impact on local projects or addressing ongoing investigations.
+https://techcrunch.com/2026/11/14/asian-governments-react-to-nvidia-ceo-jensen-huangs-exit/
