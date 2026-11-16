@@ -1,0 +1,69 @@
+🗞️ AI Daily — 2026-11-16
+
+📰 أخبار الذكاء الاصطناعي
+
+1. *US tightens AI chip export controls to deter Chinese companies from accessing compute remotely* (TechCrunch)
+Under the interim rule, US will require firms to get licenses to export AI chips if they may provide compute to China or other restricted countries.
+https://techcrunch.com/2026/11/16/us-tightens-ai-chip-export-controls-to-deter-chinese-companies-from-accessing-compute-remotely/
+
+2. *Google Maps can now build trip itineraries with real-time details about each stop* (TechCrunch)
+You could use Ask Maps to plan a holiday shopping day trip or something more complex, like a three-day road trip featuring coastal hikes and oceanfront dining.
+https://techcrunch.com/2026/11/16/google-maps-can-now-build-trip-itineraries-with-real-time-details-about-each-stop/
+
+3. *Mazama Energy has a solution for geothermal’s biggest drilling problem* (TechCrunch)
+Khosla-backed Mazama Energy has developed a new way to supercool its geothermal drill bits, letting it drill faster and deeper in a quest to bring down the cost of electricity.
+https://techcrunch.com/2026/11/16/mazama-energy-has-a-solution-for-geothermals-biggest-drilling-problem/
+
+4. *After dodging death, battery startup Our Next Energy is now going public* (TechCrunch)
+Our Next Energy is the latest battery startup to go public via SPAC. Does it now have what it needs to survive in a the cutthroat battery industry?
+https://techcrunch.com/2026/11/16/after-dodging-death-battery-startup-our-next-energy-is-now-going-public/
+
+5. *Bedrock Energy raises $24M to build more AI-enabled geothermal drill rigs for enterprise buildings* (TechCrunch)
+Geothermal heat pumps could free up significant space on the grid. Bedrock Energy raised $24 million to bring its AI-guided drill rigs to more markets.
+https://techcrunch.com/2026/11/16/bedrock-energy-raises-24m-to-build-more-ai-enabled-geothermal-drill-rigs-for-enterprise-buildings/
+
+6. *Freshworks alums raise $53M to take on Salesforce, HubSpot with AI-native CRM* (TechCrunch)
+Dreamteam has signed up more than 100 customers across 13 countries, with some businesses switching from established CRMs.
+https://techcrunch.com/2026/11/16/freshworks-alums-raise-53m-to-take-on-salesforce-hubspot-with-ai-native-crm/
+
+7. *Zoox robotaxis are now on the Uber app in Las Vegas* (TechCrunch)
+This is the first time Amazon-owned Zoox has partnered with a ride-hailing platform.
+https://techcrunch.com/2026/11/16/zoox-robotaxis-are-now-on-the-uber-app-in-las-vegas/
+
+8. *Helsing backer Plural raises $1.1B to fund Europe’s next moonshots* (TechCrunch)
+Operator-led VC firm Plural has raised €1 billion in new capital ($1.1 billion), joining a growing cohort of larger European funds that also includes Mundi Ventures’ Kembara and EQT-managed Scaleup Eu...
+https://techcrunch.com/2026/11/15/helsing-backer-plural-raises-1-1b-to-fund-europes-next-moonshots/
+
+9. *Apple launches new app to study how people use AI for health* (TechCrunch)
+Apple's new app for a study will answer everyday medical questions
+https://techcrunch.com/2026/11/15/apple-launches-new-app-to-study-how-people-use-ai-for-health/
+
+10. *Indian chip startup Bharat Semi lands $24M seed round as it eyes global AI sensor market* (TechCrunch)
+Bharat Semi says it has secured design wins for its AI-enabled sensor technology with companies including General Atomics.
+https://techcrunch.com/2026/11/15/indian-chip-startup-bharat-semi-lands-24m-seed-round-as-it-eyes-global-ai-sensor-market/
+
+11. *Is bad news for Jensen Huang also bad news for the AI industry?* (TechCrunch)
+"Jensen is Nvidia, right? And so much of this economy is riding on Nvidia."
+https://techcrunch.com/2026/11/15/is-bad-news-for-jensen-huang-also-bad-news-for-the-ai-industry/
+
+12. *SNL gathers all the tech tycoons for a lesson in dating and spycraft* (TechCrunch)
+While awkward, creepy tech executives have become a recurring theme on Saturday Night Live, this week’s episode gave the cast a chance to show off all their impressions at once.
+https://techcrunch.com/2026/11/15/snl-gathers-all-the-tech-tycoons-for-a-lesson-in-dating-and-spycraft/
+
+13. *Flaming Hydra’s new Kickstarter campaign rethinks e-book ownership and digital lending* (TechCrunch)
+A new Kickstarter campaign aims to usher in the “return of the human internet.”
+https://techcrunch.com/2026/11/15/flaming-hydras-new-kickstarter-campaign-rethinks-e-book-ownership-and-digital-lending/
+
+14. *TechCrunch Mobility: The Nvidia backup plan for China’s self-driving industry* (TechCrunch)
+Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it.
+https://techcrunch.com/2026/11/15/techcrunch-mobility-the-nvidia-backup-plan-for-chinas-self-driving-industry/
+
+15. *The tech products we enthusiastically recommend this holiday season* (TechCrunch)
+We've been reviewing a bunch of new gadgets at TechCrunch this year, and we have some clear favorites to share for your Black Friday shopping and beyond.
+https://techcrunch.com/2026/11/15/the-tech-products-we-enthusiastically-recommend-this-holiday-season/
+
+🛠️ أدوات وتحديثات جديدة
+
+1. *Jensen Huang weighs a comeback at Nvidia* (The Rundown AI)
+PLUS: Turn a messy plan into a shared board
+https://therundownai.beehiiv.com/p/jensen-huang-weighs-a-comeback-at-nvidia
