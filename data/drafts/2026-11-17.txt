@@ -1,0 +1,89 @@
+🗞️ AI Daily — 2026-11-17
+
+📰 أخبار الذكاء الاصطناعي
+
+1. *Uber and Zipline’s drone delivery service takes off in Texas, with dozens of cities to follow* (TechCrunch)
+The two companies want to make one million deliveries per day using Zipline drones by the end of 2029.
+https://techcrunch.com/2026/11/17/uber-and-ziplines-drone-delivery-service-takes-off-in-texas-with-dozens-of-cities-to-follow/
+
+2. *Meta launches Direct, a standalone messaging app for Instagram* (TechCrunch)
+Direct is launching in Turkey and Thailand, and can be used with or without an Instagram account.
+https://techcrunch.com/2026/11/17/meta-launches-direct-a-standalone-messaging-app-for-instagram/
+
+3. *Voyage Labs raises $12 million for a specialized AI travel assistant* (TechCrunch)
+Planning a trip is a favorite demo for personal AI assistants: you can try it with Muse, or with Gemini or half a dozen other choices. But while most pitches use travel-planning as part of a general-p...
+https://techcrunch.com/2026/11/17/voyage-labs-raises-12-million-for-a-specialized-ai-travel-assistant/
+
+4. *Instagram’s new tool for creators targets unauthorized reposts and AI-modified videos* (TechCrunch)
+The announcement likely comes in response to creators' concerns over how easily original content can be copied and redistributed across social media platforms, especially considering how generative AI...
+https://techcrunch.com/2026/11/17/instagrams-new-tool-for-creators-targets-unauthorized-reposts-and-ai-modified-videos/
+
+5. *Isomorphic Labs raises $5B as it looks to take drug candidates to clinical trials* (TechCrunch)
+Isomorphic Labs, the AI drug-discovery platform that was spun out of Google’s DeepMind in 2021, has raised $5 Billion in a Series C funding round.
+https://techcrunch.com/2026/11/17/isomorphic-labs-raises-5b-as-it-looks-to-take-drug-candidates-to-clinical-trials/
+
+6. *Science Corporation’s brain tech is worth $3.5 billion after new funding* (TechCrunch)
+Science Corp raised a $400 million Series D to scale up its anti-blindness business.
+https://techcrunch.com/2026/11/17/science-corporations-brain-tech-is-worth-3-5-billion-after-new-funding/
+
+7. *Nvidia’s first big move after Jensen Huang’s exit targets national security* (TechCrunch)
+The new standing committee will give board-level oversight of national security policies, export control compliance, and global trade risks, the company said.
+https://techcrunch.com/2026/11/17/nvidias-first-big-move-after-jensen-huangs-exit-targets-national-security/
+
+8. *Spotify’s new tool aims to stop deepfakes from being attributed to real artists* (TechCrunch)
+The update comes as Billboard reported last month that Sony Music had requested the removal of more than 260,000 deepfake songs from digital platforms, nearly double the number the label disclosed in...
+https://techcrunch.com/2026/11/17/spotifys-new-tool-aims-to-stop-deepfakes-from-being-attributed-to-real-artists/
+
+9. *Genesis AI raises $500 million to deploy glove-wearing robots* (TechCrunch)
+Genesis AI's novel approach to training dexterous robots earned it $500 million in Series A funding.
+https://techcrunch.com/2026/11/17/genesis-ai-raises-500-million-to-deploy-electric-glove-wearing-robots/
+
+10. *Upside Foods can now make a million pounds of chicken a year without killing any animals* (TechCrunch)
+The first ever lab-grown hamburger cost $300,000 to make in 2013. Upside Foods says its cultivated chicken can now match the price range of “really high quality organic chicken."
+https://techcrunch.com/2026/11/17/upside-foods-can-now-make-one-million-pounds-of-chicken-each-year-without-killing-a-single-animal/
+
+11. *Hank Green is self-funding ClockwiseTV, a curated educational video platform for kids* (TechCrunch)
+Alongside CEO Leslie Morgan, Hank Green set out to create the video platform he wished his kid had.
+https://techcrunch.com/2026/11/17/hank-green-is-self-funding-clockwisetv-a-curated-educational-video-platform-for-kids/
+
+12. *Cybersecurity AI startup Corma reaches $1B valuation in about 3 months* (TechCrunch)
+Three months since introducing its product, AI cybersecurity startup Corba has raised a $125 million Series A at a $1 billion valuation led by NEA.
+https://techcrunch.com/2026/11/16/cybersecurity-ai-startup-corma-reaches-1b-valuation-in-about-3-months/
+
+13. *Cyber giant Infoblox confirms security incident after hackers access ‘company information’* (TechCrunch)
+The cybersecurity and automation giant said it's working with outside investigators to understand the scale of the breach.
+https://techcrunch.com/2026/11/16/cyber-giant-infoblox-confirms-security-incident-after-hackers-access-company-information/
+
+14. *All the questions Nvidia should answer on Tuesday — but probably won’t* (TechCrunch)
+Nvidia interim CEO and longtime CFO Colette Kress is about to have one of the biggest days of her career on Tuesday when the company reports its third-quarter results. Given the turmoil Nvidia is in,...
+https://techcrunch.com/2026/11/16/all-the-questions-nvidia-should-answer-on-tuesday-but-probably-wont/
+
+15. *Apple reveals new Mac security controls as AI agents raise privacy risks* (TechCrunch)
+Following an October announcement, Apple has detailed new permission controls, warnings, and transparency features coming to macOS 27.3 to address risks posed by AI agents and other apps.
+https://techcrunch.com/2026/11/16/apple-reveals-new-mac-security-controls-as-ai-agents-raise-privacy-risks/
+
+16. *California state AG sues OpenAI over rogue agent incidents* (TechCrunch)
+The California lawsuit represents one of the first attempts to hold an AI lab legally accountable for a rogue agent incident.
+https://techcrunch.com/2026/11/16/california-state-ag-sues-openai-over-rogue-agent-incidents/
+
+17. *Uber says hackers stole information on close to 150,000 driver’s licenses during data breach* (TechCrunch)
+The ride-sharing giant said driver's license information stored by AI cloud company Fireworks AI was stolen during a security incident.
+https://techcrunch.com/2026/11/16/uber-confirms-hackers-stole-thousands-of-drivers-license-information-in-data-breach/
+
+18. *Apple adds ‘face unlock’ to the iPhone Duo, but it’s not Face ID* (TechCrunch)
+Apple's latest iOS 27.3 developer beta introduces a limited face unlock feature for the iPhone Duo, alongside other improvements.
+https://techcrunch.com/2026/11/16/apple-adds-face-unlock-to-the-iphone-duo-but-its-not-face-id/
+
+19. *Trump says ex-Nvidia CEO Jensen Huang’s affair with an alleged Chinese spy did not threaten national security* (TechCrunch)
+Trump contradicted his own government's intelligence officials, who reportedly concluded that Alice Huang is a Chinese spy.
+https://techcrunch.com/2026/11/16/trump-says-ex-nvidia-ceo-jensen-huangs-affair-with-an-alleged-chinese-spy-did-not-threaten-national-security/
+
+20. *Island is a new screen-time app that turns staying off your phone into a game* (TechCrunch)
+YC-backed Island turns screen time goals into a farming game, rewarding users with new crops, animals, and more when they stick to their limits.
+https://techcrunch.com/2026/11/16/island-is-a-new-screen-time-app-that-turns-staying-off-your-phone-into-a-game/
+
+🛠️ أدوات وتحديثات جديدة
+
+1. *California takes OpenAI to court* (The Rundown AI)
+PLUS: Make your AI usage go further with these tips
+https://therundownai.beehiiv.com/p/california-takes-openai-to-court
