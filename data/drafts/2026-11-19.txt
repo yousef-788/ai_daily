@@ -1,0 +1,89 @@
+🗞️ AI Daily — 2026-11-19
+
+📰 أخبار الذكاء الاصطناعي
+
+1. *Anthropic’s IPO puts AI’s circular financing boom to the test* (TechCrunch)
+Anthropic faces enormous compute commitments as it goes public, but its biggest infrastructure partners, including Amazon and Google, could continue profiting from AI even if Anthropic loses its lead.
+https://techcrunch.com/2026/11/19/anthropics-ipo-puts-ais-circular-financing-boom-to-the-test/
+
+2. *Nimble enters the item-tracking market with eco-friendly luggage tags and keychains* (TechCrunch)
+As Google takes on Apple in the item-tracking market, Nimble is hoping its trackable wallets, keychains, luggage tags, and passport covers stand out.
+https://techcrunch.com/2026/11/19/nimble-enters-the-item-tracking-market-with-eco-friendly-luggage-tags-and-keychains/
+
+3. *Superhuman pushes its Go assistant everywhere* (TechCrunch)
+Superhuman is making Go its central agent and making it available in Docs and Mail
+https://techcrunch.com/2026/11/19/superhuman-pushes-its-go-assistant-everywhere/
+
+4. *Microsoft CEO Satya Nadella explains why he asked 60K employees to quit* (TechCrunch)
+Microsoft CEO Satya Nadella explained why he offered buyouts to 60,000 of his employees in October, essentially urging them to voluntarily quit, rather than reducing the workforce via another massive...
+https://techcrunch.com/2026/11/18/microsoft-ceo-satya-nadella-explains-why-he-asked-60k-employees-to-quit/
+
+5. *Elon Musk says: ‘I’m not MAGA’* (TechCrunch)
+During his appearance Wednesday at The New York Times' DealBook Summit, Elon Musk said that he wasn't sure what the term "MAGA" meant and also commented that he felt "pretty foolish" for having spent...
+https://techcrunch.com/2026/11/18/elon-musk-says-im-not-maga/
+
+6. *Amidst fears of AI cyberattacks, Satya Nadella says lots of critical infrastructure is ‘unpatchable’* (TechCrunch)
+The Microsoft CEO downplayed the recent Outlook outage while noting that AI was causing both opportunities and new challenges for securing much of the connected world.
+https://techcrunch.com/2026/11/18/amidst-fears-of-ai-cyberattacks-satya-nadella-says-lots-of-critical-infrastructure-is-unpatchable/
+
+7. *Elon Musk says ousting Jensen Huang is like ‘kicking Michael Jordan off your team’* (TechCrunch)
+“I don’t think [Huang is] disloyal to the United States," Musk said.
+https://techcrunch.com/2026/11/18/elon-musk-says-ousting-jensen-huang-is-like-kicking-michael-jordan-off-your-team/
+
+8. *Microsoft CEO Satya Nadella remains confident in Nvidia after Huang’s exit* (TechCrunch)
+Microsoft CEO Satya Nadella expressed confidence in Jensen Huang's successor Colette Kress, who is serving as Nvidia's interim CEO.
+https://techcrunch.com/2026/11/18/microsoft-ceo-satya-nadella-remains-confident-in-nvidia-after-huangs-exit/
+
+9. *Satya Nadella predicts AI agents will reshuffle the economics of the web* (TechCrunch)
+Microsoft's CEO says AI agents could disrupt advertising-driven business models, forcing companies like Amazon to rethink how they compete for customers.
+https://techcrunch.com/2026/11/18/satya-nadella-predicts-ai-agents-will-reshuffle-the-economics-of-the-web/
+
+10. *Anthropic prices IPO at $83 a share, above projected range* (TechCrunch)
+The long-awaited IPO reportedly values the company at $1.5 trillion on a fully diluted basis.
+https://techcrunch.com/2026/11/18/anthropic-reportedly-prices-ipo-at-83-a-share-above-projected-range/
+
+11. *Palmer Luckey doesn’t deny that he’s a prepper* (TechCrunch)
+The Anduril founder said Wednesday that Americans should always have three days of food, water, and medicine — just in case.
+https://techcrunch.com/2026/11/18/palmer-luckey-doesnt-deny-that-hes-a-prepper/
+
+12. *Nvidia created a weird bit of intrigue by not filing a routine SEC report* (TechCrunch)
+One Wall Street analyst got to the bottom of Nvidia's surprise announcement that it wouldn't be filing its formal quarterly results document, the 10-Q, for weeks.
+https://techcrunch.com/2026/11/18/nvidia-created-a-weird-bit-of-intrigue-by-not-filing-a-routine-sec-report/
+
+13. *Palmer Luckey warns AI-powered cyberattacks are outpacing defenses: ‘It’s time to start running’* (TechCrunch)
+The Anduril co-founder says outdated technology is leaving systems vulnerable to a new wave of AI-enabled attacks.
+https://techcrunch.com/2026/11/18/palmer-luckey-warns-ai-powered-cyberattacks-are-outpacing-defenses-its-time-to-start-running/
+
+14. *Palmer Luckey thinks China is ‘thrilled to have Jensen out,’ so he wants the ousted Nvidia CEO reinstated* (TechCrunch)
+"It makes America weaker to knock him out," the Anduril CEO said about ousted Nvidia leader Jensen Huang.
+https://techcrunch.com/2026/11/18/palmer-luckey-thinks-china-is-thrilled-to-have-jensen-out-so-he-wants-the-ousted-nvidia-ceo-reinstated/
+
+15. *Sam Altman says his life is so weird that he’s unfazed by Andrew Garfield portraying him in upcoming movie* (TechCrunch)
+"It doesn't feel like it's in like the top 10 weirdest things about my life," Altman said.
+https://techcrunch.com/2026/11/18/sam-altman-says-his-life-is-so-weird-that-hes-unfazed-by-andrew-garfield-portraying-him-in-upcoming-movie/
+
+16. *Snapchat now lets developers build AR Lenses with AI assistants like Claude Code and Cursor* (TechCrunch)
+Lens creators can describe the Lens they want in plain language, and their AI assistant handles the process from start to finish, Snapchat says.
+https://techcrunch.com/2026/11/18/snapchat-now-lets-developers-build-ar-lenses-with-ai-coding-assistants-like-claude-code-and-cursor/
+
+17. *Spend management platform Payhawk announces $280M raise, 2B valuation* (TechCrunch)
+Founded in 2018, Payhawk is an enterprise financial management platform that helps companies track and manage expenses and procurement using AI agents.
+https://techcrunch.com/2026/11/18/spend-management-platform-payhawk-announces-280m-raise-2b-valuation/
+
+18. *Google’s AI feature in Search gets its own incognito mode* (TechCrunch)
+Google's new temporary threads let users have conversations in AI Mode without adding them to their search history or influencing future recommendations.
+https://techcrunch.com/2026/11/18/googles-ai-feature-in-search-gets-its-own-incognito-mode/
+
+19. *More banks say customers using AI agents are on their own — even if they get hacked* (TechCrunch)
+Citi is the latest major financial institution to put the breaks on personal finance AI agents.
+https://techcrunch.com/2026/11/18/more-banks-says-customers-using-ai-agents-are-on-their-own-even-if-they-get-hacked/
+
+20. *David Ellison says HBO will air critical Elon Musk documentary despite his $1B investment in Skydance* (TechCrunch)
+Following news of the investment, questions emerged over how Musk's sizable stake in the company might affect Skydance's plans to distribute a documentary that is highly critical of him.
+https://techcrunch.com/2026/11/18/david-ellison-says-hbo-will-air-critical-elon-musk-documentary-despite-1b-investment-in-skydance/
+
+🛠️ أدوات وتحديثات جديدة
+
+1. *Google’s shipping spree continues with Neon* (The Rundown AI)
+PLUS: Use AI to rework your LinkedIn profile
+https://therundownai.beehiiv.com/p/google-shipping-spree-continues-with-neon
