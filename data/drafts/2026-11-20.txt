@@ -1,0 +1,89 @@
+🗞️ AI Daily — 2026-11-20
+
+📰 أخبار الذكاء الاصطناعي
+
+1. *Six AI-powered gadgets that could make your home office smarter* (TechCrunch)
+From notetakers to webcams, here are six AI-powered gadgets to upgrade your workspace.
+https://techcrunch.com/2026/11/20/6-ai-powered-gadgets-that-could-make-your-home-office-smarter/
+
+2. *Behind Jensen Huang’s exit, questions about a management style reportedly built on fear* (TechCrunch)
+Elon Musk may have been overstating it when he said Nvidia’s employees “love” the ousted Jensen Huang.
+https://techcrunch.com/2026/11/20/behind-jensen-huangs-exit-questions-about-a-management-style-reportedly-built-on-fear/
+
+3. *California AG subpoenas Nvidia over worries about Huang’s ties with China* (TechCrunch)
+"The conduct of Nvidia and its former CEO raises bright red flags, including about the ways in which the company may have misled investors," California AG Rob Bonta said.
+https://techcrunch.com/2026/11/20/california-ag-subpoenas-nvidia-over-worries-about-huangs-ties-with-china/
+
+4. *The U.S. national cyber director is stepping down* (TechCrunch)
+The news comes as businesses across the country report a flurry of technical outages, the causes of which are still unknown.
+https://techcrunch.com/2026/11/20/the-u-s-national-cyber-director-is-stepping-down/
+
+5. *Apple may be developing its own AI agent that runs your Mac* (TechCrunch)
+The iPhone maker appears to be building agents that can compete with the likes of Meta Muse, Instinct, Claude, and OpenAI Dots.
+https://techcrunch.com/2026/11/19/apple-may-be-developing-its-own-ai-agent-that-runs-your-mac/
+
+6. *Anthropic’s 7 founders cashed out nearly $2B in record-breaking IPO* (TechCrunch)
+At the upgraded $83/share IPO price, Anthropic's seven founders each pocketed $280 million, while the company nabbed nearly $105 billion.
+https://techcrunch.com/2026/11/19/anthropics-7-founders-cashed-out-nearly-2b-in-record-breaking-ipo/
+
+7. *Anthropic rival says companies can (mostly) skip the pricey models* (TechCrunch)
+On the day Anthropic went public, Fireworks AI’s co-founder made the case for open source models as a cheaper alternative, and addressed the breaches that have cost the company some customers’ trust.
+https://techcrunch.com/2026/11/19/anthropic-rival-says-companies-can-mostly-skip-the-pricey-models/
+
+8. *Elon Musk says SpaceX has a plan to eliminate cell phone dead zones* (TechCrunch)
+SpaceX CEO Elon Musk said the company has completed the design of a miniature rooftop cell tower that could provide better coverage to mobile phones and eliminate dead zones.
+https://techcrunch.com/2026/11/19/elon-musk-says-spacex-has-a-plan-to-eliminate-cell-phone-dead-zones/
+
+9. *Want to see your live AI usage on your Mac’s icons? This clever new app lets you* (TechCrunch)
+IconSwapper brings your Mac's app icons to life with real-time data, animations, and playful customizations that make your desktop more fun.
+https://techcrunch.com/2026/11/19/want-to-see-your-live-ai-usage-on-your-macs-icons-this-clever-new-app-lets-you/
+
+10. *Meta’s new Muse Charm device may cost $300* (TechCrunch)
+Meta hasn't denied the reporting from The Information, saying only that it will "have more to share soon" about its upcoming AI wearable.
+https://techcrunch.com/2026/11/19/metas-new-muse-charm-device-may-cost-300/
+
+11. *These tech outages are giving Y2K, AI agent style* (TechCrunch)
+Are the recent outages in the airline booking systems, banking platforms, and productivity platforms really a coincidence? There's actually likely something deeper going on, cybersecurity experts say.
+https://techcrunch.com/2026/11/19/these-tech-outages-are-giving-y2k-ai-agent-style/
+
+12. *Uber tests rides for kids as young as 10, with extra pay for drivers* (TechCrunch)
+Uber is testing the new program in three U.S. cities.
+https://techcrunch.com/2026/11/19/uber-tests-rides-for-kids-as-young-as-10-with-extra-pay-for-drivers/
+
+13. *The unfolding Jensen Huang scandal: a timeline* (TechCrunch)
+Jensen Huang has resigned from Nvidia following an affair, which could have ramifications for national security as the U.S. and China race to develop the most advanced AI infrastructure.
+https://techcrunch.com/2026/11/19/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/
+
+14. *Anthropic’s IPO could deliver $156B to charity* (TechCrunch)
+At a stock price of $95, the frontier lab's Public Benefit Foundation, its employee donations, and the company's match tot up to $156 billion.
+https://techcrunch.com/2026/11/19/anthropics-ipo-could-deliver-156-billion-to-charity/
+
+15. *Google gives Gemini the ability to use your Mac for you* (TechCrunch)
+Google's latest update to Gemini brings an AI agent to the Mac that can organize files, fill out forms, and tackle multistep workflows.
+https://techcrunch.com/2026/11/19/google-gives-gemini-the-ability-to-use-your-mac-for-you/
+
+16. *Meta’s AI agent Muse is mixing up conversations and could be exposing private data, report says* (TechCrunch)
+In some of these instances, employees said Muse surfaced messages about childcare requests they never made, career advice they never asked for, product orders they never placed, and bank account balan...
+https://techcrunch.com/2026/11/19/metas-ai-agent-muse-is-mixing-up-conversations-and-exposing-private-data-report-says/
+
+17. *Former Alibaba exec’s Everful raises $48.5M to connect retailers with Chinese factories* (TechCrunch)
+Everful has raised $48.5 million to expand its factory-direct sourcing platform, helping retailers source products from overseas manufacturers.
+https://techcrunch.com/2026/11/19/former-alibaba-execs-everful-raises-48-5m-to-connect-retailers-with-chinese-factories/
+
+18. *Anthropic hits Nasdaq exchanges at $111, 33% above IPO price* (TechCrunch)
+Anthropic's IPO price was set at $83, representing more than $80 billion in new capital raised.
+https://techcrunch.com/2026/11/19/anthropic-hits-nasdaq-exchanges-at-110-27-above-ipo-price/
+
+19. *At Nasdaq opening bell, Anthropic CEO recommits to pacing AI development* (TechCrunch)
+In his Nasdaq opening bell speech, Dario Amodei reiterated Anthropic's commitment to pacing AI development, regardless of business or political pressure.
+https://techcrunch.com/2026/11/19/at-nasdaq-opening-bell-anthropic-ceo-recommits-to-pacing-ai-development/
+
+20. *UK government forced to disclose secret Apple backdoor order* (TechCrunch)
+The U.K. tribunal's ruling rejected London's claim that disclosing the order would be damaging to national security.
+https://techcrunch.com/2026/11/19/u-k-government-forced-to-disclose-secret-apple-backdoor-order/
+
+🛠️ أدوات وتحديثات جديدة
+
+1. *Anthropic pulls off the biggest IPO ever* (The Rundown AI)
+PLUS: Use AI to find a job and prepare to get hired
+https://therundownai.beehiiv.com/p/anthropic-pulls-off-the-biggest-ipo-ever
