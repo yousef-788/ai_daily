@@ -1,0 +1,35 @@
+🗞️ AI Daily — 2026-11-21
+
+📰 أخبار الذكاء الاصطناعي
+
+1. *Startup sues Apple in India over tap-to-share contacts feature* (TechCrunch)
+A U.S. startup is seeking $162 million in damages and an injunction to impact iPhone and Apple Watch imports to India.
+https://techcrunch.com/2026/11/20/startup-sues-apple-in-india-over-tap-to-share-contacts-feature/
+
+2. *Experts warn: Nearly everyone in AI is susceptible to a honey-trap scheme right now* (TechCrunch)
+Techies are building technology that can advance all aspects of the world — but can they protect their hearts? That's the vulnerability that honey pots exploit.
+https://techcrunch.com/2026/11/20/experts-warn-nearly-everyone-in-ai-is-susceptible-to-a-honey-trap-scheme-right-now/
+
+3. *Daniel Ek backs AI researcher’s fusion power startup. Here’s what they’re building.* (TechCrunch)
+Spotify founder Daniel Ek is backing Europa Fusion, a fusion power startup founded by an AI researcher. Here's what the startup is building.
+https://techcrunch.com/2026/11/20/daniel-ek-backs-ai-researchers-fusion-power-startup-heres-what-theyre-building/
+
+4. *AI claimed a solution to the 167-year-old Riemann hypothesis — and a human did, too* (TechCrunch)
+Mathematicians are having their minds blown by the latest AI-driven result — and there's a competing human solution, too.
+https://techcrunch.com/2026/11/20/ai-claimed-a-solution-to-the-167-year-old-riemann-hypothesis-and-a-human-did-too/
+
+5. *Super-hot rock geothermal could end data center energy woes* (TechCrunch)
+New geothermal startups are betting that they can leapfrog today's leaders to deliver terawatts of electricity nearly anywhere.
+https://techcrunch.com/2026/11/20/super-hot-rock-geothermal-could-end-data-center-energy-woes/
+
+6. *Chips can survive the space environment — can their financing?* (TechCrunch)
+Lenders don't want SpaceX shooting their collateral into orbit. What does that mean for space data centers writ large?
+https://techcrunch.com/2026/11/20/chips-can-survive-the-space-environment-can-their-financing/
+
+7. *Bending Spoons buys Mailchimp for $3.68B* (TechCrunch)
+Intuit acquired the company in 2021 for roughly $12 billion, so it looks like Bending Spoons is getting quite a bargain.
+https://techcrunch.com/2026/11/20/bending-spoons-buys-mailchimp-for-3-68-billion/
+
+8. *A transcription firm used by police, prosecutors, and tech giants exposed customer data online* (TechCrunch)
+Exclusive: A simple security lapse exposed transcriptions of police interviews and bodycam footage on a cloud server without a password.
+https://techcrunch.com/2026/11/20/a-transcription-firm-used-by-police-prosecutors-and-tech-giants-exposed-customer-data-online/
