@@ -1,0 +1,77 @@
+🗞️ AI Daily — 2026-11-23
+
+📰 أخبار الذكاء الاصطناعي
+
+1. *Amazon snaps up Decart’s AI optimization tech for $7.5B as it prepares to sell Trainium chips* (TechCrunch)
+Amazon is acquiring Decart’s AI optimization technology and research team in a reported $7.5 billion deal.
+https://techcrunch.com/2026/11/23/amazon-snaps-up-decarts-ai-optimization-tech-for-7-5b-as-it-prepares-to-sell-trainium-chips/
+
+2. *Meta throws out its net-zero goal. Its competitors should be furious* (TechCrunch)
+Meta walked back its 2030 net zero goal in its 2026 sustainability report, a decision that could send ripples throughout the tech industry.
+https://techcrunch.com/2026/11/23/meta-throws-out-its-net-zero-goal-its-competitors-should-be-furious/
+
+3. *Jensen Huang isn’t out of the woods yet* (TechCrunch)
+It’s safe to say no one expected this. Monday morning, Jensen Huang returned as CEO of Nvidia, after resigning the position following news of multiple affairs, including one with a subordinate and one...
+https://techcrunch.com/2026/11/23/jensen-huang-isnt-out-of-the-woods-yet/
+
+4. *Trump reportedly called into Nvidia board meeting to advocate for Huang’s return* (TechCrunch)
+"I spoke to them, let me put it that way... And I convinced them," the president told CNBC.
+https://techcrunch.com/2026/11/23/trump-reportedly-called-into-nvidia-board-meeting-to-advocate-for-huangs-return/
+
+5. *CrowdStrike to acquire Zscaler for $44 billion* (TechCrunch)
+The cybersecurity giant said that the deal to buy Zscaler, which provides zero-trust products to large enterprises, will better equip their customers to use AI agents.
+https://techcrunch.com/2026/11/23/crowdstrike-to-acquire-zscaler-for-44-billion/
+
+6. *Dutch privacy authority urges consumers not to buy ‘pervert glasses’* (TechCrunch)
+The Netherlands' data protection agency said smart wearables violate people's privacy, get information wrong, and can result in unsafe situations.
+https://techcrunch.com/2026/11/23/dutch-privacy-authority-urges-consumers-not-to-buy-pervert-glasses/
+
+7. *Trump endorses Jensen Huang’s return to Nvidia, says US has no evidence of wrongdoing* (TechCrunch)
+The president cited the U.S. attorney general in defending Huang's return, while urging Nvidia to continue its export-control investigation.
+https://techcrunch.com/2026/11/23/trump-endorses-jensen-huangs-return-to-nvidia-says-us-has-no-evidence-of-wrongdoing/
+
+8. *Sierra doubles valuation to $30B within six months as demand for AI in CX takes off* (TechCrunch)
+Enterprise customer experience company Sierra, co-founded by former Salesforce co-CEO Bret Taylor, said on Monday that it has raised $1.75 billion in a Series F round.
+https://techcrunch.com/2026/11/23/sierra-doubles-valuation-to-30b-within-six-months-as-demand-for-ai-in-cx-takes-off/
+
+9. *Nvidia reverses course and brings Jensen Huang back as CEO* (TechCrunch)
+The stunning reversal was supported by senior officials in the U.S. government.
+https://techcrunch.com/2026/11/23/nvidia-reverses-course-and-brings-jensen-huang-back-as-ceo/
+
+10. *Uber now lets you book rides that record the drive by default* (TechCrunch)
+The option, which uses the front camera of the Uber driver's phone to record the entire drive, will show up as "Recorded Rides" in the app.
+https://techcrunch.com/2026/11/23/uber-now-lets-you-book-rides-that-record-the-drive-by-default/
+
+11. *How Notable Capital, GIC, and Baillie Gifford bet big on Anthropic before its IPO* (TechCrunch)
+Three significant backers share what gave them conviction to bet billions on Anthropic.
+https://techcrunch.com/2026/11/22/how-notable-capital-gic-and-baillie-gifford-bet-big-on-anthropic-before-its-ipo/
+
+12. *‘You Can See Everything’ has made more than $100M worldwide* (TechCrunch)
+The new Elizabeth Holmes documentary is just beginning to roll out internationally.
+https://techcrunch.com/2026/11/22/you-can-see-everything-has-made-more-than-100m-worldwide/
+
+13. *OpenAI’s chief scientist has thoughts on how to limit AI development* (TechCrunch)
+To establish a speed limit on AI development, you need to agree on how to measure speed.
+https://techcrunch.com/2026/11/22/openais-chief-scientist-has-thoughts-on-how-to-limit-ai-development/
+
+14. *The best apps to make new friends right now* (TechCrunch)
+We've compiled a list of friendship apps, from friend discovery platforms like BFF to event-focused ones like Timeleft.
+https://techcrunch.com/2026/11/22/as-people-look-for-ways-to-make-new-friends-here-are-the-apps-promising-to-help/
+
+15. *Why data centers are at the center of the Big Tech backlash* (TechCrunch)
+Journalist Paris Marx unpacks his new book "Hyperscale."
+https://techcrunch.com/2026/11/22/why-data-centers-are-at-the-center-of-the-big-tech-backlash/
+
+16. *TechCrunch Mobility: A/B testing robots vs. humans* (TechCrunch)
+Welcome back to TechCrunch Mobility, your hub for the future of transportation and, now more than ever, the role AI is playing in it.
+https://techcrunch.com/2026/11/22/techcrunch-mobility-a-b-testing-robots-vs-humans/
+
+17. *Can a TV be too large? An investigation* (TechCrunch)
+Can a TV be too large? This writer's recent upgrade to a 65-inch OLED came with some unexpected challenges.
+https://techcrunch.com/2026/11/22/can-a-tv-be-too-large-an-investigation/
+
+🛠️ أدوات وتحديثات جديدة
+
+1. *Claude helps solve math's biggest open problem* (The Rundown AI)
+PLUS: Test Gemini 4 Neon on finding billing errors
+https://therundownai.beehiiv.com/p/claude-helps-solve-math-s-biggest-open-problem
