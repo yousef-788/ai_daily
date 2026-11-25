@@ -1,0 +1,77 @@
+🗞️ AI Daily — 2026-11-25
+
+📰 أخبار الذكاء الاصطناعي
+
+1. *Allstate suffers multi-day tech outage ahead of Thanksgiving* (TechCrunch)
+The disruption comes at a particularly bad time for the insurance giant, as millions of Americans prepare to travel for the Thanksgiving holiday weekend.
+https://techcrunch.com/2026/11/25/allstate-suffers-multi-day-tech-outage-ahead-of-thanksgiving/
+
+2. *Todoist confirms 6% of customers’ details were stolen in data breach* (TechCrunch)
+Todoist said a hacker gained access to its production systems and stole customer data, including email IDs, password hashes, and account creation dates.
+https://techcrunch.com/2026/11/25/todoist-confirms-6-of-customers-details-were-stolen-in-data-breach/
+
+3. *Amazon and Meta reportedly in talks to lift blockade on AI agent Muse* (TechCrunch)
+Amazon and Meta are discussing a potential deal that would end a two-month-long blockade of Muse.
+https://techcrunch.com/2026/11/25/amazon-and-meta-reportedly-in-talks-to-lift-blockade-on-ai-agent-muse/
+
+4. *Flipkart CEO Kalyan Krishnamurthy to step down next week amid IPO uncertainty* (TechCrunch)
+Flipkart's product and technology chief Balaji Thiagarajan will lead the company alongside its board until a successor is found.
+https://techcrunch.com/2026/11/25/flipkart-ceo-kalyan-krishnamurthy-to-step-down-next-week-amid-ipo-uncertainty/
+
+5. *The questions Jensen Huang and Nvidia will still have to answer about Megaspeed* (TechCrunch)
+Huang still faces questions from Congress and his own board about his romantic relationship with an alleged chip smuggler.
+https://techcrunch.com/2026/11/25/the-questions-jensen-huang-and-nvidia-will-still-have-to-answer-about-megaspeed/
+
+6. *Yale’s Sonnenfeld: Nvidia is a ‘detriment’ to US industrial might — not a champion* (TechCrunch)
+Yale's Jeffrey Sonnenfeld warns that what the market cheered Monday, Jensen Huang's White House–backed return as Nvidia's CEO and board member, could prove a giant mistake, exposing the directors to "...
+https://techcrunch.com/2026/11/24/yales-sonnenfeld-nvidia-is-a-detriment-to-u-s-industrial-might-not-a-champion/
+
+7. *Trump reportedly says pardoning Jensen Huang is ‘an option’* (TechCrunch)
+Huang faces ongoing questions about his relationship with Alice Huang, an executive with alleged ties to Chinese intelligence who previously worked for a company that has been accused of illegally div...
+https://techcrunch.com/2026/11/24/trump-reportedly-says-pardoning-jensen-huang-is-an-option-but-that-he-doesnt-think-it-will-be-necessary/
+
+8. *Jensen Huang still thinks a succession plan creates unnecessary hierarchy* (TechCrunch)
+It's a remarkable stance for a company that spent the last two weeks finding out what happens without its founder.
+https://techcrunch.com/2026/11/24/jensen-huang-still-thinks-a-succession-plan-creates-unnecessary-hierarchy/
+
+9. *In all-hands meeting, Jensen Huang thanks White House and says he’s in therapy* (TechCrunch)
+The Nvidia founder apologized to his staff on Tuesday and said he was grateful for a second chance to lead the company.
+https://techcrunch.com/2026/11/24/in-all-hands-meeting-jensen-huang-thanks-white-house-and-says-hes-in-therapy/
+
+10. *Even the best AI agents struggle with everyday life* (TechCrunch)
+As millions embrace personal AI assistants, a new benchmark reveals that even the most advanced AI models struggle to complete everyday tasks reliably and safely without introducing potential new prob...
+https://techcrunch.com/2026/11/24/even-the-best-ai-agents-struggle-with-everyday-life/
+
+11. *Walmart teams up with Meta to bring Black Friday deals to AI agent Muse* (TechCrunch)
+Walmart now lets customers shop Black Friday deals through Muse, Meta’s AI agent.
+https://techcrunch.com/2026/11/24/walmart-teams-up-with-meta-to-bring-black-friday-deals-to-ai-agent-muse/
+
+12. *Maple raises $5.3M to build AI products that protect your data, even from itself* (TechCrunch)
+The startup's encrypted AI architecture is designed to prevent even the company itself from accessing users' private data.
+https://techcrunch.com/2026/11/24/maple-raises-5-3m-to-build-ai-products-that-protect-your-data-even-from-itself/
+
+13. *Dozens of oil and shipping tankers hacked in recent weeks, per report* (TechCrunch)
+Iran is the chief suspect behind the dozens of cyberattacks targeting oil and chemical shipping vessels.
+https://techcrunch.com/2026/11/24/dozens-of-oil-and-shipping-tankers-hacked-in-recent-weeks-per-report/
+
+14. *Anthropic shares fall below IPO price, a worrying sign for AI startups* (TechCrunch)
+Anthropic’s post-IPO slump could put pressure on AI startup valuations.
+https://techcrunch.com/2026/11/24/anthropic-shares-fall-below-ipo-price-a-worrying-sign-for-ai-startups/
+
+15. *UK warns AI-driven cyberattacks are exposing years of weak security* (TechCrunch)
+The British cyber agency says that "building strong foundations has never mattered more" as AI hacking tools rely on exploiting simple security flaws.
+https://techcrunch.com/2026/11/24/uk-warns-ai-driven-cyberattacks-are-exposing-years-of-weak-security/
+
+16. *Threads comes to iPad and takes a page from X’s playbook with cashtags* (TechCrunch)
+The addition of live stock quotes and charts could help Threads attract the financial community that has historically relied on X.
+https://techcrunch.com/2026/11/24/threads-comes-to-ipad-and-takes-a-page-from-xs-playbook-with-cashtags/
+
+17. *Electric truck startup Harbinger gets financing boost from Palmer Luckey’s bank* (TechCrunch)
+Harbinger has tapped Palmer Luckey's Erebor Bank as a new source of capital as the electric truck startup looks to diversify how it funds its growth.
+https://techcrunch.com/2026/11/24/electric-truck-startup-harbinger-gets-financing-boost-from-palmer-luckeys-bank/
+
+🛠️ أدوات وتحديثات جديدة
+
+1. *Three xAI founders want AI to predict the future* (The Rundown AI)
+PLUS: How to put Microsoft Copilot to work
+https://therundownai.beehiiv.com/p/three-xai-founders-want-ai-to-predict-the-future
