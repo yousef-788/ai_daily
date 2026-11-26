@@ -1,0 +1,61 @@
+🗞️ AI Daily — 2026-11-26
+
+📰 أخبار الذكاء الاصطناعي
+
+1. *As Anthropic IPOs, Grand Theft Auto VI proves why efficiency isn’t a virtue* (TechCrunch)
+On the same day that Anthropic entered the public market, a painstakingly human video game became one of most successful entertainment launches of all time.
+https://techcrunch.com/2026/11/26/as-anthropic-ipos-grand-theft-auto-vi-proves-why-efficiency-isnt-a-virtue/
+
+2. *S&P considers Nvidia credit downgrade over governance and ‘key man’ risks* (TechCrunch)
+The credit rating agency may lower Nvidia's credit rating to AA-, the fourth-highest rating.
+https://techcrunch.com/2026/11/25/sp-considers-nvidia-credit-downgrade-over-governance-and-key-man-risks/
+
+3. *FCC approves SpaceX plan to put AI data centers in space* (TechCrunch)
+The FCC dismissed some of the key concerns raised by opponents, including potential threats to scientific research, because the agency determined they fell outside its regulatory authority.
+https://techcrunch.com/2026/11/25/fcc-approves-spacex-plan-to-put-ai-data-centers-in-space/
+
+4. *OpenAI says heavy ChatGPT users may hit limits sooner as it merges Chat and Work* (TechCrunch)
+OpenAI will introduce a single usage meter across ChatGPT as it combines the Chat and Work experiences.
+https://techcrunch.com/2026/11/25/openai-says-heavy-chatgpt-users-may-hit-limits-sooner-as-it-merges-chat-and-work/
+
+5. *Jensen Huang broke Nvidia’s code of conduct, and his employees may not forget it* (TechCrunch)
+Most codes of conduct serve as a reflection of corporate culture. In Nvidia's case, that could have consequences.
+https://techcrunch.com/2026/11/25/jensen-huang-broke-nvidias-code-of-conduct-and-his-employees-may-not-forget-it/
+
+6. *The canceled Tesla Cybertruck is the fastest-selling used truck in America* (TechCrunch)
+The Tesla Cybertruck was the fastest-selling used truck last month, averaging just 39.1 days on the market compared to 65.5 days for trucks overall.
+https://techcrunch.com/2026/11/25/the-canceled-tesla-cybertruck-is-the-fastest-selling-used-truck-in-america/
+
+7. *Anthropic’s Dario Amodei calls accusations of surrendering human control to AI ‘absurd’* (TechCrunch)
+Anthropic CEO Dario Amodei pushes back against rivals’ accusations that he favors surrendering human agency to AI, even as leading AI companies increasingly automate their own research and model devel...
+https://techcrunch.com/2026/11/25/anthropics-dario-amodei-calls-accusations-of-surrendering-human-control-to-ai-absurd/
+
+8. *1Password said hackers broke into its internal systems, but customer passwords are safe* (TechCrunch)
+The password manager maker said an attacker gained access to an employee's corporate account and took some information about customers.
+https://techcrunch.com/2026/11/25/1password-said-hackers-broke-into-its-internal-systems-but-customer-passwords-are-safe/
+
+9. *Want to buy your kid an AI toy this Christmas? Not in New York* (TechCrunch)
+New York has banned AI chatbot toys for five years as new research from Common Sense Media reveals troubling safety failures, including exposure to inappropriate content and risks to emotional develop...
+https://techcrunch.com/2026/11/25/want-to-buy-your-kid-an-ai-toy-this-christmas-not-in-new-york/
+
+10. *DOJ accuses former cyber executive of defrauding ransomware victims by secretly paying hackers* (TechCrunch)
+U.S. prosecutors accused the former executive of defrauding victims of ransomware by paying the hackers, charging victims more, and pocketing the difference.
+https://techcrunch.com/2026/11/25/doj-accuses-former-cyber-executive-of-defrauding-ransomware-victims-by-secretly-paying-hackers/
+
+11. *Character.AI’s plan to auction off users’ private chats challenged by state AGs* (TechCrunch)
+The proposed Character.ai bankruptcy sale includes sensitive personal data from more than 21 million U.S. accounts, including 2.1 million registered to minors, the state AGs said.
+https://techcrunch.com/2026/11/25/state-ags-fight-character-ais-plan-to-auction-off-users-private-chats/
+
+12. *X’s latest update for creators focuses on vertical video* (TechCrunch)
+As short-form video ramps up in popularity, X's new creation tools are part of its effort to compete with YouTube and Instagram.
+https://techcrunch.com/2026/11/25/xs-latest-update-for-creators-focuses-on-vertical-video/
+
+13. *WhatsApp now lets you schedule messages in group and individual chats* (TechCrunch)
+Users can schedule messages from 10 minutes later to after 14 days.
+https://techcrunch.com/2026/11/25/whatsapp-now-lets-you-schedule-messages-in-group-and-individual-chats/
+
+🛠️ أدوات وتحديثات جديدة
+
+1. *Your AI cheat sheet for Thanksgiving dinner* (The Rundown AI)
+PLUS: Use Gemini Tasks to hunt for Black Friday prices
+https://therundownai.beehiiv.com/p/your-ai-cheat-sheet-for-thanksgiving-dinner
